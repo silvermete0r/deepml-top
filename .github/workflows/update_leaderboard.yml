@@ -26,14 +26,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
-
-      - name: Setup Chrome
-        uses: browser-actions/setup-chrome@v1
-
-      - name: Install Chrome WebDriver
-        run: |
-          python -c "from selenium import webdriver; from webdriver_manager.chrome import ChromeDriverManager; from selenium.webdriver.chrome.service import Service; ChromeDriverManager().install()"
-
+          
       - name: Run leaderboard update script
         run: python main.py
 
@@ -43,4 +36,4 @@ jobs:
           git config --global user.email "actions@github.com"
           git add -f README.MD leaderboard.csv badges.json
           git commit -m "Automated leaderboard update" || exit 0
-          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/silvermete0r/deepml-top.git HEAD:main
+          git push
