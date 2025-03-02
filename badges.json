@@ -1,500 +1,600 @@
 {
     "Stoatscript": {
+        "label": "#1 | Stoatscript",
         "rank": "1",
         "score": "2\u00a0640",
         "username": "Stoatscript"
     },
     "M%C3%A1rcio%20Pereira": {
+        "label": "#2 | M\u00e1rcio Pereira",
         "rank": "2",
         "score": "2\u00a0265",
         "username": "M\u00e1rcio Pereira"
     },
     "Marco%20Cheng": {
+        "label": "#3 | Marco Cheng",
         "rank": "3",
         "score": "2\u00a0175",
         "username": "Marco Cheng"
     },
     "callrmshetty": {
+        "label": "#4 | callrmshetty",
         "rank": "4",
         "score": "1\u00a0985",
         "username": "callrmshetty"
     },
     "Qiujiang%20Jin": {
+        "label": "#5 | Qiujiang Jin",
         "rank": "5",
         "score": "1\u00a0810",
         "username": "Qiujiang Jin"
     },
     "Kyle%20Zhou": {
+        "label": "#6 | Kyle Zhou",
         "rank": "6",
         "score": "1\u00a0805",
         "username": "Kyle Zhou"
     },
     "747893812": {
+        "label": "#7 | 747893812",
         "rank": "7",
         "score": "1\u00a0725",
         "username": "747893812"
     },
     "tanghaibao": {
+        "label": "#8 | tanghaibao",
         "rank": "8",
         "score": "1\u00a0695",
         "username": "tanghaibao"
     },
     "anian.ruoss": {
+        "label": "#9 | anian.ruoss",
         "rank": "9",
         "score": "1\u00a0655",
         "username": "anian.ruoss"
     },
     "Alper%20Karaca": {
+        "label": "#10 | Alper Karaca",
         "rank": "10",
         "score": "1\u00a0655",
         "username": "Alper Karaca"
     },
     "zhiheng%20xu": {
+        "label": "#11 | zhiheng xu",
         "rank": "11",
         "score": "1\u00a0610",
         "username": "zhiheng xu"
     },
     "Ma%20Al": {
+        "label": "#12 | Ma Al",
         "rank": "12",
         "score": "1\u00a0575",
         "username": "Ma Al"
     },
     "Niels%20van%20Galen%20Last": {
+        "label": "#13 | Niels van Galen Last",
         "rank": "13",
         "score": "1\u00a0570",
         "username": "Niels van Galen Last"
     },
     "Joe%20Chaoyue": {
+        "label": "#14 | Joe Chaoyue",
         "rank": "14",
         "score": "1\u00a0565",
         "username": "Joe Chaoyue"
     },
     "x15144067268": {
+        "label": "#15 | x15144067268",
         "rank": "15",
         "score": "1\u00a0560",
         "username": "x15144067268"
     },
     "Yi%20Zhang": {
+        "label": "#16 | Yi Zhang",
         "rank": "16",
         "score": "1\u00a0500",
         "username": "Yi Zhang"
     },
     "Siquan%20Wang": {
+        "label": "#17 | Siquan Wang",
         "rank": "17",
         "score": "1\u00a0470",
         "username": "Siquan Wang"
     },
     "Yao%20PU": {
+        "label": "#18 | Yao PU",
         "rank": "18",
         "score": "1\u00a0445",
         "username": "Yao PU"
     },
     "0x%20researcher": {
+        "label": "#19 | 0x researcher",
         "rank": "19",
         "score": "1\u00a0430",
         "username": "0x researcher"
     },
     "monamie.b": {
+        "label": "#20 | monamie.b",
         "rank": "20",
         "score": "1\u00a0425",
         "username": "monamie.b"
     },
     "Zeyuan%20Li": {
+        "label": "#21 | Zeyuan Li",
         "rank": "21",
         "score": "1\u00a0425",
         "username": "Zeyuan Li"
     },
     "%E5%A4%A7%E8%A5%BF%E6%B4%8B": {
+        "label": "#22 | \u5927\u897f\u6d0b",
         "rank": "22",
         "score": "1\u00a0375",
         "username": "\u5927\u897f\u6d0b"
     },
     "Kacper%20Urban": {
+        "label": "#23 | Kacper Urban",
         "rank": "23",
         "score": "1\u00a0360",
         "username": "Kacper Urban"
     },
     "Yan%20Li": {
+        "label": "#24 | Yan Li",
         "rank": "24",
         "score": "1\u00a0345",
         "username": "Yan Li"
     },
     "Who_am_I": {
+        "label": "#25 | Who_am_I",
         "rank": "25",
         "score": "1\u00a0340",
         "username": "Who_am_I"
     },
     "mr.%20Arman%20%28%E6%A2%A6%E6%83%B3%29": {
+        "label": "#26 | mr. Arman (\u68a6\u60f3)",
         "rank": "26",
         "score": "1\u00a0325",
         "username": "mr. Arman (\u68a6\u60f3)"
     },
     "Nikita%20Bekasov": {
+        "label": "#27 | Nikita Bekasov",
         "rank": "27",
         "score": "1\u00a0320",
         "username": "Nikita Bekasov"
     },
     "yanchang%20guo": {
+        "label": "#28 | yanchang guo",
         "rank": "28",
         "score": "1\u00a0310",
         "username": "yanchang guo"
     },
     "%E9%99%88%E6%99%AF%E9%BE%99": {
+        "label": "#29 | \u9648\u666f\u9f99",
         "rank": "29",
         "score": "1\u00a0300",
         "username": "\u9648\u666f\u9f99"
     },
     "Yuzhou%20Chen": {
+        "label": "#30 | Yuzhou Chen",
         "rank": "30",
         "score": "1\u00a0295",
         "username": "Yuzhou Chen"
     },
     "Hailin%20Liu": {
+        "label": "#31 | Hailin Liu",
         "rank": "31",
         "score": "1\u00a0260",
         "username": "Hailin Liu"
     },
     "Xiaotian%20Han": {
+        "label": "#32 | Xiaotian Han",
         "rank": "32",
         "score": "1\u00a0260",
         "username": "Xiaotian Han"
     },
     "Wen%20Dong": {
+        "label": "#33 | Wen Dong",
         "rank": "33",
         "score": "1\u00a0260",
         "username": "Wen Dong"
     },
     "cl3898": {
+        "label": "#34 | cl3898",
         "rank": "34",
         "score": "1\u00a0215",
         "username": "cl3898"
     },
     "Lea%20Wron": {
+        "label": "#35 | Lea Wron",
         "rank": "35",
         "score": "1\u00a0210",
         "username": "Lea Wron"
     },
     "Yu%20Yang%20Chang": {
+        "label": "#36 | Yu Yang Chang",
         "rank": "36",
         "score": "1\u00a0195",
         "username": "Yu Yang Chang"
     },
     "%E9%99%B3%E7%B4%B9%E9%8A%98": {
+        "label": "#37 | \u9673\u7d39\u9298",
         "rank": "37",
         "score": "1\u00a0195",
         "username": "\u9673\u7d39\u9298"
     },
     "breeze%20breeze": {
+        "label": "#38 | breeze breeze",
         "rank": "38",
         "score": "1\u00a0195",
         "username": "breeze breeze"
     },
     "Tafadar%20Soujad": {
+        "label": "#39 | Tafadar Soujad",
         "rank": "39",
         "score": "1\u00a0185",
         "username": "Tafadar Soujad"
     },
     "dy%20c": {
+        "label": "#40 | dy c",
         "rank": "40",
         "score": "1\u00a0175",
         "username": "dy c"
     },
     "Dhruv%20Jain": {
+        "label": "#41 | Dhruv Jain",
         "rank": "41",
         "score": "1\u00a0160",
         "username": "Dhruv Jain"
     },
     "lishlin8": {
+        "label": "#42 | lishlin8",
         "rank": "42",
         "score": "1\u00a0155",
         "username": "lishlin8"
     },
     "pvigura": {
+        "label": "#43 | pvigura",
         "rank": "43",
         "score": "1\u00a0150",
         "username": "pvigura"
     },
     "hiiu%20Ang": {
+        "label": "#44 | hiiu Ang",
         "rank": "44",
         "score": "1\u00a0150",
         "username": "hiiu Ang"
     },
     "Jonas%20Buro": {
+        "label": "#45 | Jonas Buro",
         "rank": "45",
         "score": "1\u00a0150",
         "username": "Jonas Buro"
     },
     "fernandocasabanblasco": {
+        "label": "#46 | fernandocasabanblasco",
         "rank": "46",
         "score": "1\u00a0140",
         "username": "fernandocasabanblasco"
     },
     "Yangyang%20Xu": {
+        "label": "#47 | Yangyang Xu",
         "rank": "47",
         "score": "1\u00a0140",
         "username": "Yangyang Xu"
     },
     "John%20Hu": {
+        "label": "#48 | John Hu",
         "rank": "48",
         "score": "1\u00a0135",
         "username": "John Hu"
     },
     "Lan%20Luo": {
+        "label": "#49 | Lan Luo",
         "rank": "49",
         "score": "1\u00a0130",
         "username": "Lan Luo"
     },
     "Siva%20Morgan": {
+        "label": "#50 | Siva Morgan",
         "rank": "50",
         "score": "1\u00a0125",
         "username": "Siva Morgan"
     },
     "cxxuhang": {
+        "label": "#51 | cxxuhang",
         "rank": "51",
         "score": "1\u00a0115",
         "username": "cxxuhang"
     },
     "Shayan%20Talaei": {
+        "label": "#52 | Shayan Talaei",
         "rank": "52",
         "score": "1\u00a0110",
         "username": "Shayan Talaei"
     },
     "jiruiteng9981": {
+        "label": "#53 | jiruiteng9981",
         "rank": "53",
         "score": "1\u00a0100",
         "username": "jiruiteng9981"
     },
     "Hrishikesh%20Shekhar%20%28Gameface123%29": {
+        "label": "#54 | Hrishikesh Shekhar (Gameface123)",
         "rank": "54",
         "score": "1\u00a0075",
         "username": "Hrishikesh Shekhar (Gameface123)"
     },
     "Hanlin%20Liu": {
+        "label": "#55 | Hanlin Liu",
         "rank": "55",
         "score": "1\u00a0075",
         "username": "Hanlin Liu"
     },
     "%E6%9D%8E%E5%8F%AF%E6%B6%B5": {
+        "label": "#56 | \u674e\u53ef\u6db5",
         "rank": "56",
         "score": "1\u00a0075",
         "username": "\u674e\u53ef\u6db5"
     },
     "Nikita%20Bashaev": {
+        "label": "#57 | Nikita Bashaev",
         "rank": "57",
         "score": "1\u00a0030",
         "username": "Nikita Bashaev"
     },
     "Eve%20Hu": {
+        "label": "#58 | Eve Hu",
         "rank": "58",
         "score": "1\u00a0025",
         "username": "Eve Hu"
     },
     "Yichao%20Shen": {
+        "label": "#59 | Yichao Shen",
         "rank": "59",
         "score": "1\u00a0025",
         "username": "Yichao Shen"
     },
     "yusun1994sjtu": {
+        "label": "#60 | yusun1994sjtu",
         "rank": "60",
         "score": "1\u00a0025",
         "username": "yusun1994sjtu"
     },
     "Chih-Hao%20Fang": {
+        "label": "#61 | Chih-Hao Fang",
         "rank": "61",
         "score": "1\u00a0010",
         "username": "Chih-Hao Fang"
     },
     "Liu%20Ziyu": {
+        "label": "#62 | Liu Ziyu",
         "rank": "62",
         "score": "1\u00a0010",
         "username": "Liu Ziyu"
     },
     "G.%20Prashant": {
+        "label": "#63 | G. Prashant",
         "rank": "63",
         "score": "1\u00a0000",
         "username": "G. Prashant"
     },
     "Jiahao%20Xu": {
+        "label": "#64 | Jiahao Xu",
         "rank": "64",
         "score": "995",
         "username": "Jiahao Xu"
     },
     "%E9%87%91%E5%AE%B8%E6%9E%81": {
+        "label": "#65 | \u91d1\u5bb8\u6781",
         "rank": "65",
         "score": "990",
         "username": "\u91d1\u5bb8\u6781"
     },
     "wanghaoyu417": {
+        "label": "#66 | wanghaoyu417",
         "rank": "66",
         "score": "990",
         "username": "wanghaoyu417"
     },
     "G%20L": {
+        "label": "#67 | G L",
         "rank": "67",
         "score": "980",
         "username": "G L"
     },
     "Zhang%20zikang": {
+        "label": "#68 | Zhang zikang",
         "rank": "68",
         "score": "980",
         "username": "Zhang zikang"
     },
     "parimala78": {
+        "label": "#69 | parimala78",
         "rank": "69",
         "score": "975",
         "username": "parimala78"
     },
     "cypher.com": {
+        "label": "#70 | cypher.com",
         "rank": "70",
         "score": "970",
         "username": "cypher.com"
     },
     "Nguy%E1%BB%85n%20lonx": {
+        "label": "#71 | Nguy\u1ec5n lonx",
         "rank": "71",
         "score": "965",
         "username": "Nguy\u1ec5n lonx"
     },
     "Jerry%20Liang": {
+        "label": "#72 | Jerry Liang",
         "rank": "72",
         "score": "960",
         "username": "Jerry Liang"
     },
     "Tsimur%20Hadeliya": {
+        "label": "#73 | Tsimur Hadeliya",
         "rank": "73",
         "score": "950",
         "username": "Tsimur Hadeliya"
     },
     "Omid%20Shams": {
+        "label": "#74 | Omid Shams",
         "rank": "74",
         "score": "945",
         "username": "Omid Shams"
     },
     "musnc": {
+        "label": "#75 | musnc",
         "rank": "75",
         "score": "940",
         "username": "musnc"
     },
     "kty22": {
+        "label": "#76 | kty22",
         "rank": "76",
         "score": "930",
         "username": "kty22"
     },
     "Andrew%20Spanopoulos": {
+        "label": "#77 | Andrew Spanopoulos",
         "rank": "77",
         "score": "925",
         "username": "Andrew Spanopoulos"
     },
     "Parth%20Ramdeo": {
+        "label": "#78 | Parth Ramdeo",
         "rank": "78",
         "score": "925",
         "username": "Parth Ramdeo"
     },
     "NAYAN%20JAIN": {
+        "label": "#79 | NAYAN JAIN",
         "rank": "79",
         "score": "925",
         "username": "NAYAN JAIN"
     },
     "danzhang6561": {
+        "label": "#80 | danzhang6561",
         "rank": "80",
         "score": "925",
         "username": "danzhang6561"
     },
     "sahand.rezaei.sh": {
+        "label": "#81 | sahand.rezaei.sh",
         "rank": "81",
         "score": "920",
         "username": "sahand.rezaei.sh"
     },
     "leatqy": {
+        "label": "#82 | leatqy",
         "rank": "82",
         "score": "915",
         "username": "leatqy"
     },
     "jinyujie": {
+        "label": "#83 | jinyujie",
         "rank": "83",
         "score": "915",
         "username": "jinyujie"
     },
     "Chi%20Yang": {
+        "label": "#84 | Chi Yang",
         "rank": "84",
         "score": "905",
         "username": "Chi Yang"
     },
     "Sirui%20Zheng": {
+        "label": "#85 | Sirui Zheng",
         "rank": "85",
         "score": "900",
         "username": "Sirui Zheng"
     },
     "Ruben%20Safaryan": {
+        "label": "#86 | Ruben Safaryan",
         "rank": "86",
         "score": "900",
         "username": "Ruben Safaryan"
     },
     "venkataramesh": {
+        "label": "#87 | venkataramesh",
         "rank": "87",
         "score": "900",
         "username": "venkataramesh"
     },
     "sri%20sai%20sathvik%20pantangi": {
+        "label": "#88 | sri sai sathvik pantangi",
         "rank": "88",
         "score": "890",
         "username": "sri sai sathvik pantangi"
     },
     "Andrew%20Yuan": {
+        "label": "#89 | Andrew Yuan",
         "rank": "89",
         "score": "890",
         "username": "Andrew Yuan"
     },
     "yiyang%20wang": {
+        "label": "#90 | yiyang wang",
         "rank": "90",
         "score": "885",
         "username": "yiyang wang"
     },
     "Jiaming%20Xie": {
+        "label": "#91 | Jiaming Xie",
         "rank": "91",
         "score": "885",
         "username": "Jiaming Xie"
     },
     "bebeshka": {
+        "label": "#92 | bebeshka",
         "rank": "92",
         "score": "880",
         "username": "bebeshka"
     },
     "csatsurnh": {
+        "label": "#93 | csatsurnh",
         "rank": "93",
         "score": "875",
         "username": "csatsurnh"
     },
     "%E5%92%95%E5%92%95%E5%92%95": {
+        "label": "#94 | \u5495\u5495\u5495",
         "rank": "94",
         "score": "870",
         "username": "\u5495\u5495\u5495"
     },
     "lin.ai": {
+        "label": "#95 | lin.ai",
         "rank": "95",
         "score": "860",
         "username": "lin.ai"
     },
     "maoxianglun": {
+        "label": "#96 | maoxianglun",
         "rank": "96",
         "score": "855",
         "username": "maoxianglun"
     },
     "Renato%20Pino": {
+        "label": "#97 | Renato Pino",
         "rank": "97",
         "score": "850",
         "username": "Renato Pino"
     },
     "Rama%20Badrinath": {
+        "label": "#98 | Rama Badrinath",
         "rank": "98",
         "score": "850",
         "username": "Rama Badrinath"
     },
     "Anisia%20Katinskaia": {
+        "label": "#99 | Anisia Katinskaia",
         "rank": "99",
         "score": "850",
         "username": "Anisia Katinskaia"
     },
     "test2": {
+        "label": "#100 | test2",
         "rank": "100",
         "score": "840",
         "username": "test2"
