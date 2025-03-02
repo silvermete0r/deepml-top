@@ -20,7 +20,7 @@ def encode_username(username):
     return urllib.parse.quote(username)
 
 # Shields.io Badge Template
-BADGE_TEMPLATE = '![DeepML {display_username}](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Fmain%2Fbadges.json&query=%24.{encoded_key}.rank&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)'
+BADGE_TEMPLATE = '![DeepML {display_username}](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Fmain%2Fbadges.json&query=%24.{encoded_key}.label&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)'
 
 # Initialize Selenium WebDriver
 options = webdriver.ChromeOptions()
@@ -84,9 +84,8 @@ def update_readme(leaderboard):
     # Generate top badges
     for rank, username, score in leaderboard:
         if int(rank) <= 3:
-            # Create a safe key for the JSON lookup
             encoded_key = encode_username(username)
-            # Use the badge template with both original username for display and encoded username for query
+            
             top_badges.append(BADGE_TEMPLATE.format(
                 display_username=username,
                 encoded_key=encoded_key
@@ -141,7 +140,6 @@ def save_json(leaderboard):
     badges = {}
 
     for rank, username, score in leaderboard:
-        # Use URL-encoded username as the key to ensure it works with the badge query
         encoded_username = encode_username(username)
         badges[encoded_username] = {
             "label": f"No. {rank} | {username}",
