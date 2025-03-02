@@ -6,10 +6,12 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
+import json
 
 # GitHub File Paths
 README_FILE = "README.md"
 LEADERBOARD_FILE = "leaderboard.csv"
+BADGES_JSON = "badges.json"
 
 # Shields.io Badge Template
 BADGE_TEMPLATE = "![{user}](https://img.shields.io/badge/{rank}-{user}-orange?style=flat&logo=fire)"
@@ -98,6 +100,17 @@ def update_readme(leaderboard):
     with open(README_FILE, "w", encoding="utf-8") as f:
         f.writelines(updated_readme)
 
+# Function to update badges.json
+def save_json(leaderboard):
+    badges = {}
+
+    for rank, username, _ in leaderboard:
+        if int(rank) <= 3:
+            badges[username] = rank
+
+    with open(BADGES_JSON, "w", encoding="utf-8") as f:
+        json.dump(badges, f, indent=4)
+
 # Function to update leaderboard.csv
 def save_csv(leaderboard):
     with open(LEADERBOARD_FILE, mode="w", newline="", encoding="utf-8") as file:
@@ -111,6 +124,7 @@ if __name__ == "__main__":
 
     if leaderboard_data:
         save_csv(leaderboard_data)
+        save_json(leaderboard_data)
         update_readme(leaderboard_data)
         print("Leaderboard updated successfully!")
     else:
