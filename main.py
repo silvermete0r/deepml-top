@@ -11,7 +11,7 @@ import json
 import urllib.parse
 
 # GitHub File Paths
-README_FILE = "README.md"
+README_FILE = "README.MD"
 LEADERBOARD_FILE = "leaderboard.csv"
 BADGES_JSON = "badges.json"
 
