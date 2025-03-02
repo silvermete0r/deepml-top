@@ -2,8 +2,8 @@ name: Update Leaderboard
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every 24 hours at midnight UTC
-  workflow_dispatch:  # Allows manual triggering
+    - cron: "0 0 * * *"  # Runs every 24 hours
+  workflow_dispatch:  # Allows manual trigger
 
 jobs:
   update-leaderboard:
@@ -12,6 +12,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Ensures all files are fetched
+
+      - name: Debug repository contents
+        run: ls -la
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -28,6 +33,6 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add README.md leaderboard.csv
+          git add -f README.md leaderboard.csv
           git commit -m "Automated leaderboard update" || exit 0
           git push
