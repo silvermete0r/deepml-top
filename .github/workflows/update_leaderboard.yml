@@ -26,14 +26,17 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
-          
+
       - name: Run leaderboard update script
         run: python main.py
 
-      - name: Commit and push changes
+      - name: Push changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add -f README.MD leaderboard.csv badges.json
+          git add README.md leaderboard.csv
           git commit -m "Automated leaderboard update" || exit 0
-          git push
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
