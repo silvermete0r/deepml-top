@@ -141,8 +141,7 @@ def save_json(leaderboard):
     badges = {}
 
     for rank, username, score in leaderboard:
-        encoded_username = encode_username(username)
-        badges[encoded_username] = {
+        badges[username] = {
             "label": f"#{rank} | {username}",
             "rank": rank,
             "score": score,
