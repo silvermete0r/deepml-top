@@ -17,10 +17,10 @@ BADGES_JSON = "badges.json"
 
 # URL encode username for badge template
 def encode_username(username):
-    return urllib.parse.quote(username)
+    return urllib.parse.quote(username, safe='')
 
 # Shields.io Badge Template
-BADGE_TEMPLATE = '![DeepML {display_username}](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Fmain%2Fbadges.json&query=%24.{encoded_key}.label&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)'
+BADGE_TEMPLATE = '![DeepML {display_username}](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Frefs%2Fheads%2Fmain%2Fbadges.json&query=%24.{encoded_key}.label&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)'
 
 # Initialize Selenium WebDriver
 options = webdriver.ChromeOptions()
