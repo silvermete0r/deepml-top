@@ -4,7 +4,7 @@ let usersList = [];
 // Fetch badges data
 async function fetchBadges() {
     try {
-        const response = await fetch('../badges.json');
+        const response = await fetch('https://raw.githubusercontent.com/silvermete0r/deepml-top/main/badges.json');
         badgesData = await response.json();
         usersList = Object.values(badgesData).map(badge => badge.username);
         setupAutocomplete();
