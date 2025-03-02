@@ -22,7 +22,7 @@ jobs:
         run: pip install requests beautifulsoup4
 
       - name: Run leaderboard update script
-        run: python parse_leaderboard.py
+        run: python main.py
 
       - name: Commit and push changes
         run: |
