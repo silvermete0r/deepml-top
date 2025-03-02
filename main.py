@@ -8,14 +8,19 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 import json
+import urllib.parse
 
 # GitHub File Paths
 README_FILE = "README.md"
 LEADERBOARD_FILE = "leaderboard.csv"
 BADGES_JSON = "badges.json"
 
+# URL encode username for badge template
+def encode_username(username):
+    return urllib.parse.quote(username)
+
 # Shields.io Badge Template
-BADGE_TEMPLATE = '![DeepML {username}](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Fmain%2Fbadges.json&query=%24.{username}.rank&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)'
+BADGE_TEMPLATE = '![DeepML {display_username}](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Fmain%2Fbadges.json&query=%24.{encoded_key}.label&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)'
 
 # Initialize Selenium WebDriver
 options = webdriver.ChromeOptions()
@@ -79,7 +84,13 @@ def update_readme(leaderboard):
     # Generate top badges
     for rank, username, score in leaderboard:
         if int(rank) <= 3:
-            top_badges.append(BADGE_TEMPLATE.format(username=username))
+            # Create a safe key for the JSON lookup
+            encoded_key = encode_username(username)
+            
+            top_badges.append(BADGE_TEMPLATE.format(
+                display_username=username,
+                encoded_key=encoded_key
+            ))
     
     # Add top 3 users as badges
     badges_section = "\n".join(top_badges)
@@ -130,7 +141,9 @@ def save_json(leaderboard):
     badges = {}
 
     for rank, username, score in leaderboard:
-        badges[username] = {
+        encoded_username = encode_username(username)
+        badges[encoded_username] = {
+            "label": f"#{rank} | {username}",
             "rank": rank,
             "score": score,
             "username": username
