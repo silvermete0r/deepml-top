@@ -2,6 +2,18 @@
 
 Deep-ML.com is an open-source machine learning challenge platform designed to help users improve their skills in algorithm development and AI applications.  
 
+## 📋 About This Project
+
+This project provides a badge generator tool for Deep-ML.com leaderboard participants. It allows users to:
+- Generate customizable badges showing their Deep-ML ranking
+- Choose from different badge styles and colors
+- Copy markdown or HTML code for easy embedding
+- Display their achievements on GitHub profiles or other platforms
+
+## 🚀 Quick Start
+
+Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-top) to generate your badge if you are in the top 100 of the Deep-ML leaderboard!
+
 **This leaderboard is automatically updated daily** by parsing data from [Deep-ML.com Leaderboard](https://www.deep-ml.com/leaderboard).  
 
 ## 📊 Current Standings  
