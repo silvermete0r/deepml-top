@@ -93,14 +93,14 @@ Deep-ML.com is an open-source machine learning challenge platform designed to he
 | 82 | leatqy | 915 |
 | 83 | jinyujie | 915 |
 | 84 | Chi Yang | 905 |
-| 85 | Sirui Zheng | 900 |
-| 86 | Ruben Safaryan | 900 |
-| 87 | venkataramesh | 900 |
-| 88 | sri sai sathvik pantangi | 890 |
-| 89 | Andrew Yuan | 890 |
-| 90 | yiyang wang | 885 |
-| 91 | Jiaming Xie | 885 |
-| 92 | bebeshka | 880 |
+| 85 | bebeshka | 905 |
+| 86 | Sirui Zheng | 900 |
+| 87 | Ruben Safaryan | 900 |
+| 88 | venkataramesh | 900 |
+| 89 | sri sai sathvik pantangi | 890 |
+| 90 | Andrew Yuan | 890 |
+| 91 | yiyang wang | 885 |
+| 92 | Jiaming Xie | 885 |
 | 93 | csatsurnh | 875 |
 | 94 | 咕咕咕 | 870 |
 | 95 | lin.ai | 860 |
@@ -114,9 +114,9 @@ Deep-ML.com is an open-source machine learning challenge platform designed to he
 ## 🏆 Top Performers Badges
 
 <!-- BADGES_START -->
-![DeepML Stoatscript](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Frefs%2Fheads%2Fmain%2Fbadges.json&query=%24.f0022cc6de4b20fe459420bacf8c1f9c.label&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)
-![DeepML Márcio Pereira](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Frefs%2Fheads%2Fmain%2Fbadges.json&query=%24.b0ffdfd546c2cfe5688ab1e44f9ead8c.label&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)
-![DeepML Marco Cheng](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Frefs%2Fheads%2Fmain%2Fbadges.json&query=%24.4091c1a21900bd2c7d3f4e343acddda1.label&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)
+![DeepML Stoatscript](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Frefs%2Fheads%2Fmain%2Fbadges.json&query=%24.bzvkbsgbsjtxhszdwkmmylsuvhay.label&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)
+![DeepML Márcio Pereira](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Frefs%2Fheads%2Fmain%2Fbadges.json&query=%24.bmfrefoqwvohkdpmkylbfkegfuzk.label&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)
+![DeepML Marco Cheng](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Frefs%2Fheads%2Fmain%2Fbadges.json&query=%24.nymrdbgjagualhwaimyibyfkdft.label&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)
 <!-- BADGES_END -->
 
 ## 🎖 Claim Your Badge!  
