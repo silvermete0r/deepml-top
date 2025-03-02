@@ -1,5 +1,6 @@
 import time
 import csv
+import re
 import requests
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -14,7 +15,7 @@ LEADERBOARD_FILE = "leaderboard.csv"
 BADGES_JSON = "badges.json"
 
 # Shields.io Badge Template
-BADGE_TEMPLATE = "![{user}](https://img.shields.io/badge/{rank}-{user}-orange?style=flat&logo=fire)"
+BADGE_TEMPLATE = '![DeepML {username}](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Fmain%2Fbadges.json&query=%24.{username}.rank&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)'
 
 # Initialize Selenium WebDriver
 options = webdriver.ChromeOptions()
@@ -66,46 +67,74 @@ def fetch_leaderboard():
 
 # Function to update README
 def update_readme(leaderboard):
-    with open(README_FILE, "r", encoding="utf-8") as f:
-        readme_lines = f.readlines()
+    try:
+        with open(README_FILE, "r", encoding="utf-8") as f:
+            readme_content = f.read()
+    except FileNotFoundError:
+        print(f"README file not found at {README_FILE}")
+        return
+    
+    top_badges = []
+
+    # Generate top badges
+    for rank, username, score in leaderboard:
+        if int(rank) <= 3:
+            top_badges.append(BADGE_TEMPLATE.format(username=username))
+    
+    # Add top 3 users as badges
+    badges_section = "\n".join(top_badges)
+    
+    # Update badges section
+    badge_start_marker = "<!-- BADGES_START -->"
+    badge_end_marker = "<!-- BADGES_END -->"
+    badge_pattern = f"{badge_start_marker}(.*?){badge_end_marker}"
+    
+    if badge_start_marker in readme_content and badge_end_marker in readme_content:
+        readme_content = re.sub(
+            badge_pattern,
+            f"{badge_start_marker}\n{badges_section}\n{badge_end_marker}",
+            readme_content, 
+            flags=re.DOTALL
+        )
+    else:
+        print("Badge markers not found in README.md")
 
     # Find start and end markers for leaderboard
-    start_marker = "<!-- LEADERBOARD_START -->\n"
-    end_marker = "<!-- LEADERBOARD_END -->\n"
-
-    try:
-        start_idx = readme_lines.index(start_marker) + 1
-        end_idx = readme_lines.index(end_marker)
-    except ValueError:
-        print("Leaderboard markers not found in README.md")
-        return
-
+    leaderboard_start_marker = "<!-- LEADERBOARD_START -->"
+    leaderboard_end_marker = "<!-- LEADERBOARD_END -->"
+    leaderboard_pattern = f"{leaderboard_start_marker}(.*?){leaderboard_end_marker}"
+    
     # Generate new leaderboard table
-    leaderboard_md = "| Rank | Username | Score |\n|------|---------|-------|\n"
-    badges_md = []
-
+    leaderboard_md = "\n| Rank | Username | Score |\n|------|---------|-------|\n"
+    
     for rank, username, score in leaderboard:
         leaderboard_md += f"| {rank} | {username} | {score} |\n"
-        if int(rank) <= 3:  # Add badges for top 3 users
-            badges_md.append(BADGE_TEMPLATE.format(rank=rank, user=username))
-
-    # Update README content
-    updated_readme = readme_lines[:start_idx] + [leaderboard_md] + readme_lines[end_idx:]
-
-    # Add badges at the bottom
-    updated_readme.append("\n## 🏆 Top Performers\n")
-    updated_readme.extend([badge + "\n" for badge in badges_md])
+    
+    # Update the leaderboard content
+    if leaderboard_start_marker in readme_content and leaderboard_end_marker in readme_content:
+        readme_content = re.sub(
+            leaderboard_pattern,
+            f"{leaderboard_start_marker}{leaderboard_md}{leaderboard_end_marker}",
+            readme_content,
+            flags=re.DOTALL
+        )
+    else:
+        print("Leaderboard markers not found in README.md")
 
     # Write back to README.md
     with open(README_FILE, "w", encoding="utf-8") as f:
-        f.writelines(updated_readme)
+        f.write(readme_content)
 
 # Function to update badges.json
 def save_json(leaderboard):
     badges = {}
 
-    for rank, username, _ in leaderboard:
-        badges[username] = rank
+    for rank, username, score in leaderboard:
+        badges[username] = {
+            "rank": rank,
+            "score": score,
+            "username": username
+        }
 
     with open(BADGES_JSON, "w", encoding="utf-8") as f:
         json.dump(badges, f, indent=4)

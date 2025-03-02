@@ -38,11 +38,11 @@ Deep-ML.com is an open-source machine learning challenge platform designed to he
 | 27 | Nikita Bekasov | 1 320 |
 | 28 | yanchang guo | 1 310 |
 | 29 | 陈景龙 | 1 300 |
-| 30 | Hailin Liu | 1 260 |
-| 31 | Xiaotian Han | 1 260 |
-| 32 | Wen Dong | 1 260 |
-| 33 | cl3898 | 1 215 |
-| 34 | Yuzhou Chen | 1 215 |
+| 30 | Yuzhou Chen | 1 295 |
+| 31 | Hailin Liu | 1 260 |
+| 32 | Xiaotian Han | 1 260 |
+| 33 | Wen Dong | 1 260 |
+| 34 | cl3898 | 1 215 |
 | 35 | Lea Wron | 1 210 |
 | 36 | Yu Yang Chang | 1 195 |
 | 37 | 陳紹銘 | 1 195 |
@@ -93,16 +93,16 @@ Deep-ML.com is an open-source machine learning challenge platform designed to he
 | 82 | leatqy | 915 |
 | 83 | jinyujie | 915 |
 | 84 | Chi Yang | 905 |
-| 85 | Ruben Safaryan | 900 |
-| 86 | venkataramesh | 900 |
-| 87 | sri sai sathvik pantangi | 890 |
-| 88 | Andrew Yuan | 890 |
-| 89 | yiyang wang | 885 |
-| 90 | Jiaming Xie | 885 |
-| 91 | bebeshka | 880 |
-| 92 | csatsurnh | 875 |
-| 93 | 咕咕咕 | 870 |
-| 94 | Sirui Zheng | 860 |
+| 85 | Sirui Zheng | 900 |
+| 86 | Ruben Safaryan | 900 |
+| 87 | venkataramesh | 900 |
+| 88 | sri sai sathvik pantangi | 890 |
+| 89 | Andrew Yuan | 890 |
+| 90 | yiyang wang | 885 |
+| 91 | Jiaming Xie | 885 |
+| 92 | bebeshka | 880 |
+| 93 | csatsurnh | 875 |
+| 94 | 咕咕咕 | 870 |
 | 95 | lin.ai | 860 |
 | 96 | maoxianglun | 855 |
 | 97 | Renato Pino | 850 |
@@ -114,6 +114,9 @@ Deep-ML.com is an open-source machine learning challenge platform designed to he
 ## 🏆 Top Performers Badges
 
 <!-- BADGES_START -->
+![DeepML Stoatscript](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Fmain%2Fbadges.json&query=%24.Stoatscript.rank&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)
+![DeepML Márcio Pereira](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Fmain%2Fbadges.json&query=%24.Márcio Pereira.rank&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)
+![DeepML Marco Cheng](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Fmain%2Fbadges.json&query=%24.Marco Cheng.rank&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)
 <!-- BADGES_END -->
 
 ## 🎖 Claim Your Badge!  
@@ -125,17 +128,3 @@ If you are in the **Top 100**, you can display your ranking on your GitHub profi
 ```
 
 **Stay competitive and improve your skills every day! 🚀🔥**
-## 🏆 Top Performers
-![Stoatscript](https://img.shields.io/badge/1-Stoatscript-orange?style=flat&logo=fire)
-![Márcio Pereira](https://img.shields.io/badge/2-Márcio Pereira-orange?style=flat&logo=fire)
-![Marco Cheng](https://img.shields.io/badge/3-Marco Cheng-orange?style=flat&logo=fire)
-
-## 🏆 Top Performers
-![Stoatscript](https://img.shields.io/badge/1-Stoatscript-orange?style=flat&logo=fire)
-![Márcio Pereira](https://img.shields.io/badge/2-Márcio Pereira-orange?style=flat&logo=fire)
-![Marco Cheng](https://img.shields.io/badge/3-Marco Cheng-orange?style=flat&logo=fire)
-
-## 🏆 Top Performers
-![Stoatscript](https://img.shields.io/badge/1-Stoatscript-orange?style=flat&logo=fire)
-![Márcio Pereira](https://img.shields.io/badge/2-Márcio Pereira-orange?style=flat&logo=fire)
-![Marco Cheng](https://img.shields.io/badge/3-Marco Cheng-orange?style=flat&logo=fire)
