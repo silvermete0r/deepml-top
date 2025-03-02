@@ -134,3 +134,8 @@ If you are in the **Top 100**, you can display your ranking on your GitHub profi
 ![Stoatscript](https://img.shields.io/badge/1-Stoatscript-orange?style=flat&logo=fire)
 ![Márcio Pereira](https://img.shields.io/badge/2-Márcio Pereira-orange?style=flat&logo=fire)
 ![Marco Cheng](https://img.shields.io/badge/3-Marco Cheng-orange?style=flat&logo=fire)
+
+## 🏆 Top Performers
+![Stoatscript](https://img.shields.io/badge/1-Stoatscript-orange?style=flat&logo=fire)
+![Márcio Pereira](https://img.shields.io/badge/2-Márcio Pereira-orange?style=flat&logo=fire)
+![Marco Cheng](https://img.shields.io/badge/3-Marco Cheng-orange?style=flat&logo=fire)

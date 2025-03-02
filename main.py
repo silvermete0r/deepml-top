@@ -105,8 +105,7 @@ def save_json(leaderboard):
     badges = {}
 
     for rank, username, _ in leaderboard:
-        if int(rank) <= 3:
-            badges[username] = rank
+        badges[username] = rank
 
     with open(BADGES_JSON, "w", encoding="utf-8") as f:
         json.dump(badges, f, indent=4)
