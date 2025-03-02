@@ -135,6 +135,6 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 
 If you are in the **Top 100**, you can display your ranking on your GitHub profile. You can generate your badge using this website:
 
-[🏆 Deep-ML Badges Generator](#)
+[🏆 Deep-ML Badges Generator](https://silvermete0r.github.io/deepml-top/)
 
 **Stay competitive and improve your skills every day! 🚀🔥**
