@@ -8,16 +8,16 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 import json
-import urllib.parse
+import hashlib
 
 # GitHub File Paths
 README_FILE = "README.MD"
 LEADERBOARD_FILE = "leaderboard.csv"
 BADGES_JSON = "badges.json"
 
-# URL encode username for badge template
-def encode_username(username):
-    return urllib.parse.quote(username, safe='')
+# Hash username for badge template
+def hash_username(username):
+    return hashlib.md5(username.encode("utf-8")).hexdigest()
 
 # Shields.io Badge Template
 BADGE_TEMPLATE = '![DeepML {display_username}](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Frefs%2Fheads%2Fmain%2Fbadges.json&query=%24.{encoded_key}.label&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)'
@@ -84,7 +84,7 @@ def update_readme(leaderboard):
     # Generate top badges
     for rank, username, score in leaderboard:
         if int(rank) <= 3:
-            encoded_key = encode_username(username)
+            encoded_key = hash_username(username)
             
             top_badges.append(BADGE_TEMPLATE.format(
                 display_username=username,
@@ -140,7 +140,7 @@ def save_json(leaderboard):
     badges = {}
 
     for rank, username, score in leaderboard:
-        encoded_username = encode_username(username)
+        encoded_username = hash_username(username)
         badges[encoded_username] = {
             "label": f"No. {rank} | {username}",
             "rank": rank,
