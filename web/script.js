@@ -1,13 +1,19 @@
-let badgesData = {};
-let usersList = [];
+let globalBadgesData = {};
+let globalUsersList = [];
 
 // Fetch badges data
 async function fetchBadges() {
     try {
         const response = await fetch('https://raw.githubusercontent.com/silvermete0r/deepml-top/main/badges.json');
-        badgesData = await response.json();
-        usersList = Object.values(badgesData).map(badge => badge.username);
-        setupAutocomplete();
+
+        if (!response.ok) {
+            throw new Error(`Failed to fetch badges: ${response.status} ${response.statusText}`);
+        }
+
+        globalBadgesData = await response.json(); 
+        globalUsersList = Object.values(globalBadgesData).map(badge => badge.username);
+
+        setupAutocomplete();  
     } catch (error) {
         console.error('Error loading badges:', error);
     }
@@ -29,7 +35,7 @@ function setupAutocomplete() {
         suggestionList.setAttribute('class', 'autocomplete-items list-group position-absolute w-100');
         this.parentNode.appendChild(suggestionList);
 
-        usersList.forEach(username => {
+        globalUsersList.forEach(username => {  // Use globalUsersList instead of usersList
             if (username.toLowerCase().includes(val.toLowerCase())) {
                 const item = document.createElement('div');
                 item.setAttribute('class', 'list-group-item list-group-item-action');
@@ -60,13 +66,13 @@ function setupAutocomplete() {
 
 // Generate badge
 function generateBadge(username) {
-    const badgeKey = Object.keys(badgesData).find(key => 
-        badgesData[key].username === username
+    const badgeKey = Object.keys(globalBadgesData).find(key =>  // Use globalBadgesData
+        globalBadgesData[key].username === username
     );
 
     if (!badgeKey) return;
 
-    const badge = badgesData[badgeKey];
+    const badge = globalBadgesData[badgeKey];  // Use globalBadgesData
     const style = document.getElementById('badgeStyle').value;
     const color = document.getElementById('badgeColor').value.substring(1); // Remove # from hex color
 
