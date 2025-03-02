@@ -1,6 +1,10 @@
 import time
 import csv
 import requests
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 
 # GitHub File Paths
@@ -10,16 +14,30 @@ LEADERBOARD_FILE = "leaderboard.csv"
 # Shields.io Badge Template
 BADGE_TEMPLATE = "![{user}](https://img.shields.io/badge/{rank}-{user}-orange?style=flat&logo=fire)"
 
+# Initialize Selenium WebDriver
+options = webdriver.ChromeOptions()
+options.add_argument('--headless')  # Run in headless mode
+driver = webdriver.Chrome(options=options)
+
 # Function to scrape leaderboard
 def fetch_leaderboard():
     url = 'https://www.deep-ml.com/leaderboard'
-    response = requests.get(url)
+    driver.get(url)
 
-    if response.status_code != 200:
-        print("Failed to fetch leaderboard")
-        return None
+    try:
+        WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.CLASS_NAME, "space-y-3"))
+        )
+    except:
+        print("Leaderboard did not load in time.")
+        driver.quit()
+        exit()
 
-    soup = BeautifulSoup(response.text, 'html.parser')
+    time.sleep(5)
+    soup = BeautifulSoup(driver.page_source, 'html.parser')
+
+    driver.quit()
+
     leaderboard_container = soup.find('div', class_='space-y-3')
 
     if not leaderboard_container:
