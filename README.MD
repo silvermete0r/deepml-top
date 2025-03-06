@@ -22,67 +22,67 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | Rank | Username | Score |
 |------|---------|-------|
 | 1 | Stoatscript | 2,665 |
-| 2 | Marco Cheng | 2,365 |
+| 2 | Marco Cheng | 2,420 |
 | 3 | Márcio Pereira | 2,265 |
 | 4 | callrmshetty | 1,985 |
-| 5 | Qiujiang Jin | 1,810 |
-| 6 | Kyle Zhou | 1,805 |
-| 7 | Niels van Galen Last | 1,760 |
+| 5 | Niels van Galen Last | 1,815 |
+| 6 | Qiujiang Jin | 1,810 |
+| 7 | Kyle Zhou | 1,805 |
 | 8 | 747893812 | 1,725 |
 | 9 | tanghaibao | 1,695 |
 | 10 | Joe Chaoyue | 1,690 |
 | 11 | anian.ruoss | 1,665 |
 | 12 | Alper Karaca | 1,655 |
-| 13 | zhiheng xu | 1,610 |
-| 14 | Ma Al | 1,575 |
-| 15 | x15144067268 | 1,560 |
-| 16 | Zeyuan Li | 1,560 |
-| 17 | mr. Arman (梦想) | 1,515 |
-| 18 | Yi Zhang | 1,500 |
+| 13 | Zeyuan Li | 1,615 |
+| 14 | zhiheng xu | 1,610 |
+| 15 | Ma Al | 1,575 |
+| 16 | mr. Arman (梦想) | 1,570 |
+| 17 | x15144067268 | 1,560 |
+| 18 | Yi Zhang | 1,555 |
 | 19 | Nikita Bekasov | 1,495 |
 | 20 | Siquan Wang | 1,470 |
-| 21 | Yao PU | 1,445 |
-| 22 | 0x researcher | 1,430 |
-| 23 | monamie.b | 1,425 |
-| 24 | Yan Li | 1,395 |
-| 25 | Kacper Urban | 1,385 |
-| 26 | 大西洋 | 1,375 |
-| 27 | Yuzhou Chen | 1,350 |
-| 28 | Who_am_I | 1,340 |
-| 29 | yanchang guo | 1,310 |
-| 30 | 陈景龙 | 1,300 |
-| 31 | sahand.rezaei.sh | 1,290 |
-| 32 | Sirui Zheng | 1,290 |
-| 33 | Lea Wron | 1,265 |
-| 34 | Hailin Liu | 1,260 |
-| 35 | Xiaotian Han | 1,260 |
-| 36 | Wen Dong | 1,260 |
-| 37 | cl3898 | 1,215 |
-| 38 | Siva Morgan | 1,215 |
-| 39 | Yu Yang Chang | 1,195 |
-| 40 | 陳紹銘 | 1,195 |
-| 41 | breeze breeze | 1,195 |
-| 42 | Tafadar Soujad | 1,185 |
-| 43 | dy c | 1,175 |
-| 44 | Dhruv Jain | 1,160 |
-| 45 | lishlin8 | 1,155 |
-| 46 | pvigura | 1,150 |
-| 47 | hiiu Ang | 1,150 |
-| 48 | Jonas Buro | 1,150 |
-| 49 | fernandocasabanblasco | 1,140 |
-| 50 | Yangyang Xu | 1,140 |
-| 51 | John Hu | 1,135 |
-| 52 | Lan Luo | 1,130 |
-| 53 | cxxuhang | 1,115 |
-| 54 | Shayan Talaei | 1,110 |
-| 55 | jiruiteng9981 | 1,100 |
-| 56 | hiddenneuron | 1,085 |
-| 57 | Hrishikesh Shekhar (Gameface123) | 1,075 |
-| 58 | Hanlin Liu | 1,075 |
-| 59 | 李可涵 | 1,075 |
-| 60 | cypher.com | 1,065 |
-| 61 | G. Prashant | 1,055 |
-| 62 | bebeshka | 1,035 |
+| 21 | Kacper Urban | 1,465 |
+| 22 | Yao PU | 1,445 |
+| 23 | 0x researcher | 1,430 |
+| 24 | monamie.b | 1,425 |
+| 25 | Yan Li | 1,395 |
+| 26 | sahand.rezaei.sh | 1,390 |
+| 27 | 大西洋 | 1,375 |
+| 28 | Sirui Zheng | 1,365 |
+| 29 | Yuzhou Chen | 1,350 |
+| 30 | Who_am_I | 1,340 |
+| 31 | hiddenneuron | 1,325 |
+| 32 | yanchang guo | 1,310 |
+| 33 | 陈景龙 | 1,300 |
+| 34 | Lea Wron | 1,265 |
+| 35 | Hailin Liu | 1,260 |
+| 36 | Xiaotian Han | 1,260 |
+| 37 | Wen Dong | 1,260 |
+| 38 | Siva Morgan | 1,225 |
+| 39 | cl3898 | 1,215 |
+| 40 | Yu Yang Chang | 1,195 |
+| 41 | 陳紹銘 | 1,195 |
+| 42 | breeze breeze | 1,195 |
+| 43 | Tafadar Soujad | 1,185 |
+| 44 | Jonas Buro | 1,175 |
+| 45 | dy c | 1,175 |
+| 46 | Dhruv Jain | 1,160 |
+| 47 | lishlin8 | 1,155 |
+| 48 | pvigura | 1,150 |
+| 49 | hiiu Ang | 1,150 |
+| 50 | fernandocasabanblasco | 1,140 |
+| 51 | Yangyang Xu | 1,140 |
+| 52 | bebeshka | 1,140 |
+| 53 | John Hu | 1,135 |
+| 54 | Lan Luo | 1,130 |
+| 55 | cxxuhang | 1,115 |
+| 56 | Shayan Talaei | 1,110 |
+| 57 | jiruiteng9981 | 1,100 |
+| 58 | Hrishikesh Shekhar (Gameface123) | 1,075 |
+| 59 | Hanlin Liu | 1,075 |
+| 60 | 李可涵 | 1,075 |
+| 61 | cypher.com | 1,065 |
+| 62 | G. Prashant | 1,055 |
 | 63 | Nikita Bashaev | 1,030 |
 | 64 | Eve Hu | 1,025 |
 | 65 | Yichao Shen | 1,025 |
@@ -102,25 +102,25 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 79 | Omid Shams | 945 |
 | 80 | musnc | 940 |
 | 81 | kty22 | 930 |
-| 82 | Andrew Spanopoulos | 925 |
-| 83 | Parth Ramdeo | 925 |
-| 84 | NAYAN JAIN | 925 |
-| 85 | danzhang6561 | 925 |
-| 86 | leatqy | 915 |
-| 87 | jinyujie | 915 |
-| 88 | Chi Yang | 905 |
+| 82 | Chi Yang | 930 |
+| 83 | Andrew Spanopoulos | 925 |
+| 84 | Parth Ramdeo | 925 |
+| 85 | NAYAN JAIN | 925 |
+| 86 | danzhang6561 | 925 |
+| 87 | leatqy | 915 |
+| 88 | jinyujie | 915 |
 | 89 | Ruben Safaryan | 900 |
 | 90 | venkataramesh | 900 |
 | 91 | sri sai sathvik pantangi | 890 |
 | 92 | Andrew Yuan | 890 |
 | 93 | yiyang wang | 885 |
 | 94 | Jiaming Xie | 885 |
-| 95 | csatsurnh | 875 |
-| 96 | 咕咕咕 | 870 |
-| 97 | lin.ai | 860 |
-| 98 | Kuat Kurpenov | 855 |
-| 99 | maoxianglun | 855 |
-| 100 | Rama Badrinath | 850 |
+| 95 | Kuat Kurpenov | 880 |
+| 96 | csatsurnh | 875 |
+| 97 | Hinna He | 870 |
+| 98 | 咕咕咕 | 870 |
+| 99 | s233036 | 865 |
+| 100 | lin.ai | 860 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
