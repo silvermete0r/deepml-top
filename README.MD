@@ -21,44 +21,44 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 <!-- LEADERBOARD_START -->
 | Rank | Username | Score |
 |------|---------|-------|
-| 1 | Stoatscript | 3,110 |
-| 2 | Marco Cheng | 2,555 |
+| 1 | Stoatscript | 3,260 |
+| 2 | Marco Cheng | 2,635 |
 | 3 | Márcio Pereira | 2,265 |
-| 4 | hiddenneuron | 1,995 |
-| 5 | callrmshetty | 1,985 |
-| 6 | Niels van Galen Last | 1,950 |
-| 7 | Qiujiang Jin | 1,810 |
-| 8 | Kyle Zhou | 1,805 |
-| 9 | mr. Arman (梦想) | 1,755 |
-| 10 | 747893812 | 1,725 |
-| 11 | Zeyuan Li | 1,695 |
-| 12 | tanghaibao | 1,695 |
-| 13 | Joe Chaoyue | 1,690 |
-| 14 | anian.ruoss | 1,665 |
-| 15 | Alper Karaca | 1,655 |
-| 16 | zhiheng xu | 1,610 |
-| 17 | Sirui Zheng | 1,590 |
-| 18 | Ma Al | 1,575 |
-| 19 | x15144067268 | 1,560 |
-| 20 | Kacper Urban | 1,555 |
-| 21 | Yi Zhang | 1,555 |
-| 22 | Yuzhou Chen | 1,535 |
-| 23 | Nikita Bekasov | 1,495 |
-| 24 | Shooshi | 1,490 |
-| 25 | Siquan Wang | 1,470 |
-| 26 | Yao PU | 1,445 |
-| 27 | 0x researcher | 1,430 |
-| 28 | monamie.b | 1,425 |
-| 29 | Lea Wron | 1,400 |
-| 30 | Yan Li | 1,395 |
-| 31 | 大西洋 | 1,375 |
-| 32 | Siva Morgan | 1,360 |
-| 33 | Who_am_I | 1,340 |
-| 34 | Jonas Buro | 1,325 |
-| 35 | yanchang guo | 1,310 |
-| 36 | 陈景龙 | 1,300 |
-| 37 | Anirudh Senani | 1,265 |
-| 38 | bebeshka | 1,265 |
+| 4 | hiddenneuron | 2,170 |
+| 5 | Niels van Galen Last | 2,030 |
+| 6 | callrmshetty | 1,985 |
+| 7 | mr. Arman (梦想) | 1,835 |
+| 8 | Qiujiang Jin | 1,810 |
+| 9 | Kyle Zhou | 1,805 |
+| 10 | Zeyuan Li | 1,775 |
+| 11 | Yuzhou Chen | 1,750 |
+| 12 | 747893812 | 1,725 |
+| 13 | Joe Chaoyue | 1,715 |
+| 14 | tanghaibao | 1,695 |
+| 15 | anian.ruoss | 1,665 |
+| 16 | Anirudh Senani | 1,660 |
+| 17 | Alper Karaca | 1,655 |
+| 18 | zhiheng xu | 1,610 |
+| 19 | Sirui Zheng | 1,590 |
+| 20 | Kacper Urban | 1,580 |
+| 21 | Ma Al | 1,575 |
+| 22 | x15144067268 | 1,560 |
+| 23 | Yi Zhang | 1,555 |
+| 24 | Nikita Bekasov | 1,495 |
+| 25 | Shooshi | 1,490 |
+| 26 | Siquan Wang | 1,470 |
+| 27 | Yao PU | 1,445 |
+| 28 | 0x researcher | 1,430 |
+| 29 | monamie.b | 1,425 |
+| 30 | Lea Wron | 1,400 |
+| 31 | Yan Li | 1,395 |
+| 32 | 大西洋 | 1,375 |
+| 33 | Siva Morgan | 1,370 |
+| 34 | Who_am_I | 1,340 |
+| 35 | Jonas Buro | 1,325 |
+| 36 | yanchang guo | 1,310 |
+| 37 | 陈景龙 | 1,300 |
+| 38 | bebeshka | 1,290 |
 | 39 | Hailin Liu | 1,260 |
 | 40 | Xiaotian Han | 1,260 |
 | 41 | Wen Dong | 1,260 |
@@ -99,14 +99,14 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 76 | 金宸极 | 990 |
 | 77 | wanghaoyu417 | 990 |
 | 78 | Ruben Safaryan | 990 |
-| 79 | G L | 980 |
-| 80 | Zhang zikang | 980 |
-| 81 | parimala78 | 975 |
-| 82 | Rishabh Jain | 970 |
-| 83 | Hinna He | 970 |
-| 84 | Nguyễn lonx | 965 |
-| 85 | Jerry Liang | 960 |
-| 86 | Kuat Kurpenov | 955 |
+| 79 | Rishabh Jain | 980 |
+| 80 | Kuat Kurpenov | 980 |
+| 81 | G L | 980 |
+| 82 | Zhang zikang | 980 |
+| 83 | parimala78 | 975 |
+| 84 | Hinna He | 970 |
+| 85 | Nguyễn lonx | 965 |
+| 86 | Jerry Liang | 960 |
 | 87 | Tsimur Hadeliya | 950 |
 | 88 | Omid Shams | 945 |
 | 89 | musnc | 940 |
