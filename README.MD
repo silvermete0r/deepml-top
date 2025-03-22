@@ -22,105 +22,105 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | Rank | Username | Score |
 |------|---------|-------|
 | 1 | StoatScript | 3,340 |
-| 2 | Marco Cheng | 3,095 |
-| 3 | Niels van Galen Last | 2,490 |
+| 2 | Marco Cheng | 3,135 |
+| 3 | Niels van Galen Last | 2,530 |
 | 4 | hiddenneuron | 2,370 |
 | 5 | Yuzhou Chen | 2,370 |
 | 6 | Vick Mahase | 2,345 |
 | 7 | Márcio Pereira | 2,265 |
-| 8 | mr. Arman (梦想) | 2,100 |
-| 9 | Zeyuan Li | 2,070 |
+| 8 | mr. Arman (梦想) | 2,140 |
+| 9 | Zeyuan Li | 2,110 |
 | 10 | callrmshetty | 2,035 |
 | 11 | Anirudh Senani | 1,960 |
-| 12 | s233036 | 1,820 |
+| 12 | s233036 | 1,870 |
 | 13 | Qiujiang Jin | 1,810 |
 | 14 | Kyle Zhou | 1,805 |
 | 15 | Shooshi | 1,765 |
 | 16 | tanghaibao | 1,745 |
-| 17 | 747893812 | 1,725 |
-| 18 | Joe Chaoyue | 1,715 |
-| 19 | Alper Karaca | 1,705 |
-| 20 | monamie.b | 1,705 |
-| 21 | Kacper Urban | 1,685 |
-| 22 | Nikita Bekasov | 1,680 |
-| 23 | anian.ruoss | 1,665 |
+| 17 | Kacper Urban | 1,725 |
+| 18 | 747893812 | 1,725 |
+| 19 | anian.ruoss | 1,715 |
+| 20 | razorkrekboy | 1,715 |
+| 21 | Joe Chaoyue | 1,715 |
+| 22 | monamie.b | 1,705 |
+| 23 | Nikita Bekasov | 1,680 |
 | 24 | Ma Al | 1,650 |
-| 25 | 0x researcher | 1,625 |
+| 25 | 0x researcher | 1,635 |
 | 26 | zhiheng xu | 1,610 |
 | 27 | Sirui Zheng | 1,590 |
 | 28 | Lea Wron | 1,590 |
-| 29 | x15144067268 | 1,560 |
-| 30 | Yi Zhang | 1,555 |
-| 31 | bebeshka | 1,545 |
-| 32 | Siquan Wang | 1,470 |
-| 33 | Siva Morgan | 1,470 |
+| 29 | Никита Шешко | 1,570 |
+| 30 | x15144067268 | 1,560 |
+| 31 | Yi Zhang | 1,555 |
+| 32 | Siva Morgan | 1,480 |
+| 33 | Siquan Wang | 1,470 |
 | 34 | Yao PU | 1,445 |
-| 35 | Yan Li | 1,395 |
-| 36 | Chi Yang | 1,375 |
-| 37 | 大西洋 | 1,375 |
-| 38 | Tafadar Soujad | 1,360 |
-| 39 | Who_am_I | 1,340 |
-| 40 | Jonas Buro | 1,325 |
-| 41 | yanchang guo | 1,310 |
-| 42 | 陈景龙 | 1,300 |
-| 43 | Maddhurima Monddal | 1,265 |
-| 44 | Hailin Liu | 1,260 |
-| 45 | Xiaotian Han | 1,260 |
-| 46 | Wen Dong | 1,260 |
-| 47 | Kuat Kurpenov | 1,255 |
-| 48 | Rishabh Jain | 1,245 |
-| 49 | breeze breeze | 1,220 |
-| 50 | cl3898 | 1,215 |
-| 51 | Salim Beyden | 1,215 |
-| 52 | zhang_jiayu1997 | 1,215 |
-| 53 | Yu Yang Chang | 1,195 |
-| 54 | 陳紹銘 | 1,195 |
-| 55 | dy c | 1,175 |
-| 56 | Renato Pino | 1,170 |
-| 57 | Dhruv Jain | 1,160 |
-| 58 | lishlin8 | 1,155 |
-| 59 | pvigura | 1,150 |
-| 60 | hiiu Ang | 1,150 |
-| 61 | yd.nan | 1,145 |
-| 62 | fernandocasabanblasco | 1,140 |
-| 63 | Yangyang Xu | 1,140 |
-| 64 | John Hu | 1,135 |
-| 65 | Lan Luo | 1,130 |
-| 66 | romil797 | 1,130 |
+| 35 | Tafadar Soujad | 1,410 |
+| 36 | Yan Li | 1,395 |
+| 37 | Chi Yang | 1,375 |
+| 38 | 大西洋 | 1,375 |
+| 39 | romil797 | 1,360 |
+| 40 | Who_am_I | 1,340 |
+| 41 | Jonas Buro | 1,325 |
+| 42 | yanchang guo | 1,310 |
+| 43 | 陈景龙 | 1,300 |
+| 44 | Rishabh Jain | 1,285 |
+| 45 | Kuat Kurpenov | 1,280 |
+| 46 | zhang_jiayu1997 | 1,280 |
+| 47 | breeze breeze | 1,270 |
+| 48 | Maddhurima Monddal | 1,265 |
+| 49 | Hailin Liu | 1,260 |
+| 50 | Xiaotian Han | 1,260 |
+| 51 | Wen Dong | 1,260 |
+| 52 | cl3898 | 1,215 |
+| 53 | Salim Beyden | 1,215 |
+| 54 | Yu Yang Chang | 1,195 |
+| 55 | 陳紹銘 | 1,195 |
+| 56 | dy c | 1,175 |
+| 57 | Renato Pino | 1,170 |
+| 58 | Dhruv Jain | 1,160 |
+| 59 | lishlin8 | 1,155 |
+| 60 | pvigura | 1,150 |
+| 61 | hiiu Ang | 1,150 |
+| 62 | yd.nan | 1,145 |
+| 63 | fernandocasabanblasco | 1,140 |
+| 64 | Yangyang Xu | 1,140 |
+| 65 | John Hu | 1,135 |
+| 66 | Lan Luo | 1,130 |
 | 67 | G L | 1,120 |
 | 68 | cxxuhang | 1,115 |
 | 69 | Shayan Talaei | 1,110 |
 | 70 | jiruiteng9981 | 1,100 |
 | 71 | panbanaras111 | 1,095 |
 | 72 | G. Prashant | 1,095 |
-| 73 | Георгий Покумин | 1,090 |
-| 74 | Hrishikesh Shekhar (Gameface123) | 1,075 |
-| 75 | Hanlin Liu | 1,075 |
-| 76 | 李可涵 | 1,075 |
-| 77 | Hinna He | 1,070 |
+| 73 | Hinna He | 1,095 |
+| 74 | Георгий Покумин | 1,090 |
+| 75 | Hrishikesh Shekhar (Gameface123) | 1,075 |
+| 76 | Hanlin Liu | 1,075 |
+| 77 | 李可涵 | 1,075 |
 | 78 | cypher.com | 1,065 |
-| 79 | Tanmayi Balla | 1,065 |
-| 80 | Guhan Venkataraman | 1,050 |
-| 81 | Nikita Bashaev | 1,030 |
-| 82 | N R | 1,030 |
-| 83 | Eve Hu | 1,025 |
-| 84 | Patteera T. | 1,025 |
+| 79 | Patteera T. | 1,065 |
+| 80 | Tanmayi Balla | 1,065 |
+| 81 | Guhan Venkataraman | 1,050 |
+| 82 | Nikita Bashaev | 1,030 |
+| 83 | N R | 1,030 |
+| 84 | Eve Hu | 1,025 |
 | 85 | Yichao Shen | 1,025 |
 | 86 | yusun1994sjtu | 1,025 |
 | 87 | Zhang zikang | 1,020 |
 | 88 | Chih-Hao Fang | 1,010 |
 | 89 | Liu Ziyu | 1,010 |
-| 90 | Jiahao Xu | 995 |
-| 91 | chandupvsl29 | 995 |
-| 92 | danzhang6561 | 995 |
-| 93 | 金宸极 | 990 |
-| 94 | wanghaoyu417 | 990 |
-| 95 | Ruben Safaryan | 990 |
-| 96 | parimala78 | 975 |
-| 97 | Ivan Koptiev | 970 |
-| 98 | Nguyễn lonx | 965 |
-| 99 | Jerry Liang | 960 |
-| 100 | Arjun Saxena | 960 |
+| 90 | Arjun Saxena | 1,000 |
+| 91 | Ivan Koptiev | 995 |
+| 92 | Jiahao Xu | 995 |
+| 93 | Zehua Liu | 995 |
+| 94 | chandupvsl29 | 995 |
+| 95 | danzhang6561 | 995 |
+| 96 | 金宸极 | 990 |
+| 97 | wanghaoyu417 | 990 |
+| 98 | Ruben Safaryan | 990 |
+| 99 | parimala78 | 975 |
+| 100 | Joe Qi | 970 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
