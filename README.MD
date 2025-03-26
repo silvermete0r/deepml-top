@@ -35,33 +35,33 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 12 | s233036 | 1,895 |
 | 13 | Qiujiang Jin | 1,810 |
 | 14 | Kyle Zhou | 1,805 |
-| 15 | Shooshi | 1,765 |
-| 16 | tanghaibao | 1,755 |
-| 17 | Kacper Urban | 1,725 |
-| 18 | 747893812 | 1,725 |
-| 19 | anian.ruoss | 1,715 |
-| 20 | razorkrekboy | 1,715 |
-| 21 | Joe Chaoyue | 1,715 |
-| 22 | monamie.b | 1,705 |
-| 23 | Nikita Bekasov | 1,680 |
-| 24 | 0x researcher | 1,665 |
-| 25 | Ma Al | 1,650 |
-| 26 | bebeshka | 1,645 |
-| 27 | Lea Wron | 1,640 |
-| 28 | zhiheng xu | 1,610 |
-| 29 | Sirui Zheng | 1,590 |
-| 30 | Yi Zhang | 1,565 |
-| 31 | x15144067268 | 1,560 |
-| 32 | romil797 | 1,535 |
-| 33 | Siva Morgan | 1,530 |
+| 15 | anian.ruoss | 1,775 |
+| 16 | Shooshi | 1,765 |
+| 17 | tanghaibao | 1,755 |
+| 18 | romil797 | 1,735 |
+| 19 | Kacper Urban | 1,725 |
+| 20 | 747893812 | 1,725 |
+| 21 | razorkrekboy | 1,715 |
+| 22 | Joe Chaoyue | 1,715 |
+| 23 | monamie.b | 1,705 |
+| 24 | Nikita Bekasov | 1,680 |
+| 25 | 0x researcher | 1,675 |
+| 26 | Ma Al | 1,650 |
+| 27 | bebeshka | 1,645 |
+| 28 | Lea Wron | 1,640 |
+| 29 | zhiheng xu | 1,610 |
+| 30 | Sirui Zheng | 1,590 |
+| 31 | Yi Zhang | 1,565 |
+| 32 | x15144067268 | 1,560 |
+| 33 | Siva Morgan | 1,540 |
 | 34 | Siquan Wang | 1,470 |
 | 35 | 大西洋 | 1,450 |
 | 36 | Yao PU | 1,445 |
 | 37 | Tafadar Soujad | 1,410 |
 | 38 | ZhangJY | 1,410 |
-| 39 | Yan Li | 1,395 |
-| 40 | Chi Yang | 1,375 |
-| 41 | Kuat Kurpenov | 1,355 |
+| 39 | Chi Yang | 1,395 |
+| 40 | Yan Li | 1,395 |
+| 41 | Kuat Kurpenov | 1,380 |
 | 42 | Jonas Buro | 1,325 |
 | 43 | yanchang guo | 1,310 |
 | 44 | 陈景龙 | 1,300 |
@@ -92,35 +92,35 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 69 | G L | 1,120 |
 | 70 | cxxuhang | 1,115 |
 | 71 | Shayan Talaei | 1,110 |
-| 72 | jiruiteng9981 | 1,100 |
-| 73 | panbanaras111 | 1,095 |
-| 74 | G. Prashant | 1,095 |
-| 75 | Nan He | 1,095 |
-| 76 | Joe Qi | 1,090 |
-| 77 | Георгий Покумин | 1,090 |
-| 78 | alessandro.conti.97 | 1,085 |
-| 79 | Hrishikesh Shekhar (Gameface123) | 1,075 |
-| 80 | Hanlin Liu | 1,075 |
-| 81 | 李可涵 | 1,075 |
-| 82 | cypher.com | 1,065 |
-| 83 | Tanmayi Balla | 1,065 |
-| 84 | Arjun Saxena | 1,040 |
-| 85 | Nikita Bashaev | 1,030 |
-| 86 | doanthaison27 | 1,030 |
-| 87 | N R | 1,030 |
-| 88 | Eve Hu | 1,025 |
-| 89 | Yichao Shen | 1,025 |
-| 90 | yusun1994sjtu | 1,025 |
-| 91 | Zhang zikang | 1,020 |
-| 92 | Chih-Hao Fang | 1,010 |
-| 93 | Liu Ziyu | 1,010 |
-| 94 | Ivan Koptiev | 995 |
-| 95 | Jiahao Xu | 995 |
-| 96 | chandupvsl29 | 995 |
-| 97 | danzhang6561 | 995 |
-| 98 | 金宸极 | 990 |
-| 99 | wanghaoyu417 | 990 |
-| 100 | Ruben Safaryan | 990 |
+| 72 | alessandro.conti.97 | 1,110 |
+| 73 | jiruiteng9981 | 1,100 |
+| 74 | Joe Qi | 1,100 |
+| 75 | panbanaras111 | 1,095 |
+| 76 | G. Prashant | 1,095 |
+| 77 | Nan He | 1,095 |
+| 78 | Ivan Koptiev | 1,095 |
+| 79 | Георгий Покумин | 1,090 |
+| 80 | Jingshuang Chen (Janie) | 1,080 |
+| 81 | Hrishikesh Shekhar (Gameface123) | 1,075 |
+| 82 | Hanlin Liu | 1,075 |
+| 83 | 李可涵 | 1,075 |
+| 84 | doanthaison27 | 1,070 |
+| 85 | cypher.com | 1,065 |
+| 86 | Tanmayi Balla | 1,065 |
+| 87 | N R | 1,065 |
+| 88 | Александр Пупков | 1,045 |
+| 89 | Arjun Saxena | 1,040 |
+| 90 | Nikita Bashaev | 1,030 |
+| 91 | Yichao Shen | 1,025 |
+| 92 | yusun1994sjtu | 1,025 |
+| 93 | Zhang zikang | 1,020 |
+| 94 | Chih-Hao Fang | 1,010 |
+| 95 | automorphing | 1,010 |
+| 96 | Liu Ziyu | 1,010 |
+| 97 | Jiahao Xu | 995 |
+| 98 | chandupvsl29 | 995 |
+| 99 | danzhang6561 | 995 |
+| 100 | 金宸极 | 990 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
