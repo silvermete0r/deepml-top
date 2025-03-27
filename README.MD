@@ -31,17 +31,17 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 8 | Márcio Pereira | 2,265 |
 | 9 | Zeyuan Li | 2,150 |
 | 10 | callrmshetty | 2,070 |
-| 11 | Anirudh Senani | 1,960 |
-| 12 | s233036 | 1,895 |
-| 13 | Qiujiang Jin | 1,810 |
-| 14 | Kyle Zhou | 1,805 |
-| 15 | anian.ruoss | 1,775 |
-| 16 | Shooshi | 1,765 |
-| 17 | tanghaibao | 1,755 |
-| 18 | romil797 | 1,735 |
+| 11 | romil797 | 2,010 |
+| 12 | Anirudh Senani | 1,960 |
+| 13 | s233036 | 1,945 |
+| 14 | Qiujiang Jin | 1,810 |
+| 15 | Kyle Zhou | 1,805 |
+| 16 | anian.ruoss | 1,775 |
+| 17 | Shooshi | 1,765 |
+| 18 | tanghaibao | 1,755 |
 | 19 | Kacper Urban | 1,725 |
 | 20 | 747893812 | 1,725 |
-| 21 | razorkrekboy | 1,715 |
+| 21 | Alper Karaca | 1,715 |
 | 22 | Joe Chaoyue | 1,715 |
 | 23 | monamie.b | 1,705 |
 | 24 | Nikita Bekasov | 1,680 |
@@ -51,17 +51,17 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 28 | Lea Wron | 1,640 |
 | 29 | zhiheng xu | 1,610 |
 | 30 | Sirui Zheng | 1,590 |
-| 31 | Yi Zhang | 1,565 |
-| 32 | x15144067268 | 1,560 |
-| 33 | Siva Morgan | 1,540 |
+| 31 | Siva Morgan | 1,580 |
+| 32 | Yi Zhang | 1,565 |
+| 33 | x15144067268 | 1,560 |
 | 34 | Siquan Wang | 1,470 |
-| 35 | 大西洋 | 1,450 |
-| 36 | Yao PU | 1,445 |
-| 37 | Tafadar Soujad | 1,410 |
-| 38 | ZhangJY | 1,410 |
-| 39 | Chi Yang | 1,395 |
-| 40 | Yan Li | 1,395 |
-| 41 | Kuat Kurpenov | 1,380 |
+| 35 | ZhangJY | 1,460 |
+| 36 | 大西洋 | 1,450 |
+| 37 | Yao PU | 1,445 |
+| 38 | Tafadar Soujad | 1,410 |
+| 39 | Kuat Kurpenov | 1,405 |
+| 40 | Chi Yang | 1,395 |
+| 41 | Yan Li | 1,395 |
 | 42 | Jonas Buro | 1,325 |
 | 43 | yanchang guo | 1,310 |
 | 44 | 陈景龙 | 1,300 |
@@ -72,35 +72,35 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 49 | Xiaotian Han | 1,260 |
 | 50 | Wen Dong | 1,260 |
 | 51 | Guhan Venkataraman | 1,245 |
-| 52 | cl3898 | 1,215 |
-| 53 | Salim Beyden | 1,215 |
-| 54 | yd.nan | 1,210 |
-| 55 | Yu Yang Chang | 1,195 |
-| 56 | 陳紹銘 | 1,195 |
-| 57 | dy c | 1,175 |
-| 58 | Renato Pino | 1,170 |
-| 59 | Dhruv Jain | 1,160 |
-| 60 | lishlin8 | 1,155 |
-| 61 | pvigura | 1,150 |
-| 62 | hiiu Ang | 1,150 |
-| 63 | Patteera T. | 1,145 |
-| 64 | fernandocasabanblasco | 1,140 |
-| 65 | Lan Luo | 1,140 |
-| 66 | Yangyang Xu | 1,140 |
-| 67 | John Hu | 1,135 |
-| 68 | Zehua Liu | 1,135 |
-| 69 | G L | 1,120 |
-| 70 | cxxuhang | 1,115 |
-| 71 | Shayan Talaei | 1,110 |
-| 72 | alessandro.conti.97 | 1,110 |
-| 73 | jiruiteng9981 | 1,100 |
-| 74 | Joe Qi | 1,100 |
-| 75 | panbanaras111 | 1,095 |
-| 76 | G. Prashant | 1,095 |
-| 77 | Nan He | 1,095 |
-| 78 | Ivan Koptiev | 1,095 |
-| 79 | Георгий Покумин | 1,090 |
-| 80 | Jingshuang Chen (Janie) | 1,080 |
+| 52 | yd.nan | 1,245 |
+| 53 | Jingshuang Chen (Janie) | 1,220 |
+| 54 | cl3898 | 1,215 |
+| 55 | Salim Beyden | 1,215 |
+| 56 | Yu Yang Chang | 1,195 |
+| 57 | 陳紹銘 | 1,195 |
+| 58 | dy c | 1,175 |
+| 59 | Renato Pino | 1,170 |
+| 60 | John Hu | 1,160 |
+| 61 | Dhruv Jain | 1,160 |
+| 62 | Ivan Koptiev | 1,160 |
+| 63 | lishlin8 | 1,155 |
+| 64 | pvigura | 1,150 |
+| 65 | hiiu Ang | 1,150 |
+| 66 | Patteera T. | 1,145 |
+| 67 | fernandocasabanblasco | 1,140 |
+| 68 | Lan Luo | 1,140 |
+| 69 | Yangyang Xu | 1,140 |
+| 70 | Zehua Liu | 1,135 |
+| 71 | G L | 1,120 |
+| 72 | cxxuhang | 1,115 |
+| 73 | Shayan Talaei | 1,110 |
+| 74 | alessandro.conti.97 | 1,110 |
+| 75 | Joe Qi | 1,100 |
+| 76 | panbanaras111 | 1,095 |
+| 77 | G. Prashant | 1,095 |
+| 78 | Nan He | 1,095 |
+| 79 | Chuantai Ju | 1,090 |
+| 80 | Георгий Покумин | 1,090 |
 | 81 | Hrishikesh Shekhar (Gameface123) | 1,075 |
 | 82 | Hanlin Liu | 1,075 |
 | 83 | 李可涵 | 1,075 |
@@ -108,19 +108,19 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 85 | cypher.com | 1,065 |
 | 86 | Tanmayi Balla | 1,065 |
 | 87 | N R | 1,065 |
-| 88 | Александр Пупков | 1,045 |
-| 89 | Arjun Saxena | 1,040 |
-| 90 | Nikita Bashaev | 1,030 |
-| 91 | Yichao Shen | 1,025 |
-| 92 | yusun1994sjtu | 1,025 |
-| 93 | Zhang zikang | 1,020 |
-| 94 | Chih-Hao Fang | 1,010 |
-| 95 | automorphing | 1,010 |
-| 96 | Liu Ziyu | 1,010 |
-| 97 | Jiahao Xu | 995 |
-| 98 | chandupvsl29 | 995 |
-| 99 | danzhang6561 | 995 |
-| 100 | 金宸极 | 990 |
+| 88 | Arjun Saxena | 1,050 |
+| 89 | Александр Пупков | 1,045 |
+| 90 | trangstalbergle | 1,035 |
+| 91 | Nikita Agarwal | 1,030 |
+| 92 | Nikita Bashaev | 1,030 |
+| 93 | Yichao Shen | 1,025 |
+| 94 | yusun1994sjtu | 1,025 |
+| 95 | Zhang zikang | 1,020 |
+| 96 | Ben Yao | 1,015 |
+| 97 | Chih-Hao Fang | 1,010 |
+| 98 | automorphing | 1,010 |
+| 99 | Liu Ziyu | 1,010 |
+| 100 | Artyom Iudin | 1,000 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
