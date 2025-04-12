@@ -32,7 +32,7 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 9 | Yuzhou Chen | 2,410 |
 | 10 | Vick Mahase | 2,345 |
 | 11 | Márcio Pereira | 2,265 |
-| 12 | callrmshetty | 2,180 |
+| 12 | callrmshetty | 2,190 |
 | 13 | Zeyuan Li | 2,150 |
 | 14 | bebeshka | 2,130 |
 | 15 | romil797 | 2,120 |
@@ -41,32 +41,32 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 18 | s233036 | 2,015 |
 | 19 | N R | 1,980 |
 | 20 | Anirudh Senani | 1,960 |
-| 21 | trangstalbergle | 1,840 |
-| 22 | Lea Wron | 1,840 |
+| 21 | Lea Wron | 1,880 |
+| 22 | trangstalbergle | 1,840 |
 | 23 | Qiujiang Jin | 1,810 |
 | 24 | Kyle Zhou | 1,805 |
-| 25 | Alper Karaca | 1,775 |
-| 26 | Shooshi | 1,765 |
-| 27 | Kuat Kurpenov | 1,765 |
+| 25 | Alper Karaca | 1,785 |
+| 26 | Kuat Kurpenov | 1,775 |
+| 27 | Shooshi | 1,765 |
 | 28 | Siva Morgan | 1,765 |
 | 29 | tanghaibao | 1,755 |
 | 30 | Kacper Urban | 1,745 |
-| 31 | 747893812 | 1,725 |
-| 32 | Ma Al | 1,720 |
+| 31 | Ma Al | 1,745 |
+| 32 | 747893812 | 1,725 |
 | 33 | Joe Chaoyue | 1,715 |
 | 34 | monamie.b | 1,705 |
 | 35 | 0x researcher | 1,685 |
 | 36 | Nikita Bekasov | 1,680 |
-| 37 | Ivan Koptiev | 1,620 |
-| 38 | Yi Zhang | 1,620 |
-| 39 | zhiheng xu | 1,610 |
-| 40 | yd.nan | 1,605 |
-| 41 | Sirui Zheng | 1,590 |
-| 42 | x15144067268 | 1,560 |
-| 43 | Peter Li | 1,545 |
-| 44 | Salim Beyden | 1,508.5 |
-| 45 | Patteera T. | 1,505 |
-| 46 | jwu456789 | 1,480 |
+| 37 | jwu456789 | 1,630 |
+| 38 | Ivan Koptiev | 1,630 |
+| 39 | Yi Zhang | 1,620 |
+| 40 | yd.nan | 1,615 |
+| 41 | zhiheng xu | 1,610 |
+| 42 | Sirui Zheng | 1,590 |
+| 43 | x15144067268 | 1,560 |
+| 44 | Salim Beyden | 1,548.5 |
+| 45 | Peter Li | 1,545 |
+| 46 | Patteera T. | 1,505 |
 | 47 | Yuda | 1,475.34 |
 | 48 | Adam | 1,470 |
 | 49 | Siquan Wang | 1,470 |
@@ -84,15 +84,15 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 61 | Jonas Buro | 1,325 |
 | 62 | yanchang guo | 1,310 |
 | 63 | 陈景龙 | 1,300 |
-| 64 | Rishabh Jain | 1,285 |
-| 65 | alessandro.conti.97 | 1,265 |
-| 66 | Maddhurima Monddal | 1,265 |
-| 67 | Hailin Liu | 1,260 |
-| 68 | Xiaotian Han | 1,260 |
-| 69 | Wen Dong | 1,260 |
-| 70 | Chi Yang | 1,255.5 |
-| 71 | Guhan Venkataraman | 1,245 |
-| 72 | Md. Faiyaz Abdullah Sayeedi | 1,235 |
+| 64 | alessandro.conti.97 | 1,290 |
+| 65 | Rishabh Jain | 1,285 |
+| 66 | Md. Faiyaz Abdullah Sayeedi | 1,270 |
+| 67 | Maddhurima Monddal | 1,265 |
+| 68 | Hailin Liu | 1,260 |
+| 69 | Xiaotian Han | 1,260 |
+| 70 | Wen Dong | 1,260 |
+| 71 | Chi Yang | 1,255.5 |
+| 72 | Guhan Venkataraman | 1,245 |
 | 73 | Eric Xia | 1,225 |
 | 74 | doanthaison27 | 1,220 |
 | 75 | DhanushKumar .R | 1,220 |
@@ -114,13 +114,13 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 91 | G L | 1,120 |
 | 92 | cxxuhang | 1,115 |
 | 93 | Shayan Talaei | 1,110 |
-| 94 | Anson Shek | 1,105 |
-| 95 | panbanaras111 | 1,095 |
-| 96 | G. Prashant | 1,095 |
-| 97 | Nan He | 1,095 |
-| 98 | Sabina Abdurakhmanova | 1,095 |
-| 99 | Александр Пупков | 1,095 |
-| 100 | Георгий Покумин | 1,090 |
+| 94 | Kunvar Thaman | 1,105.5 |
+| 95 | Anson Shek | 1,105 |
+| 96 | panbanaras111 | 1,095 |
+| 97 | G. Prashant | 1,095 |
+| 98 | Nan He | 1,095 |
+| 99 | Sabina Abdurakhmanova | 1,095 |
+| 100 | Александр Пупков | 1,095 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
