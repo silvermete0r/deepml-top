@@ -25,7 +25,7 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 2 | StoatScript | 3,630 |
 | 3 | mr. Arman (梦想) | 3,555 |
 | 4 | Niels van Galen Last | 3,385 |
-| 5 | ZhangJY | 2,865 |
+| 5 | ZhangJY | 2,875 |
 | 6 | antonoof | 2,780 |
 | 7 | hiddenneuron | 2,715 |
 | 8 | N R | 2,700 |
@@ -34,14 +34,14 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 11 | Anirudh Senani | 2,525 |
 | 12 | jwu456789 | 2,520 |
 | 13 | Haolun Zhang | 2,510 |
-| 14 | Lea Wron | 2,460 |
+| 14 | Lea Wron | 2,500 |
 | 15 | Kuat Kurpenov | 2,420 |
 | 16 | Yuzhou Chen | 2,410 |
 | 17 | anian.ruoss | 2,405 |
 | 18 | trangstålgrenle | 2,375 |
 | 19 | Vick Mahase | 2,345 |
 | 20 | Márcio Pereira | 2,265 |
-| 21 | DhanushKumar .R | 2,220 |
+| 21 | DhanushKumar .R | 2,245 |
 | 22 | Siva Morgan | 2,175 |
 | 23 | Zeyuan Li | 2,150 |
 | 24 | bebeshka | 2,130 |
@@ -66,50 +66,50 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 43 | 747893812 | 1,725 |
 | 44 | Joe Chaoyue | 1,715 |
 | 45 | monamie.b | 1,705 |
-| 46 | Nikita Bekasov | 1,680 |
-| 47 | 1nkik H | 1,665 |
-| 48 | Yi Zhang | 1,620 |
-| 49 | zhiheng xu | 1,610 |
-| 50 | Yin Xiaoln | 1,610 |
-| 51 | Sirui Zheng | 1,590 |
-| 52 | JiaYi Fu | 1,590 |
-| 53 | x15144067268 | 1,560 |
-| 54 | automorphing | 1,560 |
+| 46 | JiaYi Fu | 1,690 |
+| 47 | Nikita Bekasov | 1,680 |
+| 48 | 1nkik H | 1,665 |
+| 49 | Yi Zhang | 1,620 |
+| 50 | zhiheng xu | 1,610 |
+| 51 | automorphing | 1,610 |
+| 52 | Yin Xiaoln | 1,610 |
+| 53 | Sirui Zheng | 1,590 |
+| 54 | x15144067268 | 1,560 |
 | 55 | Peter Li | 1,545 |
 | 56 | md faiyaz abdullah sayeedi | 1,545 |
 | 57 | SantaClaus | 1,525 |
-| 58 | Max Ling | 1,505 |
-| 59 | Tushar aggarwal | 1,485 |
-| 60 | Yuda | 1,475.34 |
-| 61 | Adam | 1,470 |
-| 62 | Siquan Wang | 1,470 |
-| 63 | Nicolas De Bie | 1,469.132 |
-| 64 | Eric Xia | 1,465 |
-| 65 | Maksym Koval | 1,460 |
-| 66 | xly | 1,455 |
-| 67 | Tafadar Soujad | 1,450 |
-| 68 | 大西洋 | 1,450 |
-| 69 | Yao PU | 1,445 |
-| 70 | John Hu | 1,445 |
-| 71 | Arjun Saxena | 1,440 |
-| 72 | Venkat Ratnam Vadhri | 1,430 |
-| 73 | Ching Wei Tseng | 1,415 |
-| 74 | alessandro.conti.97 | 1,410 |
-| 75 | Maksim Nikolin | 1,405 |
-| 76 | Prasad agalave | 1,404.35 |
-| 77 | Xiao Lei Zhang | 1,390 |
-| 78 | Chuantai Ju | 1,390 |
-| 79 | soumit saha | 1,385 |
-| 80 | NIESCHAL GHOSH | 1,380 |
+| 58 | Tushar aggarwal | 1,510 |
+| 59 | Max Ling | 1,505 |
+| 60 | Maksym Koval | 1,500 |
+| 61 | Yuda | 1,475.34 |
+| 62 | Venkat Ratnam Vadhri | 1,470 |
+| 63 | Adam | 1,470 |
+| 64 | Siquan Wang | 1,470 |
+| 65 | Nicolas De Bie | 1,469.132 |
+| 66 | Eric Xia | 1,465 |
+| 67 | xly | 1,455 |
+| 68 | Tafadar Soujad | 1,450 |
+| 69 | Xiao Lei Zhang | 1,450 |
+| 70 | 大西洋 | 1,450 |
+| 71 | Yao PU | 1,445 |
+| 72 | John Hu | 1,445 |
+| 73 | Arjun Saxena | 1,440 |
+| 74 | Ching Wei Tseng | 1,415 |
+| 75 | Prasad agalave | 1,414.35 |
+| 76 | alessandro.conti.97 | 1,410 |
+| 77 | NIESCHAL GHOSH | 1,405 |
+| 78 | Maksim Nikolin | 1,405 |
+| 79 | Chuantai Ju | 1,390 |
+| 80 | soumit saha | 1,385 |
 | 81 | Aymen Boustani | 1,380 |
 | 82 | Nikita Agarwal | 1,375 |
 | 83 | breeze breeze | 1,371.5 |
 | 84 | Joe Qi | 1,360 |
 | 85 | Ziang Zhao | 1,337.35 |
 | 86 | ajay gangwar | 1,335 |
-| 87 | Anh Tú Ngô | 1,330 |
-| 88 | PAT | 1,330 |
-| 89 | Guntur Periperi | 1,325 |
+| 87 | Guntur Periperi | 1,335 |
+| 88 | Anh Tú Ngô | 1,330 |
+| 89 | PAT | 1,330 |
 | 90 | Jonas Buro | 1,325 |
 | 91 | Sergey | 1,320 |
 | 92 | yanchang guo | 1,310 |
@@ -117,10 +117,10 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 94 | 陈景龙 | 1,300 |
 | 95 | Rishabh Jain | 1,285 |
 | 96 | Chi Yang | 1,265.5 |
-| 97 | Maddhurima Monddal | 1,265 |
-| 98 | Anson Shek | 1,264.5 |
-| 99 | Hailin Liu | 1,260 |
-| 100 | Xiaotian Han | 1,260 |
+| 97 | songwenshen.ustc | 1,265 |
+| 98 | Maddhurima Monddal | 1,265 |
+| 99 | Anson Shek | 1,264.5 |
+| 100 | Hailin Liu | 1,260 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
