@@ -21,76 +21,76 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 <!-- LEADERBOARD_START -->
 | Rank | Username | Score |
 |------|---------|-------|
-| 1 | Marco Cheng | 4,350 |
+| 1 | Marco Cheng | 4,390 |
 | 2 | StoatScript | 3,815 |
 | 3 | mr. Arman (梦想) | 3,765 |
 | 4 | Niels van Galen Last | 3,440 |
 | 5 | ZhangJY | 3,215 |
-| 6 | Kuat Kurpenov | 2,845 |
-| 7 | N R | 2,835 |
-| 8 | antonoof | 2,780 |
-| 9 | Lea Wron | 2,745 |
-| 10 | hiddenneuron | 2,715 |
-| 11 | Mahdi Farmahini Farahani | 2,710 |
+| 6 | N R | 2,860 |
+| 7 | Kuat Kurpenov | 2,845 |
+| 8 | Mahdi Farmahini Farahani | 2,845 |
+| 9 | Lea Wron | 2,785 |
+| 10 | antonoof | 2,780 |
+| 11 | hiddenneuron | 2,715 |
 | 12 | BY | 2,695 |
-| 13 | trangstålgrenle | 2,645 |
-| 14 | Patteera Triamamornwooth | 2,630 |
-| 15 | Anirudh Senani | 2,570 |
-| 16 | DhanushKumar .R | 2,545 |
+| 13 | Patteera Triamamornwooth | 2,670 |
+| 14 | trangstålgrenle | 2,645 |
+| 15 | DhanushKumar .R | 2,585 |
+| 16 | Anirudh Senani | 2,570 |
 | 17 | Siva Morgan | 2,540 |
 | 18 | jwu456789 | 2,520 |
 | 19 | Haolun Zhang | 2,510 |
 | 20 | anian.ruoss | 2,465 |
 | 21 | Yuzhou Chen | 2,410 |
-| 22 | Vick Mahase | 2,345 |
-| 23 | Salim Beyden | 2,333.5 |
+| 22 | Salim Beyden | 2,373.5 |
+| 23 | Vick Mahase | 2,345 |
 | 24 | Shi-Wei Zhou | 2,325 |
 | 25 | atoms-iambics.4i | 2,265 |
 | 26 | Márcio Pereira | 2,265 |
 | 27 | Nabeel Raza | 2,220 |
-| 28 | 1nkik H | 2,170 |
+| 28 | 1nkik H | 2,210 |
 | 29 | Zeyuan Li | 2,150 |
 | 30 | bebeshka | 2,130 |
 | 31 | ps | 2,125 |
-| 32 | romil797 | 2,120 |
-| 33 | callrmshetty | 2,102.5 |
-| 34 | Ivan Koptiev | 2,085 |
+| 32 | Ivan Koptiev | 2,125 |
+| 33 | romil797 | 2,120 |
+| 34 | callrmshetty | 2,102.5 |
 | 35 | Mythri Shivakumar | 2,040 |
 | 36 | yang_mingxin | 2,020 |
 | 37 | s233036 | 2,015 |
 | 38 | Shooshi | 1,980 |
-| 39 | Kacper Urban | 1,915 |
-| 40 | NIESCHAL GHOSH | 1,910 |
-| 41 | Anh Tú Ngô | 1,890 |
+| 39 | Anh Tú Ngô | 1,930 |
+| 40 | Kacper Urban | 1,915 |
+| 41 | NIESCHAL GHOSH | 1,910 |
 | 42 | SantaClaus | 1,890 |
 | 43 | soumit saha | 1,885 |
-| 44 | Tushar aggarwal | 1,875 |
-| 45 | Ma Al | 1,865 |
-| 46 | yd.nan | 1,855 |
-| 47 | Сашка Крылов 40 | 1,840 |
-| 48 | 0x researcher | 1,840 |
-| 49 | PAT | 1,835 |
-| 50 | Maksym Koval | 1,835 |
+| 44 | Сашка Крылов 40 | 1,880 |
+| 45 | Tushar aggarwal | 1,875 |
+| 46 | PAT | 1,875 |
+| 47 | Maksym Koval | 1,875 |
+| 48 | Ma Al | 1,865 |
+| 49 | yd.nan | 1,855 |
+| 50 | 0x researcher | 1,840 |
 | 51 | Qiujiang Jin | 1,810 |
 | 52 | Kyle Zhou | 1,805 |
 | 53 | Alper Karaca | 1,785 |
 | 54 | tanghaibao | 1,755 |
 | 55 | firstuserhere | 1,750.5 |
 | 56 | Eric Xia | 1,750 |
-| 57 | 747893812 | 1,725 |
-| 58 | Joe Chaoyue | 1,715 |
-| 59 | Prasad agalave | 1,709.35 |
-| 60 | Loading… ██████████████] 99% | 1,705 |
+| 57 | Loading… ██████████████] 99% | 1,745 |
+| 58 | 747893812 | 1,725 |
+| 59 | Joe Chaoyue | 1,715 |
+| 60 | Prasad agalave | 1,709.35 |
 | 61 | monamie.b | 1,705 |
 | 62 | JiaYi Fu | 1,690 |
 | 63 | Nikita Bekasov | 1,680 |
 | 64 | automorphing | 1,675 |
-| 65 | Yi Zhang | 1,640 |
-| 66 | Venkat Ratnam Vadhri | 1,635 |
-| 67 | Xiao Lei Zhang | 1,630 |
-| 68 | zhiheng xu | 1,610 |
-| 69 | Yin Xiaoln | 1,610 |
-| 70 | Max Ling | 1,600 |
+| 65 | Max Ling | 1,640 |
+| 66 | Yi Zhang | 1,640 |
+| 67 | Venkat Ratnam Vadhri | 1,635 |
+| 68 | Xiao Lei Zhang | 1,630 |
+| 69 | zhiheng xu | 1,610 |
+| 70 | Yin Xiaoln | 1,610 |
 | 71 | Sirui Zheng | 1,590 |
 | 72 | Maksim Nikolin | 1,570 |
 | 73 | Peter Li | 1,570 |
@@ -98,29 +98,29 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 75 | x15144067268 | 1,560 |
 | 76 | ZZ | 1,555 |
 | 77 | md faiyaz abdullah sayeedi | 1,545 |
-| 78 | Youshaa Murhij | 1,510 |
-| 79 | ajay gangwar | 1,495 |
-| 80 | Yuda | 1,475.34 |
-| 81 | Adam | 1,470 |
-| 82 | Siquan Wang | 1,470 |
-| 83 | Nicolas De Bie | 1,469.132 |
-| 84 | xly | 1,455 |
-| 85 | Tafadar Soujad | 1,450 |
-| 86 | Yashwanth | 1,450 |
-| 87 | 大西洋 | 1,450 |
-| 88 | Yao PU | 1,445 |
-| 89 | John Hu | 1,445 |
-| 90 | PythonPPP | 1,445 |
-| 91 | Sergey | 1,440 |
-| 92 | Anson Shek | 1,439.5 |
-| 93 | tplusd2897 | 1,434.936 |
-| 94 | Nikita Agarwal | 1,425 |
-| 95 | songwenshen.ustc | 1,425 |
-| 96 | Aymen Boustani | 1,415 |
-| 97 | alessandro.conti.97 | 1,410 |
-| 98 | breeze breeze | 1,396.5 |
-| 99 | Alex Shcherbakov | 1,390 |
-| 100 | Chuantai Ju | 1,390 |
+| 78 | Nicolas De Bie | 1,519.132 |
+| 79 | Youshaa Murhij | 1,510 |
+| 80 | ajay gangwar | 1,495 |
+| 81 | songwenshen.ustc | 1,490 |
+| 82 | PythonPPP | 1,485 |
+| 83 | Anson Shek | 1,479.5 |
+| 84 | Yuda | 1,475.34 |
+| 85 | Adam | 1,470 |
+| 86 | Siquan Wang | 1,470 |
+| 87 | xly | 1,455 |
+| 88 | Tafadar Soujad | 1,450 |
+| 89 | Yashwanth | 1,450 |
+| 90 | 大西洋 | 1,450 |
+| 91 | Yao PU | 1,445 |
+| 92 | John Hu | 1,445 |
+| 93 | Sergey | 1,440 |
+| 94 | tplusd2897 | 1,434.936 |
+| 95 | Alex Shcherbakov | 1,430 |
+| 96 | Nikita Agarwal | 1,425 |
+| 97 | Kapish Luhariwala | 1,420 |
+| 98 | Aymen Boustani | 1,415 |
+| 99 | alessandro.conti.97 | 1,410 |
+| 100 | Phu Pham Gia Tran | 1,397.717 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
