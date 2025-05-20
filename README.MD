@@ -25,16 +25,16 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 2 | StoatScript | 3,815 |
 | 3 | mr. Arman (梦想) | 3,765 |
 | 4 | Niels van Galen Last | 3,440 |
-| 5 | ZhangJY | 3,215 |
+| 5 | ZhangJY | 3,295 |
 | 6 | N R | 2,860 |
 | 7 | Kuat Kurpenov | 2,845 |
 | 8 | Mahdi Farmahini Farahani | 2,845 |
 | 9 | Lea Wron | 2,785 |
 | 10 | antonoof | 2,780 |
 | 11 | hiddenneuron | 2,715 |
-| 12 | BY | 2,695 |
-| 13 | Patteera Triamamornwooth | 2,670 |
-| 14 | trangstålgrenle | 2,645 |
+| 12 | trangstålgrenle | 2,700 |
+| 13 | BY | 2,695 |
+| 14 | Patteera Triamamornwooth | 2,670 |
 | 15 | DhanushKumar .R | 2,585 |
 | 16 | Anirudh Senani | 2,570 |
 | 17 | Siva Morgan | 2,540 |
@@ -50,37 +50,37 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 27 | Nabeel Raza | 2,220 |
 | 28 | 1nkik H | 2,210 |
 | 29 | Zeyuan Li | 2,150 |
-| 30 | bebeshka | 2,130 |
-| 31 | ps | 2,125 |
-| 32 | Ivan Koptiev | 2,125 |
+| 30 | Ivan Koptiev | 2,150 |
+| 31 | bebeshka | 2,130 |
+| 32 | ps | 2,125 |
 | 33 | romil797 | 2,120 |
 | 34 | callrmshetty | 2,102.5 |
 | 35 | Mythri Shivakumar | 2,040 |
 | 36 | yang_mingxin | 2,020 |
 | 37 | s233036 | 2,015 |
-| 38 | Shooshi | 1,980 |
-| 39 | Anh Tú Ngô | 1,930 |
-| 40 | Kacper Urban | 1,915 |
-| 41 | NIESCHAL GHOSH | 1,910 |
-| 42 | SantaClaus | 1,890 |
-| 43 | soumit saha | 1,885 |
-| 44 | Сашка Крылов 40 | 1,880 |
-| 45 | Tushar aggarwal | 1,875 |
-| 46 | PAT | 1,875 |
-| 47 | Maksym Koval | 1,875 |
-| 48 | Ma Al | 1,865 |
-| 49 | yd.nan | 1,855 |
+| 38 | Anh Tú Ngô | 2,010 |
+| 39 | Shooshi | 1,980 |
+| 40 | PAT | 1,955 |
+| 41 | SantaClaus | 1,940 |
+| 42 | Maksym Koval | 1,925 |
+| 43 | Kacper Urban | 1,915 |
+| 44 | NIESCHAL GHOSH | 1,910 |
+| 45 | soumit saha | 1,885 |
+| 46 | Сашка Крылов 40 | 1,880 |
+| 47 | yd.nan | 1,880 |
+| 48 | Tushar aggarwal | 1,875 |
+| 49 | Ma Al | 1,865 |
 | 50 | 0x researcher | 1,840 |
-| 51 | Qiujiang Jin | 1,810 |
-| 52 | Kyle Zhou | 1,805 |
-| 53 | Alper Karaca | 1,785 |
-| 54 | tanghaibao | 1,755 |
-| 55 | firstuserhere | 1,750.5 |
-| 56 | Eric Xia | 1,750 |
-| 57 | Loading… ██████████████] 99% | 1,745 |
-| 58 | 747893812 | 1,725 |
-| 59 | Joe Chaoyue | 1,715 |
-| 60 | Prasad agalave | 1,709.35 |
+| 51 | Loading… ██████████████] 99% | 1,825 |
+| 52 | Qiujiang Jin | 1,810 |
+| 53 | Kyle Zhou | 1,805 |
+| 54 | Alper Karaca | 1,785 |
+| 55 | tanghaibao | 1,755 |
+| 56 | firstuserhere | 1,750.5 |
+| 57 | Eric Xia | 1,750 |
+| 58 | Prasad agalave | 1,734.35 |
+| 59 | 747893812 | 1,725 |
+| 60 | Joe Chaoyue | 1,715 |
 | 61 | monamie.b | 1,705 |
 | 62 | JiaYi Fu | 1,690 |
 | 63 | Nikita Bekasov | 1,680 |
@@ -91,31 +91,31 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 68 | Xiao Lei Zhang | 1,630 |
 | 69 | zhiheng xu | 1,610 |
 | 70 | Yin Xiaoln | 1,610 |
-| 71 | Sirui Zheng | 1,590 |
-| 72 | Maksim Nikolin | 1,570 |
-| 73 | Peter Li | 1,570 |
-| 74 | Ching Wei Tseng | 1,565 |
-| 75 | x15144067268 | 1,560 |
-| 76 | ZZ | 1,555 |
-| 77 | md faiyaz abdullah sayeedi | 1,545 |
-| 78 | Nicolas De Bie | 1,519.132 |
-| 79 | Youshaa Murhij | 1,510 |
-| 80 | ajay gangwar | 1,495 |
-| 81 | songwenshen.ustc | 1,490 |
-| 82 | PythonPPP | 1,485 |
-| 83 | Anson Shek | 1,479.5 |
-| 84 | Yuda | 1,475.34 |
-| 85 | Adam | 1,470 |
-| 86 | Siquan Wang | 1,470 |
-| 87 | xly | 1,455 |
-| 88 | Tafadar Soujad | 1,450 |
-| 89 | Yashwanth | 1,450 |
-| 90 | 大西洋 | 1,450 |
-| 91 | Yao PU | 1,445 |
-| 92 | John Hu | 1,445 |
-| 93 | Sergey | 1,440 |
-| 94 | tplusd2897 | 1,434.936 |
-| 95 | Alex Shcherbakov | 1,430 |
+| 71 | Youshaa Murhij | 1,590 |
+| 72 | Sirui Zheng | 1,590 |
+| 73 | Maksim Nikolin | 1,570 |
+| 74 | Peter Li | 1,570 |
+| 75 | Ching Wei Tseng | 1,565 |
+| 76 | PythonPPP | 1,565 |
+| 77 | x15144067268 | 1,560 |
+| 78 | ZZ | 1,555 |
+| 79 | md faiyaz abdullah sayeedi | 1,545 |
+| 80 | Nicolas De Bie | 1,519.132 |
+| 81 | Alex Shcherbakov | 1,510 |
+| 82 | ajay gangwar | 1,495 |
+| 83 | songwenshen.ustc | 1,490 |
+| 84 | Anson Shek | 1,479.5 |
+| 85 | Yuda | 1,475.34 |
+| 86 | Adam | 1,470 |
+| 87 | Siquan Wang | 1,470 |
+| 88 | xly | 1,455 |
+| 89 | Tafadar Soujad | 1,450 |
+| 90 | Yashwanth | 1,450 |
+| 91 | 大西洋 | 1,450 |
+| 92 | Yao PU | 1,445 |
+| 93 | John Hu | 1,445 |
+| 94 | Sergey | 1,440 |
+| 95 | tplusd2897 | 1,434.936 |
 | 96 | Nikita Agarwal | 1,425 |
 | 97 | Kapish Luhariwala | 1,420 |
 | 98 | Aymen Boustani | 1,415 |
