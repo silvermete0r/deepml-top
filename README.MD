@@ -21,9 +21,9 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 <!-- LEADERBOARD_START -->
 | Rank | Username | Score |
 |------|---------|-------|
-| 1 | Marco Cheng | 4,390 |
-| 2 | StoatScript | 3,815 |
-| 3 | mr. Arman (梦想) | 3,765 |
+| 1 | Marco Cheng | 4,445 |
+| 2 | mr. Arman (梦想) | 3,820 |
+| 3 | StoatScript | 3,815 |
 | 4 | Niels van Galen Last | 3,440 |
 | 5 | ZhangJY | 3,350 |
 | 6 | N R | 2,860 |
@@ -31,23 +31,23 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 8 | Mahdi Farmahini Farahani | 2,845 |
 | 9 | Lea Wron | 2,785 |
 | 10 | antonoof | 2,780 |
-| 11 | hiddenneuron | 2,715 |
-| 12 | trangstålgrenle | 2,700 |
-| 13 | BY | 2,695 |
-| 14 | Patteera Triamamornwooth | 2,670 |
+| 11 | trangstålgrenle | 2,755 |
+| 12 | Patteera Triamamornwooth | 2,725 |
+| 13 | hiddenneuron | 2,715 |
+| 14 | BY | 2,695 |
 | 15 | DhanushKumar .R | 2,585 |
 | 16 | Anirudh Senani | 2,570 |
 | 17 | Siva Morgan | 2,540 |
 | 18 | jwu456789 | 2,520 |
 | 19 | Haolun Zhang | 2,510 |
 | 20 | anian.ruoss | 2,465 |
-| 21 | Yuzhou Chen | 2,410 |
-| 22 | Salim Beyden | 2,373.5 |
+| 21 | Salim Beyden | 2,428.5 |
+| 22 | Yuzhou Chen | 2,410 |
 | 23 | Vick Mahase | 2,345 |
 | 24 | Shi-Wei Zhou | 2,325 |
-| 25 | atoms-iambics.4i | 2,265 |
-| 26 | Márcio Pereira | 2,265 |
-| 27 | 1nkik H | 2,265 |
+| 25 | 1nkik H | 2,320 |
+| 26 | atoms-iambics.4i | 2,265 |
+| 27 | Márcio Pereira | 2,265 |
 | 28 | Nabeel Raza | 2,220 |
 | 29 | Zeyuan Li | 2,150 |
 | 30 | Ivan Koptiev | 2,150 |
@@ -56,19 +56,19 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 33 | romil797 | 2,120 |
 | 34 | callrmshetty | 2,102.5 |
 | 35 | Anh Tú Ngô | 2,065 |
-| 36 | Mythri Shivakumar | 2,040 |
-| 37 | yang_mingxin | 2,020 |
-| 38 | s233036 | 2,015 |
-| 39 | PAT | 2,010 |
-| 40 | Shooshi | 1,980 |
-| 41 | Maksym Koval | 1,960 |
-| 42 | SantaClaus | 1,940 |
-| 43 | Kacper Urban | 1,915 |
-| 44 | NIESCHAL GHOSH | 1,910 |
-| 45 | 0x researcher | 1,890 |
-| 46 | soumit saha | 1,885 |
-| 47 | Сашка Крылов 40 | 1,880 |
-| 48 | Loading… ██████████████] 99% | 1,880 |
+| 36 | PAT | 2,065 |
+| 37 | Mythri Shivakumar | 2,040 |
+| 38 | yang_mingxin | 2,020 |
+| 39 | s233036 | 2,015 |
+| 40 | Maksym Koval | 2,010 |
+| 41 | Shooshi | 1,980 |
+| 42 | soumit saha | 1,940 |
+| 43 | SantaClaus | 1,940 |
+| 44 | Loading… ██████████████] 99% | 1,935 |
+| 45 | Kacper Urban | 1,925 |
+| 46 | NIESCHAL GHOSH | 1,910 |
+| 47 | 0x researcher | 1,890 |
+| 48 | Сашка Крылов 40 | 1,880 |
 | 49 | yd.nan | 1,880 |
 | 50 | Tushar aggarwal | 1,875 |
 | 51 | Ma Al | 1,865 |
@@ -82,22 +82,22 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 59 | 747893812 | 1,725 |
 | 60 | Joe Chaoyue | 1,715 |
 | 61 | monamie.b | 1,705 |
-| 62 | JiaYi Fu | 1,690 |
-| 63 | Nikita Bekasov | 1,680 |
-| 64 | automorphing | 1,675 |
-| 65 | Youshaa Murhij | 1,645 |
-| 66 | Max Ling | 1,640 |
-| 67 | Yi Zhang | 1,640 |
-| 68 | Venkat Ratnam Vadhri | 1,635 |
-| 69 | Xiao Lei Zhang | 1,630 |
-| 70 | PythonPPP | 1,620 |
-| 71 | zhiheng xu | 1,610 |
-| 72 | Yin Xiaoln | 1,610 |
-| 73 | Sirui Zheng | 1,590 |
-| 74 | Maksim Nikolin | 1,570 |
-| 75 | Peter Li | 1,570 |
-| 76 | Ching Wei Tseng | 1,565 |
-| 77 | Alex Shcherbakov | 1,565 |
+| 62 | Youshaa Murhij | 1,700 |
+| 63 | JiaYi Fu | 1,690 |
+| 64 | Nikita Bekasov | 1,680 |
+| 65 | PythonPPP | 1,675 |
+| 66 | automorphing | 1,675 |
+| 67 | Max Ling | 1,640 |
+| 68 | Yi Zhang | 1,640 |
+| 69 | Venkat Ratnam Vadhri | 1,635 |
+| 70 | Xiao Lei Zhang | 1,630 |
+| 71 | Alex Shcherbakov | 1,620 |
+| 72 | zhiheng xu | 1,610 |
+| 73 | Yin Xiaoln | 1,610 |
+| 74 | Sirui Zheng | 1,590 |
+| 75 | Maksim Nikolin | 1,570 |
+| 76 | Peter Li | 1,570 |
+| 77 | Ching Wei Tseng | 1,565 |
 | 78 | x15144067268 | 1,560 |
 | 79 | ZZ | 1,555 |
 | 80 | md faiyaz abdullah sayeedi | 1,545 |
@@ -118,17 +118,17 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 95 | Sergey | 1,440 |
 | 96 | tplusd2897 | 1,434.936 |
 | 97 | Nikita Agarwal | 1,425 |
-| 98 | Aymen Boustani | 1,415 |
-| 99 | alessandro.conti.97 | 1,410 |
-| 100 | Phu Pham Gia Tran | 1,397.717 |
+| 98 | Mahesh Mantri | 1,415 |
+| 99 | Aymen Boustani | 1,415 |
+| 100 | alessandro.conti.97 | 1,410 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
 
 <!-- BADGES_START -->
 ![DeepML Marco Cheng](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Fmain%2Fbadges.json&query=%24.4091c1a21900bd2c7d3f4e343acddda1.label&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)
-![DeepML StoatScript](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Fmain%2Fbadges.json&query=%24.2561d6c634fa6c4eb794454446029d95.label&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)
 ![DeepML mr. Arman (梦想)](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Fmain%2Fbadges.json&query=%24.1247b1b5b9cd95e98d7ff7438207406f.label&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)
+![DeepML StoatScript](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Fmain%2Fbadges.json&query=%24.2561d6c634fa6c4eb794454446029d95.label&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)
 <!-- BADGES_END -->
 
 ## 🎖 Claim Your Badge!  
