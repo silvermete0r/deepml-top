@@ -21,48 +21,48 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 <!-- LEADERBOARD_START -->
 | Rank | Username | Score |
 |------|---------|-------|
-| 1 | Marco Cheng | 4,645 |
-| 2 | mr. Arman (梦想) | 3,985 |
+| 1 | Marco Cheng | 4,700 |
+| 2 | mr. Arman (梦想) | 4,040 |
 | 3 | StoatScript | 3,815 |
 | 4 | Niels van Galen Last | 3,440 |
 | 5 | ZhangJY | 3,350 |
-| 6 | Patteera Triamamornwooth | 3,060 |
-| 7 | Lea Wron | 3,040 |
+| 6 | Patteera Triamamornwooth | 3,115 |
+| 7 | Lea Wron | 3,095 |
 | 8 | N R | 2,955 |
 | 9 | Mahdi Farmahini Farahani | 2,940 |
-| 10 | DhanushKumar .R | 2,880 |
-| 11 | Kuat Kurpenov | 2,845 |
-| 12 | Siva Morgan | 2,840 |
-| 13 | trangstålgrenle | 2,835 |
+| 10 | DhanushKumar .R | 2,935 |
+| 11 | Siva Morgan | 2,895 |
+| 12 | trangstålgrenle | 2,890 |
+| 13 | Kuat Kurpenov | 2,845 |
 | 14 | antonoof | 2,780 |
-| 15 | SantaClaus | 2,725 |
-| 16 | hiddenneuron | 2,715 |
-| 17 | 1nkik H | 2,710 |
+| 15 | SantaClaus | 2,775 |
+| 16 | 1nkik H | 2,765 |
+| 17 | hiddenneuron | 2,715 |
 | 18 | BY | 2,695 |
 | 19 | Salim Beyden | 2,603.5 |
 | 20 | Anirudh Senani | 2,570 |
 | 21 | anian.ruoss | 2,535 |
 | 22 | jwu456789 | 2,520 |
 | 23 | Haolun Zhang | 2,510 |
-| 24 | PAT | 2,440 |
+| 24 | PAT | 2,495 |
 | 25 | Maksym Koval | 2,420 |
 | 26 | Yuzhou Chen | 2,410 |
 | 27 | Mythri Shivakumar | 2,380 |
-| 28 | Vick Mahase | 2,345 |
-| 29 | Shi-Wei Zhou | 2,325 |
-| 30 | Anh Tú Ngô | 2,320 |
-| 31 | Alexander Krylov | 2,290 |
-| 32 | Loading… ██████████████] 99% | 2,270 |
+| 28 | Alexander Krylov | 2,345 |
+| 29 | Vick Mahase | 2,345 |
+| 30 | Loading… ██████████████] 99% | 2,325 |
+| 31 | Shi-Wei Zhou | 2,325 |
+| 32 | Anh Tú Ngô | 2,320 |
 | 33 | atoms-iambics.4i | 2,265 |
 | 34 | Márcio Pereira | 2,265 |
 | 35 | Nabeel Raza | 2,220 |
 | 36 | Ivan Koptiev | 2,195 |
 | 37 | bebeshka | 2,190 |
 | 38 | Tushar aggarwal | 2,180 |
-| 39 | Zeyuan Li | 2,150 |
-| 40 | ps | 2,125 |
-| 41 | romil797 | 2,120 |
-| 42 | PythonPPP | 2,105 |
+| 39 | PythonPPP | 2,160 |
+| 40 | Zeyuan Li | 2,150 |
+| 41 | ps | 2,125 |
+| 42 | romil797 | 2,120 |
 | 43 | callrmshetty | 2,102.5 |
 | 44 | Kapish Luhariwala | 2,090 |
 | 45 | soumit saha | 2,040 |
@@ -77,49 +77,49 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 54 | Ma Al | 1,865 |
 | 55 | Alex Shcherbakov | 1,850 |
 | 56 | Eric Xia | 1,815 |
-| 57 | Qiujiang Jin | 1,810 |
-| 58 | Kyle Zhou | 1,805 |
-| 59 | automorphing | 1,795 |
-| 60 | Alper Karaca | 1,785 |
-| 61 | Prasad agalave | 1,779.35 |
-| 62 | Max Ling | 1,760 |
-| 63 | tanghaibao | 1,755 |
-| 64 | firstuserhere | 1,750.5 |
-| 65 | 747893812 | 1,725 |
-| 66 | Phu Pham Gia Tran | 1,722.717 |
-| 67 | Joe Chaoyue | 1,715 |
-| 68 | Nikita Bekasov | 1,715 |
-| 69 | Mahesh Mantri | 1,710 |
-| 70 | monamie.b | 1,705 |
-| 71 | Breeze Chen | 1,690 |
-| 72 | JiaYi Fu | 1,690 |
-| 73 | Xiao Lei Zhang | 1,685 |
-| 74 | Yi Zhang | 1,640 |
-| 75 | Aykut Çayır | 1,635 |
-| 76 | zhiheng xu | 1,610 |
-| 77 | Yin Xiaoln | 1,610 |
-| 78 | Shubh Goyal | 1,605 |
-| 79 | mavleo96 | 1,600 |
-| 80 | Sirui Zheng | 1,590 |
-| 81 | Jason Fang | 1,583.795 |
-| 82 | Peter Li | 1,570 |
-| 83 | Ching Wei Tseng | 1,565 |
-| 84 | x15144067268 | 1,560 |
-| 85 | Sergey | 1,560 |
-| 86 | ZZ | 1,555 |
-| 87 | Alex Mason | 1,545 |
-| 88 | Lado Turmanidze (Stochastic Batman) | 1,545 |
+| 57 | Max Ling | 1,815 |
+| 58 | Qiujiang Jin | 1,810 |
+| 59 | Kyle Zhou | 1,805 |
+| 60 | automorphing | 1,795 |
+| 61 | Alper Karaca | 1,785 |
+| 62 | Aykut Çayır | 1,785 |
+| 63 | Prasad agalave | 1,779.35 |
+| 64 | Mahesh Mantri | 1,765 |
+| 65 | Shubh Goyal | 1,760 |
+| 66 | Breeze Chen | 1,755 |
+| 67 | tanghaibao | 1,755 |
+| 68 | firstuserhere | 1,750.5 |
+| 69 | 747893812 | 1,725 |
+| 70 | Phu Pham Gia Tran | 1,722.717 |
+| 71 | Joe Chaoyue | 1,715 |
+| 72 | Nikita Bekasov | 1,715 |
+| 73 | monamie.b | 1,705 |
+| 74 | JiaYi Fu | 1,690 |
+| 75 | Xiao Lei Zhang | 1,685 |
+| 76 | vijaybharathi1998 | 1,665 |
+| 77 | Yi Zhang | 1,640 |
+| 78 | Ching Wei Tseng | 1,620 |
+| 79 | zhiheng xu | 1,610 |
+| 80 | Yin Xiaoln | 1,610 |
+| 81 | Alex Mason | 1,600 |
+| 82 | Lado Turmanidze (Stochastic Batman) | 1,600 |
+| 83 | Sirui Zheng | 1,590 |
+| 84 | Jason Fang | 1,583.795 |
+| 85 | Peter Li | 1,570 |
+| 86 | x15144067268 | 1,560 |
+| 87 | Sergey | 1,560 |
+| 88 | ZZ | 1,555 |
 | 89 | md faiyaz abdullah sayeedi | 1,545 |
 | 90 | Wenxuan Dai | 1,525 |
-| 91 | Nicolas De Bie | 1,519.132 |
-| 92 | Maksim Nikolin | 1,508 |
-| 93 | Wu.E Jiang | 1,500 |
-| 94 | ajay gangwar | 1,495 |
-| 95 | Aarohi Bhand | 1,490 |
-| 96 | songwenshen.ustc | 1,490 |
-| 97 | Nikita Agarwal | 1,485 |
-| 98 | Anson Shek | 1,479.5 |
-| 99 | Yuda | 1,475.34 |
+| 91 | Aarohi Bhand | 1,520 |
+| 92 | Nicolas De Bie | 1,519.132 |
+| 93 | Maksim Nikolin | 1,508 |
+| 94 | Wu.E Jiang | 1,500 |
+| 95 | ajay gangwar | 1,495 |
+| 96 | Nikita Agarwal | 1,485 |
+| 97 | Anson Shek | 1,479.5 |
+| 98 | Yuda | 1,475.34 |
+| 99 | Côme Ox | 1,475 |
 | 100 | Adam | 1,470 |
 <!-- LEADERBOARD_END -->
 
