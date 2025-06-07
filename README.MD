@@ -56,71 +56,71 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 33 | atoms-iambics.4i | 2,265 |
 | 34 | Márcio Pereira | 2,265 |
 | 35 | Nabeel Raza | 2,220 |
-| 36 | Ivan Koptiev | 2,195 |
-| 37 | bebeshka | 2,190 |
-| 38 | Tushar aggarwal | 2,180 |
-| 39 | PythonPPP | 2,160 |
-| 40 | Zeyuan Li | 2,150 |
-| 41 | ps | 2,125 |
-| 42 | romil797 | 2,120 |
-| 43 | callrmshetty | 2,102.5 |
-| 44 | Kapish Luhariwala | 2,090 |
-| 45 | soumit saha | 2,040 |
-| 46 | yang_mingxin | 2,020 |
-| 47 | s233036 | 2,015 |
-| 48 | Aykut Çayır | 1,985 |
-| 49 | Shooshi | 1,980 |
+| 36 | bebeshka | 2,190 |
+| 37 | Tushar aggarwal | 2,180 |
+| 38 | PythonPPP | 2,160 |
+| 39 | Zeyuan Li | 2,150 |
+| 40 | ps | 2,125 |
+| 41 | romil797 | 2,120 |
+| 42 | callrmshetty | 2,102.5 |
+| 43 | Kapish Luhariwala | 2,090 |
+| 44 | soumit saha | 2,080 |
+| 45 | yang_mingxin | 2,020 |
+| 46 | s233036 | 2,015 |
+| 47 | Aykut Çayır | 1,985 |
+| 48 | Shooshi | 1,980 |
+| 49 | Ivan Koptiev | 1,975.5 |
 | 50 | Youshaa Murhij | 1,970 |
 | 51 | Kacper Urban | 1,925 |
 | 52 | NIESCHAL GHOSH | 1,910 |
 | 53 | 0x researcher | 1,890 |
-| 54 | yd.nan | 1,880 |
-| 55 | Ma Al | 1,865 |
-| 56 | Shubh Goyal | 1,860 |
+| 54 | Ma Al | 1,865 |
+| 55 | Shubh Goyal | 1,860 |
+| 56 | Breeze Chen | 1,855 |
 | 57 | Alex Shcherbakov | 1,850 |
-| 58 | Breeze Chen | 1,815 |
-| 59 | Eric Xia | 1,815 |
-| 60 | Max Ling | 1,815 |
-| 61 | Qiujiang Jin | 1,810 |
-| 62 | Kyle Zhou | 1,805 |
-| 63 | automorphing | 1,795 |
-| 64 | Alper Karaca | 1,785 |
-| 65 | Prasad agalave | 1,779.35 |
-| 66 | Mahesh Mantri | 1,765 |
-| 67 | vijaybharathi1998 | 1,765 |
-| 68 | tanghaibao | 1,755 |
-| 69 | firstuserhere | 1,750.5 |
-| 70 | 747893812 | 1,725 |
-| 71 | Phu Pham Gia Tran | 1,722.717 |
-| 72 | Alex Mason | 1,720 |
-| 73 | Joe Chaoyue | 1,715 |
-| 74 | Nikita Bekasov | 1,715 |
-| 75 | monamie.b | 1,705 |
-| 76 | JiaYi Fu | 1,690 |
-| 77 | Xiao Lei Zhang | 1,685 |
-| 78 | Lado Turmanidze (Stochastic Batman) | 1,640 |
-| 79 | Yi Zhang | 1,640 |
-| 80 | Jason Fang | 1,633.795 |
-| 81 | Ching Wei Tseng | 1,620 |
-| 82 | Peter Li | 1,620 |
-| 83 | zhiheng xu | 1,610 |
-| 84 | Yin Xiaoln | 1,610 |
-| 85 | Sergey | 1,600 |
-| 86 | Sirui Zheng | 1,590 |
-| 87 | Wenxuan Dai | 1,575 |
-| 88 | Aarohi Bhand | 1,575 |
-| 89 | x15144067268 | 1,560 |
-| 90 | ZZ | 1,555 |
-| 91 | md faiyaz abdullah sayeedi | 1,545 |
-| 92 | Nicolas De Bie | 1,519.132 |
-| 93 | Côme Ox | 1,515 |
-| 94 | Maksim Nikolin | 1,508 |
-| 95 | Wu.E Jiang | 1,500 |
-| 96 | ajay gangwar | 1,495 |
-| 97 | Linxuan XIE | 1,495 |
-| 98 | Nikita Agarwal | 1,485 |
-| 99 | Anson Shek | 1,479.5 |
-| 100 | Yuda | 1,475.34 |
+| 58 | Eric Xia | 1,815 |
+| 59 | Max Ling | 1,815 |
+| 60 | Qiujiang Jin | 1,810 |
+| 61 | Kyle Zhou | 1,805 |
+| 62 | automorphing | 1,795 |
+| 63 | Alper Karaca | 1,785 |
+| 64 | Prasad agalave | 1,779.35 |
+| 65 | Mahesh Mantri | 1,765 |
+| 66 | vijaybharathi1998 | 1,765 |
+| 67 | tanghaibao | 1,755 |
+| 68 | firstuserhere | 1,750.5 |
+| 69 | 747893812 | 1,725 |
+| 70 | Phu Pham Gia Tran | 1,722.717 |
+| 71 | Alex Mason | 1,720 |
+| 72 | Joe Chaoyue | 1,715 |
+| 73 | Nikita Bekasov | 1,715 |
+| 74 | monamie.b | 1,705 |
+| 75 | JiaYi Fu | 1,690 |
+| 76 | Xiao Lei Zhang | 1,685 |
+| 77 | Lado Turmanidze (Stochastic Batman) | 1,680 |
+| 78 | Yi Zhang | 1,640 |
+| 79 | Jason Fang | 1,633.795 |
+| 80 | Ching Wei Tseng | 1,620 |
+| 81 | Peter Li | 1,620 |
+| 82 | zhiheng xu | 1,610 |
+| 83 | Yin Xiaoln | 1,610 |
+| 84 | Sergey | 1,600 |
+| 85 | Sirui Zheng | 1,590 |
+| 86 | Wenxuan Dai | 1,575 |
+| 87 | Aarohi Bhand | 1,575 |
+| 88 | x15144067268 | 1,560 |
+| 89 | ZZ | 1,555 |
+| 90 | md faiyaz abdullah sayeedi | 1,545 |
+| 91 | Wu.E Jiang | 1,540 |
+| 92 | Aditya Lambat | 1,530 |
+| 93 | yd.nan | 1,522.8 |
+| 94 | Nicolas De Bie | 1,519.132 |
+| 95 | Côme Ox | 1,515 |
+| 96 | Maksim Nikolin | 1,508 |
+| 97 | subhashini ramanathan | 1,500 |
+| 98 | ajay gangwar | 1,495 |
+| 99 | Linxuan XIE | 1,495 |
+| 100 | Nikita Agarwal | 1,485 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
