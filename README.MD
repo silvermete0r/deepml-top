@@ -23,7 +23,7 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 |------|---------|-------|
 | 1 | Marco Cheng | 4,700 |
 | 2 | mr. Arman (梦想) | 4,065 |
-| 3 | StoatScript | 3,815 |
+| 3 | StoatScript | 3,935 |
 | 4 | Niels van Galen Last | 3,440 |
 | 5 | ZhangJY | 3,350 |
 | 6 | Patteera Triamamornwooth | 3,115 |
@@ -35,8 +35,8 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 12 | trangstålgrenle | 2,890 |
 | 13 | Kuat Kurpenov | 2,845 |
 | 14 | SantaClaus | 2,825 |
-| 15 | antonoof | 2,780 |
-| 16 | 1nkik H | 2,765 |
+| 15 | 1nkik H | 2,805 |
+| 16 | antonoof | 2,780 |
 | 17 | hiddenneuron | 2,760 |
 | 18 | BY | 2,695 |
 | 19 | Salim Beyden | 2,603.5 |
@@ -91,16 +91,16 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 68 | firstuserhere | 1,750.5 |
 | 69 | Lado Turmanidze (Stochastic Batman) | 1,725 |
 | 70 | 747893812 | 1,725 |
-| 71 | Phu Pham Gia Tran | 1,722.717 |
-| 72 | Alex Mason | 1,720 |
-| 73 | Joe Chaoyue | 1,715 |
-| 74 | Nikita Bekasov | 1,715 |
-| 75 | Aarohi Bhand | 1,710 |
-| 76 | monamie.b | 1,705 |
-| 77 | JiaYi Fu | 1,690 |
-| 78 | Xiao Lei Zhang | 1,685 |
-| 79 | Yi Zhang | 1,640 |
-| 80 | Jason Fang | 1,633.795 |
+| 71 | Alex Mason | 1,720 |
+| 72 | Joe Chaoyue | 1,715 |
+| 73 | Nikita Bekasov | 1,715 |
+| 74 | Aarohi Bhand | 1,710 |
+| 75 | monamie.b | 1,705 |
+| 76 | JiaYi Fu | 1,690 |
+| 77 | Xiao Lei Zhang | 1,685 |
+| 78 | Yi Zhang | 1,640 |
+| 79 | Jason Fang | 1,633.795 |
+| 80 | Wenxuan Dai | 1,625 |
 | 81 | Ching Wei Tseng | 1,620 |
 | 82 | Peter Li | 1,620 |
 | 83 | zhiheng xu | 1,610 |
@@ -108,18 +108,18 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 85 | Aditya Lambat | 1,605 |
 | 86 | Sergey | 1,600 |
 | 87 | Sirui Zheng | 1,590 |
-| 88 | Wenxuan Dai | 1,575 |
+| 88 | Wu.E Jiang | 1,580 |
 | 89 | x15144067268 | 1,560 |
 | 90 | ZZ | 1,555 |
-| 91 | md faiyaz abdullah sayeedi | 1,545 |
-| 92 | yd.nan | 1,542.8 |
-| 93 | Wu.E Jiang | 1,540 |
-| 94 | Nicolas De Bie | 1,519.132 |
-| 95 | Côme Ox | 1,515 |
-| 96 | Maksim Nikolin | 1,508 |
-| 97 | subhashini ramanathan | 1,500 |
-| 98 | ajay gangwar | 1,495 |
-| 99 | Linxuan XIE | 1,495 |
+| 91 | Phu Pham Gia Tran | 1,550 |
+| 92 | md faiyaz abdullah sayeedi | 1,545 |
+| 93 | yd.nan | 1,542.8 |
+| 94 | Linxuan XIE | 1,520 |
+| 95 | Nicolas De Bie | 1,519.132 |
+| 96 | Côme Ox | 1,515 |
+| 97 | subhashini ramanathan | 1,510 |
+| 98 | Maksim Nikolin | 1,508 |
+| 99 | ajay gangwar | 1,495 |
 | 100 | Nikita Agarwal | 1,485 |
 <!-- LEADERBOARD_END -->
 
