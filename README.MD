@@ -45,8 +45,8 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 22 | jwu456789 | 2,520 |
 | 23 | Haolun Zhang | 2,510 |
 | 24 | Maksym Koval | 2,470 |
-| 25 | Yuzhou Chen | 2,410 |
-| 26 | Alexander Krylov | 2,400 |
+| 25 | Alexander Krylov | 2,450 |
+| 26 | Yuzhou Chen | 2,410 |
 | 27 | Loading… ██████████████] 99% | 2,380 |
 | 28 | Mythri Shivakumar | 2,380 |
 | 29 | Anh Tú Ngô | 2,375 |
@@ -55,24 +55,24 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 32 | anian.ruoss | 2,281.5 |
 | 33 | atoms-iambics.4i | 2,265 |
 | 34 | Márcio Pereira | 2,265 |
-| 35 | Nabeel Raza | 2,220 |
-| 36 | PythonPPP | 2,215 |
-| 37 | bebeshka | 2,190 |
-| 38 | soumit saha | 2,185 |
-| 39 | Tushar aggarwal | 2,180 |
-| 40 | Zeyuan Li | 2,150 |
-| 41 | ps | 2,125 |
-| 42 | romil797 | 2,120 |
-| 43 | callrmshetty | 2,102.5 |
-| 44 | Kapish Luhariwala | 2,090 |
-| 45 | Youshaa Murhij | 2,025 |
-| 46 | yang_mingxin | 2,020 |
-| 47 | s233036 | 2,015 |
-| 48 | Aykut Çayır | 1,985 |
-| 49 | Shooshi | 1,980 |
-| 50 | Ivan Koptiev | 1,975.5 |
-| 51 | Breeze Chen | 1,970 |
-| 52 | Lado Turmanidze (Stochastic Batman) | 1,965 |
+| 35 | Tushar aggarwal | 2,240 |
+| 36 | Nabeel Raza | 2,220 |
+| 37 | PythonPPP | 2,215 |
+| 38 | Lado Turmanidze (Stochastic Batman) | 2,190 |
+| 39 | bebeshka | 2,190 |
+| 40 | soumit saha | 2,185 |
+| 41 | Zeyuan Li | 2,150 |
+| 42 | ps | 2,125 |
+| 43 | romil797 | 2,120 |
+| 44 | callrmshetty | 2,102.5 |
+| 45 | Kapish Luhariwala | 2,090 |
+| 46 | Breeze Chen | 2,030 |
+| 47 | Youshaa Murhij | 2,025 |
+| 48 | yang_mingxin | 2,020 |
+| 49 | s233036 | 2,015 |
+| 50 | Aykut Çayır | 1,985 |
+| 51 | Shooshi | 1,980 |
+| 52 | Ivan Koptiev | 1,975.5 |
 | 53 | Kacper Urban | 1,925 |
 | 54 | NIESCHAL GHOSH | 1,910 |
 | 55 | Eric Xia | 1,895 |
@@ -85,42 +85,42 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 62 | Qiujiang Jin | 1,810 |
 | 63 | Kyle Zhou | 1,805 |
 | 64 | automorphing | 1,805 |
-| 65 | Alper Karaca | 1,785 |
-| 66 | vijaybharathi1998 | 1,765 |
-| 67 | tanghaibao | 1,755 |
-| 68 | firstuserhere | 1,750.5 |
-| 69 | 747893812 | 1,725 |
-| 70 | Alex Mason | 1,720 |
+| 65 | vijaybharathi1998 | 1,790 |
+| 66 | Alper Karaca | 1,785 |
+| 67 | Alex Mason | 1,775 |
+| 68 | tanghaibao | 1,755 |
+| 69 | firstuserhere | 1,750.5 |
+| 70 | 747893812 | 1,725 |
 | 71 | Joe Chaoyue | 1,715 |
 | 72 | Nikita Bekasov | 1,715 |
 | 73 | Aarohi Bhand | 1,710 |
 | 74 | monamie.b | 1,705 |
 | 75 | JiaYi Fu | 1,690 |
 | 76 | Xiao Lei Zhang | 1,685 |
-| 77 | Yi Zhang | 1,640 |
-| 78 | Wu.E Jiang | 1,635 |
-| 79 | Jason Fang | 1,633.795 |
-| 80 | Wenxuan Dai | 1,625 |
-| 81 | Ching Wei Tseng | 1,620 |
-| 82 | Peter Li | 1,620 |
-| 83 | zhiheng xu | 1,610 |
-| 84 | Yin Xiaoln | 1,610 |
-| 85 | Aditya Lambat | 1,605 |
-| 86 | Sergey | 1,600 |
-| 87 | yd.nan | 1,592.8 |
-| 88 | Sirui Zheng | 1,590 |
-| 89 | Côme Ox | 1,570 |
-| 90 | Maksim Nikolin | 1,563 |
-| 91 | x15144067268 | 1,560 |
-| 92 | ZZ | 1,555 |
-| 93 | Phu Pham Gia Tran | 1,550 |
-| 94 | md faiyaz abdullah sayeedi | 1,545 |
-| 95 | Linxuan XIE | 1,520 |
-| 96 | Nicolas De Bie | 1,519.132 |
-| 97 | subhashini ramanathan | 1,510 |
-| 98 | ajay gangwar | 1,495 |
-| 99 | Junang Li | 1,495 |
-| 100 | Nikita Agarwal | 1,485 |
+| 77 | Junang Li | 1,645 |
+| 78 | Yi Zhang | 1,640 |
+| 79 | Wu.E Jiang | 1,635 |
+| 80 | Jason Fang | 1,633.795 |
+| 81 | Wenxuan Dai | 1,625 |
+| 82 | Ching Wei Tseng | 1,620 |
+| 83 | Peter Li | 1,620 |
+| 84 | zhiheng xu | 1,610 |
+| 85 | Yin Xiaoln | 1,610 |
+| 86 | Aditya Lambat | 1,605 |
+| 87 | Sergey | 1,600 |
+| 88 | yd.nan | 1,592.8 |
+| 89 | Sirui Zheng | 1,590 |
+| 90 | Côme Ox | 1,570 |
+| 91 | Maksim Nikolin | 1,563 |
+| 92 | x15144067268 | 1,560 |
+| 93 | ZZ | 1,555 |
+| 94 | Phu Pham Gia Tran | 1,550 |
+| 95 | md faiyaz abdullah sayeedi | 1,545 |
+| 96 | Linxuan XIE | 1,520 |
+| 97 | Nicolas De Bie | 1,519.132 |
+| 98 | subhashini ramanathan | 1,510 |
+| 99 | Chi Yang | 1,505.5 |
+| 100 | ajay gangwar | 1,495 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
