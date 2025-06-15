@@ -27,100 +27,100 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 4 | Niels van Galen Last | 3,440 |
 | 5 | Lado Turmanidze (Stochastic Batman) | 3,350 |
 | 6 | ZhangJY | 3,350 |
-| 7 | Patteera Triamamornwooth | 3,225 |
+| 7 | Patteera Triamamornwooth | 3,280 |
 | 8 | Lea Wron | 3,205 |
-| 9 | N R | 3,005 |
-| 10 | DhanushKumar .R | 2,990 |
-| 11 | Siva Morgan | 2,965 |
-| 12 | Mahdi Farmahini Farahani | 2,940 |
-| 13 | 1nkik H | 2,915 |
-| 14 | trangstålgrenle | 2,890 |
+| 9 | Siva Morgan | 3,020 |
+| 10 | N R | 3,005 |
+| 11 | DhanushKumar .R | 2,990 |
+| 12 | 1nkik H | 2,970 |
+| 13 | Mahdi Farmahini Farahani | 2,940 |
+| 14 | hiddenneuron | 2,905 |
 | 15 | Kuat Kurpenov | 2,845 |
 | 16 | SantaClaus | 2,825 |
 | 17 | antonoof | 2,780 |
-| 18 | hiddenneuron | 2,760 |
-| 19 | BY | 2,695 |
-| 20 | Salim Beyden | 2,658.5 |
+| 18 | BY | 2,695 |
+| 19 | Salim Beyden | 2,658.5 |
+| 20 | trangstalbergle | 2,601 |
 | 21 | Anirudh Senani | 2,570 |
 | 22 | PAT | 2,535 |
 | 23 | jwu456789 | 2,520 |
 | 24 | Haolun Zhang | 2,510 |
 | 25 | Maksym Koval | 2,510 |
 | 26 | Alexander Krylov | 2,505 |
-| 27 | Loading… ██████████████] 99% | 2,435 |
-| 28 | Anh Tú Ngô | 2,430 |
+| 27 | Loading… ██████████████] 99% | 2,490 |
+| 28 | Anh Tú Ngô | 2,485 |
 | 29 | Yuzhou Chen | 2,410 |
 | 30 | Mythri Shivakumar | 2,380 |
 | 31 | Vick Mahase | 2,345 |
 | 32 | Shi-Wei Zhou | 2,325 |
-| 33 | anian.ruoss | 2,281.5 |
-| 34 | PythonPPP | 2,270 |
-| 35 | atoms-iambics.4i | 2,265 |
-| 36 | Márcio Pereira | 2,265 |
-| 37 | Breeze Chen | 2,240 |
+| 33 | PythonPPP | 2,325 |
+| 34 | Breeze Chen | 2,295 |
+| 35 | anian.ruoss | 2,281.5 |
+| 36 | atoms-iambics.4i | 2,265 |
+| 37 | Márcio Pereira | 2,265 |
 | 38 | Tushar aggarwal | 2,240 |
 | 39 | Nabeel Raza | 2,220 |
 | 40 | bebeshka | 2,190 |
 | 41 | soumit saha | 2,185 |
 | 42 | Zeyuan Li | 2,150 |
-| 43 | ps | 2,125 |
-| 44 | romil797 | 2,120 |
-| 45 | callrmshetty | 2,102.5 |
-| 46 | Kapish Luhariwala | 2,090 |
-| 47 | Youshaa Murhij | 2,080 |
+| 43 | Youshaa Murhij | 2,135 |
+| 44 | ps | 2,125 |
+| 45 | romil797 | 2,120 |
+| 46 | callrmshetty | 2,102.5 |
+| 47 | Kapish Luhariwala | 2,090 |
 | 48 | yang_mingxin | 2,020 |
 | 49 | s233036 | 2,015 |
 | 50 | vijaybharathi1998 | 1,985 |
 | 51 | Aykut Çayır | 1,985 |
-| 52 | Shooshi | 1,980 |
-| 53 | Ivan Koptiev | 1,975.5 |
-| 54 | Mahesh Mantri | 1,925 |
+| 52 | Mahesh Mantri | 1,980 |
+| 53 | Shooshi | 1,980 |
+| 54 | Ivan Koptiev | 1,975.5 |
 | 55 | Kacper Urban | 1,925 |
 | 56 | NIESCHAL GHOSH | 1,910 |
 | 57 | Eric Xia | 1,895 |
 | 58 | 0x researcher | 1,890 |
 | 59 | Ma Al | 1,865 |
 | 60 | Shubh Goyal | 1,860 |
-| 61 | Alex Shcherbakov | 1,850 |
-| 62 | Alper Karaca | 1,845 |
+| 61 | Alper Karaca | 1,855 |
+| 62 | Alex Shcherbakov | 1,850 |
 | 63 | Wenxuan Dai | 1,825 |
 | 64 | Max Ling | 1,815 |
-| 65 | Qiujiang Jin | 1,810 |
-| 66 | Kyle Zhou | 1,805 |
-| 67 | automorphing | 1,805 |
+| 65 | automorphing | 1,815 |
+| 66 | Qiujiang Jin | 1,810 |
+| 67 | Kyle Zhou | 1,805 |
 | 68 | Aarohi Bhand | 1,785 |
 | 69 | Alex Mason | 1,775 |
 | 70 | tanghaibao | 1,755 |
 | 71 | firstuserhere | 1,750.5 |
 | 72 | Junang Li | 1,745 |
 | 73 | 747893812 | 1,725 |
-| 74 | Joe Chaoyue | 1,715 |
-| 75 | Nikita Bekasov | 1,715 |
-| 76 | monamie.b | 1,705 |
-| 77 | Wu.E Jiang | 1,690 |
-| 78 | JiaYi Fu | 1,690 |
-| 79 | Xiao Lei Zhang | 1,685 |
-| 80 | Côme Ox | 1,665 |
-| 81 | Linxuan XIE | 1,650 |
-| 82 | Samyak Jain | 1,645 |
-| 83 | Yi Zhang | 1,640 |
-| 84 | Jason Fang | 1,633.795 |
-| 85 | Ching Wei Tseng | 1,620 |
-| 86 | Peter Li | 1,620 |
-| 87 | yd.nan | 1,617.8 |
-| 88 | zhiheng xu | 1,610 |
-| 89 | Yin Xiaoln | 1,610 |
-| 90 | Aditya Lambat | 1,605 |
-| 91 | Sergey | 1,600 |
-| 92 | Sirui Zheng | 1,590 |
-| 93 | Maksim Nikolin | 1,563 |
-| 94 | x15144067268 | 1,560 |
-| 95 | ZZ | 1,555 |
-| 96 | Phu Pham Gia Tran | 1,550 |
-| 97 | md faiyaz abdullah sayeedi | 1,545 |
-| 98 | Chi Yang | 1,540.5 |
-| 99 | Nicolas De Bie | 1,519.132 |
-| 100 | cynthiaxue2018 | 1,515 |
+| 74 | cynthiaxue2018 | 1,715 |
+| 75 | Joe Chaoyue | 1,715 |
+| 76 | Nikita Bekasov | 1,715 |
+| 77 | monamie.b | 1,705 |
+| 78 | Wu.E Jiang | 1,690 |
+| 79 | JiaYi Fu | 1,690 |
+| 80 | Xiao Lei Zhang | 1,685 |
+| 81 | Linxuan XIE | 1,675 |
+| 82 | Côme Ox | 1,665 |
+| 83 | Samyak Jain | 1,645 |
+| 84 | Yi Zhang | 1,640 |
+| 85 | Jason Fang | 1,633.795 |
+| 86 | Ching Wei Tseng | 1,620 |
+| 87 | Peter Li | 1,620 |
+| 88 | Maksim Nikolin | 1,618 |
+| 89 | yd.nan | 1,617.8 |
+| 90 | zhiheng xu | 1,610 |
+| 91 | Yin Xiaoln | 1,610 |
+| 92 | Aditya Lambat | 1,605 |
+| 93 | Sergey | 1,600 |
+| 94 | Sirui Zheng | 1,590 |
+| 95 | x15144067268 | 1,560 |
+| 96 | ZZ | 1,555 |
+| 97 | Phu Pham Gia Tran | 1,550 |
+| 98 | md faiyaz abdullah sayeedi | 1,545 |
+| 99 | Chi Yang | 1,540.5 |
+| 100 | Nicolas De Bie | 1,519.132 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
