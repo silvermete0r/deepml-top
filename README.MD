@@ -27,100 +27,100 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 4 | Niels van Galen Last | 3,440 |
 | 5 | Lado Turmanidze (Stochastic Batman) | 3,350 |
 | 6 | ZhangJY | 3,350 |
-| 7 | Patteera Triamamornwooth | 3,280 |
+| 7 | Patteera Triamamornwooth | 3,335 |
 | 8 | Lea Wron | 3,245 |
-| 9 | Siva Morgan | 3,060 |
-| 10 | hiddenneuron | 3,005 |
-| 11 | N R | 3,005 |
-| 12 | DhanushKumar .R | 2,990 |
-| 13 | 1nkik H | 2,970 |
+| 9 | Siva Morgan | 3,115 |
+| 10 | DhanushKumar .R | 3,045 |
+| 11 | 1nkik H | 3,025 |
+| 12 | hiddenneuron | 3,005 |
+| 13 | N R | 3,005 |
 | 14 | Mahdi Farmahini Farahani | 2,940 |
 | 15 | Kuat Kurpenov | 2,845 |
 | 16 | SantaClaus | 2,825 |
 | 17 | antonoof | 2,780 |
-| 18 | BY | 2,695 |
-| 19 | Salim Beyden | 2,658.5 |
+| 18 | Salim Beyden | 2,713.5 |
+| 19 | BY | 2,695 |
 | 20 | trangstalbergle | 2,601 |
-| 21 | Anirudh Senani | 2,570 |
-| 22 | PAT | 2,535 |
-| 23 | Loading… ██████████████] 99% | 2,530 |
-| 24 | Anh Tú Ngô | 2,525 |
-| 25 | jwu456789 | 2,520 |
-| 26 | Haolun Zhang | 2,510 |
-| 27 | Maksym Koval | 2,510 |
-| 28 | Alexander Krylov | 2,505 |
+| 21 | Loading… ██████████████] 99% | 2,585 |
+| 22 | Anh Tú Ngô | 2,580 |
+| 23 | Anirudh Senani | 2,570 |
+| 24 | Alexander Krylov | 2,560 |
+| 25 | PAT | 2,535 |
+| 26 | jwu456789 | 2,520 |
+| 27 | Haolun Zhang | 2,510 |
+| 28 | Maksym Koval | 2,510 |
 | 29 | Yuzhou Chen | 2,410 |
-| 30 | Mythri Shivakumar | 2,380 |
-| 31 | Vick Mahase | 2,345 |
-| 32 | Shi-Wei Zhou | 2,325 |
-| 33 | PythonPPP | 2,325 |
-| 34 | Breeze Chen | 2,295 |
+| 30 | PythonPPP | 2,380 |
+| 31 | Mythri Shivakumar | 2,380 |
+| 32 | Breeze Chen | 2,350 |
+| 33 | Vick Mahase | 2,345 |
+| 34 | Shi-Wei Zhou | 2,325 |
 | 35 | anian.ruoss | 2,281.5 |
 | 36 | Tushar aggarwal | 2,275 |
 | 37 | atoms-iambics.4i | 2,265 |
 | 38 | Márcio Pereira | 2,265 |
 | 39 | Nabeel Raza | 2,220 |
-| 40 | bebeshka | 2,190 |
-| 41 | soumit saha | 2,185 |
-| 42 | Zeyuan Li | 2,150 |
-| 43 | Youshaa Murhij | 2,135 |
+| 40 | Youshaa Murhij | 2,190 |
+| 41 | bebeshka | 2,190 |
+| 42 | soumit saha | 2,185 |
+| 43 | Zeyuan Li | 2,150 |
 | 44 | ps | 2,125 |
 | 45 | romil797 | 2,120 |
 | 46 | callrmshetty | 2,102.5 |
 | 47 | Kapish Luhariwala | 2,090 |
-| 48 | Mahesh Mantri | 2,020 |
+| 48 | Mahesh Mantri | 2,075 |
 | 49 | yang_mingxin | 2,020 |
 | 50 | s233036 | 2,015 |
 | 51 | vijaybharathi1998 | 1,985 |
 | 52 | Aykut Çayır | 1,985 |
 | 53 | Shooshi | 1,980 |
-| 54 | Ivan Koptiev | 1,975.5 |
-| 55 | Kacper Urban | 1,925 |
-| 56 | NIESCHAL GHOSH | 1,910 |
-| 57 | Eric Xia | 1,895 |
-| 58 | 0x researcher | 1,890 |
+| 54 | Kacper Urban | 1,925 |
+| 55 | NIESCHAL GHOSH | 1,910 |
+| 56 | Eric Xia | 1,895 |
+| 57 | 0x researcher | 1,890 |
+| 58 | automorphing | 1,870 |
 | 59 | Ma Al | 1,865 |
 | 60 | Shubh Goyal | 1,860 |
 | 61 | Alper Karaca | 1,855 |
-| 62 | Alex Shcherbakov | 1,850 |
-| 63 | Wenxuan Dai | 1,825 |
-| 64 | Max Ling | 1,815 |
-| 65 | automorphing | 1,815 |
+| 62 | Aarohi Bhand | 1,855 |
+| 63 | Alex Shcherbakov | 1,850 |
+| 64 | Wenxuan Dai | 1,825 |
+| 65 | Max Ling | 1,815 |
 | 66 | Qiujiang Jin | 1,810 |
 | 67 | Kyle Zhou | 1,805 |
 | 68 | Junang Li | 1,795 |
 | 69 | cynthiaxue2018 | 1,790 |
-| 70 | Aarohi Bhand | 1,785 |
+| 70 | Ivan Koptiev | 1,777 |
 | 71 | Alex Mason | 1,775 |
 | 72 | tanghaibao | 1,755 |
 | 73 | firstuserhere | 1,750.5 |
 | 74 | Wu.E Jiang | 1,730 |
-| 75 | 747893812 | 1,725 |
-| 76 | Joe Chaoyue | 1,715 |
-| 77 | Nikita Bekasov | 1,715 |
-| 78 | monamie.b | 1,705 |
-| 79 | JiaYi Fu | 1,690 |
-| 80 | Xiao Lei Zhang | 1,685 |
-| 81 | Linxuan XIE | 1,675 |
-| 82 | Côme Ox | 1,665 |
+| 75 | Linxuan XIE | 1,730 |
+| 76 | 747893812 | 1,725 |
+| 77 | Côme | 1,720 |
+| 78 | Joe Chaoyue | 1,715 |
+| 79 | Nikita Bekasov | 1,715 |
+| 80 | monamie.b | 1,705 |
+| 81 | JiaYi Fu | 1,690 |
+| 82 | Xiao Lei Zhang | 1,685 |
 | 83 | Samyak Jain | 1,645 |
 | 84 | Yi Zhang | 1,640 |
 | 85 | Jason Fang | 1,633.795 |
 | 86 | Ching Wei Tseng | 1,620 |
 | 87 | Peter Li | 1,620 |
-| 88 | Maksim Nikolin | 1,618 |
-| 89 | yd.nan | 1,617.8 |
-| 90 | zhiheng xu | 1,610 |
-| 91 | Yin Xiaoln | 1,610 |
-| 92 | Aditya Lambat | 1,605 |
-| 93 | Sergey | 1,600 |
-| 94 | Sirui Zheng | 1,590 |
-| 95 | x15144067268 | 1,560 |
-| 96 | ZZ | 1,555 |
-| 97 | Phu Pham Gia Tran | 1,550 |
-| 98 | md faiyaz abdullah sayeedi | 1,545 |
-| 99 | Chi Yang | 1,540.5 |
-| 100 | Nicolas De Bie | 1,519.132 |
+| 88 | Nagy Zoltán | 1,620 |
+| 89 | Maksim Nikolin | 1,618 |
+| 90 | yd.nan | 1,617.8 |
+| 91 | zhiheng xu | 1,610 |
+| 92 | Yin Xiaoln | 1,610 |
+| 93 | Aditya Lambat | 1,605 |
+| 94 | Sergey | 1,600 |
+| 95 | Sirui Zheng | 1,590 |
+| 96 | x15144067268 | 1,560 |
+| 97 | ZZ | 1,555 |
+| 98 | Kartik Mathur | 1,555 |
+| 99 | Phu Pham Gia Tran | 1,550 |
+| 100 | md faiyaz abdullah sayeedi | 1,545 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
