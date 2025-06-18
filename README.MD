@@ -21,7 +21,7 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 <!-- LEADERBOARD_START -->
 | Rank | Username | Score |
 |------|---------|-------|
-| 1 | Marco Cheng | 4,740 |
+| 1 | Marco Cheng | 4,795 |
 | 2 | mr. Arman (梦想) | 4,235 |
 | 3 | StoatScript | 3,960 |
 | 4 | Niels van Galen Last | 3,440 |
@@ -29,7 +29,7 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 6 | ZhangJY | 3,350 |
 | 7 | Patteera Triamamornwooth | 3,335 |
 | 8 | Lea Wron | 3,245 |
-| 9 | Siva Morgan | 3,115 |
+| 9 | Siva Morgan | 3,140 |
 | 10 | DhanushKumar .R | 3,045 |
 | 11 | 1nkik H | 3,025 |
 | 12 | hiddenneuron | 3,005 |
@@ -40,7 +40,7 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 17 | antonoof | 2,780 |
 | 18 | Salim Beyden | 2,713.5 |
 | 19 | BY | 2,695 |
-| 20 | trangstalbergle | 2,601 |
+| 20 | trangstalbergle | 2,656 |
 | 21 | Loading… ██████████████] 99% | 2,585 |
 | 22 | Anh Tú Ngô | 2,580 |
 | 23 | Anirudh Senani | 2,570 |
@@ -49,10 +49,10 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 26 | jwu456789 | 2,520 |
 | 27 | Haolun Zhang | 2,510 |
 | 28 | Maksym Koval | 2,510 |
-| 29 | Yuzhou Chen | 2,410 |
-| 30 | PythonPPP | 2,380 |
-| 31 | Mythri Shivakumar | 2,380 |
-| 32 | Breeze Chen | 2,350 |
+| 29 | Breeze Chen | 2,430 |
+| 30 | Yuzhou Chen | 2,410 |
+| 31 | PythonPPP | 2,380 |
+| 32 | Mythri Shivakumar | 2,380 |
 | 33 | Vick Mahase | 2,345 |
 | 34 | Shi-Wei Zhou | 2,325 |
 | 35 | anian.ruoss | 2,281.5 |
@@ -64,17 +64,17 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 41 | bebeshka | 2,190 |
 | 42 | soumit saha | 2,185 |
 | 43 | Zeyuan Li | 2,150 |
-| 44 | ps | 2,125 |
-| 45 | romil797 | 2,120 |
-| 46 | callrmshetty | 2,102.5 |
-| 47 | Kapish Luhariwala | 2,090 |
-| 48 | Mahesh Mantri | 2,075 |
+| 44 | Mahesh Mantri | 2,130 |
+| 45 | ps | 2,125 |
+| 46 | romil797 | 2,120 |
+| 47 | callrmshetty | 2,102.5 |
+| 48 | Kapish Luhariwala | 2,090 |
 | 49 | yang_mingxin | 2,020 |
 | 50 | s233036 | 2,015 |
 | 51 | vijaybharathi1998 | 1,985 |
 | 52 | Aykut Çayır | 1,985 |
 | 53 | Shooshi | 1,980 |
-| 54 | Kacper Urban | 1,925 |
+| 54 | Kacper Urban | 1,935 |
 | 55 | NIESCHAL GHOSH | 1,910 |
 | 56 | Eric Xia | 1,895 |
 | 57 | 0x researcher | 1,890 |
@@ -84,41 +84,41 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 61 | Alper Karaca | 1,855 |
 | 62 | Aarohi Bhand | 1,855 |
 | 63 | Alex Shcherbakov | 1,850 |
-| 64 | Wenxuan Dai | 1,825 |
-| 65 | Max Ling | 1,815 |
-| 66 | Qiujiang Jin | 1,810 |
-| 67 | Kyle Zhou | 1,805 |
-| 68 | Junang Li | 1,795 |
+| 64 | Junang Li | 1,845 |
+| 65 | Wenxuan Dai | 1,825 |
+| 66 | Max Ling | 1,815 |
+| 67 | Qiujiang Jin | 1,810 |
+| 68 | Kyle Zhou | 1,805 |
 | 69 | cynthiaxue2018 | 1,790 |
-| 70 | Ivan Koptiev | 1,777 |
-| 71 | Alex Mason | 1,775 |
-| 72 | tanghaibao | 1,755 |
-| 73 | firstuserhere | 1,750.5 |
-| 74 | Wu.E Jiang | 1,730 |
-| 75 | Linxuan XIE | 1,730 |
-| 76 | 747893812 | 1,725 |
-| 77 | Côme | 1,720 |
+| 70 | Côme | 1,785 |
+| 71 | Ivan Koptiev | 1,777 |
+| 72 | Alex Mason | 1,775 |
+| 73 | Linxuan XIE | 1,755 |
+| 74 | tanghaibao | 1,755 |
+| 75 | firstuserhere | 1,750.5 |
+| 76 | Wu.E Jiang | 1,730 |
+| 77 | 747893812 | 1,725 |
 | 78 | Joe Chaoyue | 1,715 |
 | 79 | Nikita Bekasov | 1,715 |
 | 80 | monamie.b | 1,705 |
 | 81 | JiaYi Fu | 1,690 |
 | 82 | Xiao Lei Zhang | 1,685 |
-| 83 | Samyak Jain | 1,645 |
-| 84 | Yi Zhang | 1,640 |
-| 85 | Jason Fang | 1,633.795 |
-| 86 | Ching Wei Tseng | 1,620 |
-| 87 | Peter Li | 1,620 |
-| 88 | Nagy Zoltán | 1,620 |
-| 89 | Maksim Nikolin | 1,618 |
+| 83 | Maksim Nikolin | 1,673 |
+| 84 | Samyak Jain | 1,645 |
+| 85 | Yi Zhang | 1,640 |
+| 86 | Jason Fang | 1,633.795 |
+| 87 | Ching Wei Tseng | 1,620 |
+| 88 | Peter Li | 1,620 |
+| 89 | Nagy Zoltán | 1,620 |
 | 90 | yd.nan | 1,617.8 |
 | 91 | zhiheng xu | 1,610 |
-| 92 | Yin Xiaoln | 1,610 |
-| 93 | Aditya Lambat | 1,605 |
-| 94 | Sergey | 1,600 |
-| 95 | Sirui Zheng | 1,590 |
-| 96 | x15144067268 | 1,560 |
-| 97 | ZZ | 1,555 |
-| 98 | Kartik Mathur | 1,555 |
+| 92 | Kartik Mathur | 1,610 |
+| 93 | Yin Xiaoln | 1,610 |
+| 94 | Aditya Lambat | 1,605 |
+| 95 | Sergey | 1,600 |
+| 96 | Sirui Zheng | 1,590 |
+| 97 | x15144067268 | 1,560 |
+| 98 | ZZ | 1,555 |
 | 99 | Phu Pham Gia Tran | 1,550 |
 | 100 | md faiyaz abdullah sayeedi | 1,545 |
 <!-- LEADERBOARD_END -->
