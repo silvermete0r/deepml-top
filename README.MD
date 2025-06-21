@@ -22,23 +22,23 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | Rank | Username | Score |
 |------|---------|-------|
 | 1 | Marco Cheng | 4,795 |
-| 2 | mr. Arman (梦想) | 4,235 |
+| 2 | mr. Arman (梦想) | 4,245 |
 | 3 | StoatScript | 3,960 |
-| 4 | Patteera Triamamornwooth | 3,455 |
-| 5 | Niels van Galen Last | 3,440 |
-| 6 | Lado Turmanidze (Stochastic Batman) | 3,360 |
+| 4 | Lado Turmanidze (Stochastic Batman) | 3,700 |
+| 5 | Patteera Triamamornwooth | 3,455 |
+| 6 | Niels van Galen Last | 3,440 |
 | 7 | ZhangJY | 3,350 |
 | 8 | Lea Wron | 3,245 |
-| 9 | Siva Morgan | 3,165 |
+| 9 | Siva Morgan | 3,175 |
 | 10 | DhanushKumar .R | 3,085 |
 | 11 | 1nkik H | 3,065 |
-| 12 | N R | 3,030 |
-| 13 | hiddenneuron | 3,005 |
+| 12 | hiddenneuron | 3,040 |
+| 13 | N R | 3,030 |
 | 14 | Mahdi Farmahini Farahani | 2,940 |
 | 15 | Kuat Kurpenov | 2,845 |
 | 16 | SantaClaus | 2,825 |
 | 17 | antonoof | 2,780 |
-| 18 | Salim Beyden | 2,713.5 |
+| 18 | Salim Beyden | 2,768.5 |
 | 19 | trangstalbergle | 2,696 |
 | 20 | BY | 2,695 |
 | 21 | Alexander Krylov | 2,680 |
@@ -47,14 +47,14 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 24 | Anirudh Senani | 2,570 |
 | 25 | Breeze Chen | 2,550 |
 | 26 | PAT | 2,535 |
-| 27 | jwu456789 | 2,520 |
-| 28 | Haolun Zhang | 2,510 |
-| 29 | Maksym Koval | 2,510 |
+| 27 | Maksym Koval | 2,535 |
+| 28 | jwu456789 | 2,520 |
+| 29 | Haolun Zhang | 2,510 |
 | 30 | PythonPPP | 2,500 |
 | 31 | Yuzhou Chen | 2,410 |
-| 32 | Mythri Shivakumar | 2,380 |
-| 33 | Vick Mahase | 2,345 |
-| 34 | Tushar aggarwal | 2,340 |
+| 32 | Tushar aggarwal | 2,385 |
+| 33 | Mythri Shivakumar | 2,380 |
+| 34 | Vick Mahase | 2,345 |
 | 35 | Shi-Wei Zhou | 2,325 |
 | 36 | anian.ruoss | 2,281.5 |
 | 37 | atoms-iambics.4i | 2,265 |
@@ -69,42 +69,42 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 46 | romil797 | 2,120 |
 | 47 | callrmshetty | 2,102.5 |
 | 48 | Kapish Luhariwala | 2,090 |
-| 49 | Junang Li | 2,035 |
+| 49 | Junang Li | 2,085 |
 | 50 | yang_mingxin | 2,020 |
 | 51 | s233036 | 2,015 |
 | 52 | mavleo96 | 1,985 |
 | 53 | Aykut Çayır | 1,985 |
 | 54 | Shooshi | 1,980 |
-| 55 | Kacper Urban | 1,935 |
-| 56 | Aarohi Bhand | 1,925 |
+| 55 | Aarohi Bhand | 1,975 |
+| 56 | Kacper Urban | 1,935 |
 | 57 | NIESCHAL GHOSH | 1,910 |
 | 58 | Eric Xia | 1,895 |
 | 59 | 0x researcher | 1,890 |
-| 60 | automorphing | 1,870 |
-| 61 | Ma Al | 1,865 |
-| 62 | Shubh Goyal | 1,860 |
-| 63 | Alper Karaca | 1,855 |
-| 64 | Alex Shcherbakov | 1,850 |
-| 65 | Kartik Mathur | 1,835 |
-| 66 | Wenxuan Dai | 1,825 |
-| 67 | Côme | 1,825 |
-| 68 | Max Ling | 1,815 |
-| 69 | Qiujiang Jin | 1,810 |
-| 70 | Kyle Zhou | 1,805 |
-| 71 | cynthiaxue2018 | 1,790 |
-| 72 | Ivan Koptiev | 1,777 |
-| 73 | Alex Mason | 1,775 |
-| 74 | Wu.E Jiang | 1,770 |
-| 75 | Linxuan XIE | 1,755 |
-| 76 | tanghaibao | 1,755 |
-| 77 | firstuserhere | 1,750.5 |
-| 78 | 747893812 | 1,725 |
-| 79 | Joe Chaoyue | 1,715 |
-| 80 | Nikita Bekasov | 1,715 |
-| 81 | monamie.b | 1,705 |
-| 82 | JiaYi Fu | 1,690 |
-| 83 | Xiao Lei Zhang | 1,685 |
-| 84 | Maksim Nikolin | 1,673 |
+| 60 | Côme | 1,880 |
+| 61 | automorphing | 1,880 |
+| 62 | Ma Al | 1,865 |
+| 63 | Shubh Goyal | 1,860 |
+| 64 | Alper Karaca | 1,855 |
+| 65 | Linxuan XIE | 1,855 |
+| 66 | Kartik Mathur | 1,835 |
+| 67 | Wenxuan Dai | 1,825 |
+| 68 | Wu.E Jiang | 1,825 |
+| 69 | Max Ling | 1,815 |
+| 70 | Qiujiang Jin | 1,810 |
+| 71 | Kyle Zhou | 1,805 |
+| 72 | cynthiaxue2018 | 1,790 |
+| 73 | Ivan Koptiev | 1,777 |
+| 74 | Alex Mason | 1,775 |
+| 75 | tanghaibao | 1,755 |
+| 76 | firstuserhere | 1,750.5 |
+| 77 | 747893812 | 1,725 |
+| 78 | Joe Chaoyue | 1,715 |
+| 79 | Nikita Bekasov | 1,715 |
+| 80 | monamie.b | 1,705 |
+| 81 | JiaYi Fu | 1,690 |
+| 82 | Xiao Lei Zhang | 1,685 |
+| 83 | Maksim Nikolin | 1,673 |
+| 84 | Alex Shcherbakov | 1,665 |
 | 85 | Samyak Jain | 1,645 |
 | 86 | Yi Zhang | 1,640 |
 | 87 | Jason Fang | 1,633.795 |
@@ -118,9 +118,9 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 95 | Aditya Lambat | 1,605 |
 | 96 | Sergey | 1,600 |
 | 97 | Sirui Zheng | 1,590 |
-| 98 | x15144067268 | 1,560 |
-| 99 | ZZ | 1,555 |
-| 100 | Phu Pham Gia Tran | 1,550 |
+| 98 | 1773703527 | 1,577 |
+| 99 | x15144067268 | 1,560 |
+| 100 | ZZ | 1,555 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
