@@ -32,7 +32,7 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 9 | Lea Wron | 3,245 |
 | 10 | DhanushKumar .R | 3,220 |
 | 11 | 1nkik H | 3,120 |
-| 12 | N R | 3,090 |
+| 12 | N R | 3,100 |
 | 13 | hiddenneuron | 3,040 |
 | 14 | Mahdi Farmahini Farahani | 2,940 |
 | 15 | Kuat Kurpenov | 2,845 |
@@ -46,7 +46,7 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 23 | BY | 2,695 |
 | 24 | PythonPPP | 2,690 |
 | 25 | Breeze Chen | 2,630 |
-| 26 | Maksym Koval | 2,600 |
+| 26 | Maksym Koval | 2,625 |
 | 27 | Anirudh Senani | 2,570 |
 | 28 | PAT | 2,535 |
 | 29 | jwu456789 | 2,520 |
@@ -63,26 +63,26 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 40 | soumit saha | 2,240 |
 | 41 | Youshaa Murhij | 2,230 |
 | 42 | Nabeel Raza | 2,220 |
-| 43 | bebeshka | 2,190 |
-| 44 | Zeyuan Li | 2,150 |
-| 45 | ps | 2,125 |
-| 46 | romil797 | 2,120 |
-| 47 | Junang Li | 2,105 |
+| 43 | Junang Li | 2,205 |
+| 44 | bebeshka | 2,190 |
+| 45 | Zeyuan Li | 2,150 |
+| 46 | ps | 2,125 |
+| 47 | romil797 | 2,120 |
 | 48 | callrmshetty | 2,102.5 |
 | 49 | Kapish Luhariwala | 2,090 |
 | 50 | Côme | 2,070 |
-| 51 | yang_mingxin | 2,020 |
-| 52 | s233036 | 2,015 |
-| 53 | Linxuan XIE | 2,005 |
-| 54 | Aarohi Bhand | 1,995 |
-| 55 | mavleo96 | 1,985 |
+| 51 | Linxuan XIE | 2,030 |
+| 52 | yang_mingxin | 2,020 |
+| 53 | s233036 | 2,015 |
+| 54 | mavleo96 | 1,995 |
+| 55 | Aarohi Bhand | 1,995 |
 | 56 | Aykut Çayır | 1,985 |
 | 57 | Shooshi | 1,980 |
 | 58 | Kacper Urban | 1,935 |
 | 59 | NIESCHAL GHOSH | 1,910 |
 | 60 | Eric Xia | 1,895 |
-| 61 | 0x researcher | 1,890 |
-| 62 | automorphing | 1,880 |
+| 61 | automorphing | 1,890 |
+| 62 | 0x researcher | 1,890 |
 | 63 | Alper Karaca | 1,865 |
 | 64 | Ma Al | 1,865 |
 | 65 | Kartik Mathur | 1,860 |
@@ -102,23 +102,23 @@ Just try this [silvermete0r.github.io/deepml-top](silvermete0r.github.io/deepml-
 | 79 | 747893812 | 1,725 |
 | 80 | Joe Chaoyue | 1,715 |
 | 81 | Nikita Bekasov | 1,715 |
-| 82 | monamie.b | 1,705 |
-| 83 | JiaYi Fu | 1,690 |
-| 84 | yd.nan | 1,677.8 |
-| 85 | Maksim Nikolin | 1,673 |
-| 86 | Alex Shcherbakov | 1,665 |
-| 87 | Samyak Jain | 1,645 |
-| 88 | Yi Zhang | 1,640 |
-| 89 | Jason Fang | 1,633.795 |
-| 90 | ajay gangwar | 1,625 |
-| 91 | Ching Wei Tseng | 1,620 |
-| 92 | Peter Li | 1,620 |
-| 93 | Nagy Zoltán | 1,620 |
-| 94 | zhiheng xu | 1,610 |
-| 95 | Yin Xiaoln | 1,610 |
-| 96 | Sergey | 1,600 |
-| 97 | Sirui Zheng | 1,590 |
-| 98 | 1773703527 | 1,577 |
+| 82 | ajay gangwar | 1,710 |
+| 83 | monamie.b | 1,705 |
+| 84 | JiaYi Fu | 1,690 |
+| 85 | yd.nan | 1,677.8 |
+| 86 | Maksim Nikolin | 1,673 |
+| 87 | Alex Shcherbakov | 1,665 |
+| 88 | Samyak Jain | 1,645 |
+| 89 | Yi Zhang | 1,640 |
+| 90 | Jason Fang | 1,633.795 |
+| 91 | 1773703527 | 1,627 |
+| 92 | Ching Wei Tseng | 1,620 |
+| 93 | Peter Li | 1,620 |
+| 94 | Nagy Zoltán | 1,620 |
+| 95 | zhiheng xu | 1,610 |
+| 96 | Yin Xiaoln | 1,610 |
+| 97 | Sergey | 1,600 |
+| 98 | Sirui Zheng | 1,590 |
 | 99 | x15144067268 | 1,560 |
 | 100 | ZZ | 1,555 |
 <!-- LEADERBOARD_END -->
