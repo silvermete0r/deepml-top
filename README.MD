@@ -29,21 +29,21 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 6 | Niels van Galen Last | 3,440 |
 | 7 | ZhangJY | 3,350 |
 | 8 | Siva Morgan | 3,285 |
-| 9 | Lea Wron | 3,245 |
-| 10 | DhanushKumar .R | 3,245 |
-| 11 | 1nkik H | 3,200 |
+| 9 | 1nkik H | 3,280 |
+| 10 | Lea Wron | 3,245 |
+| 11 | DhanushKumar .R | 3,245 |
 | 12 | N R | 3,190 |
 | 13 | hiddenneuron | 3,165 |
 | 14 | Mahdi Farmahini Farahani | 3,115 |
-| 15 | Сашка Крылов | 2,895 |
-| 16 | Loading… ██████████████] 99% | 2,855 |
-| 17 | Kuat Kurpenov | 2,845 |
-| 18 | SantaClaus | 2,825 |
-| 19 | Salim Beyden | 2,823.5 |
-| 20 | antonoof | 2,780 |
-| 21 | Maksym Koval | 2,775 |
-| 22 | Breeze Chen | 2,770 |
-| 23 | PythonPPP | 2,770 |
+| 15 | Сашка Крылов | 2,975 |
+| 16 | Loading… ██████████████] 99% | 2,935 |
+| 17 | PythonPPP | 2,850 |
+| 18 | Kuat Kurpenov | 2,845 |
+| 19 | SantaClaus | 2,825 |
+| 20 | Salim Beyden | 2,823.5 |
+| 21 | antonoof | 2,780 |
+| 22 | Maksym Koval | 2,775 |
+| 23 | Breeze Chen | 2,770 |
 | 24 | Anh Tú Ngô | 2,730 |
 | 25 | trangstalbergle | 2,696 |
 | 26 | BY | 2,695 |
@@ -73,15 +73,15 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 50 | callrmshetty | 2,102.5 |
 | 51 | Kapish Luhariwala | 2,090 |
 | 52 | mavleo96 | 2,085 |
-| 53 | yang_mingxin | 2,020 |
-| 54 | s233036 | 2,015 |
-| 55 | Alper Karaca | 2,000 |
-| 56 | Aarohi Bhand | 1,995 |
-| 57 | Aykut Çayır | 1,985 |
-| 58 | Shooshi | 1,980 |
-| 59 | automorphing | 1,980 |
-| 60 | ajay gangwar | 1,960 |
-| 61 | Mako | 1,940 |
+| 53 | Mako | 2,020 |
+| 54 | yang_mingxin | 2,020 |
+| 55 | s233036 | 2,015 |
+| 56 | Alper Karaca | 2,000 |
+| 57 | Aarohi Bhand | 1,995 |
+| 58 | automorphing | 1,990 |
+| 59 | Aykut Çayır | 1,985 |
+| 60 | Shooshi | 1,980 |
+| 61 | ajay gangwar | 1,960 |
 | 62 | Kacper Urban | 1,935 |
 | 63 | NIESCHAL GHOSH | 1,910 |
 | 64 | 0x researcher | 1,890 |
@@ -98,29 +98,29 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 75 | cynthiaxue2018 | 1,790 |
 | 76 | Alex Mason | 1,775 |
 | 77 | tanghaibao | 1,755 |
-| 78 | firstuserhere | 1,750.5 |
-| 79 | Escadoula Escadoula | 1,745 |
-| 80 | Joe Chaoyue | 1,715 |
-| 81 | Nikita Bekasov | 1,715 |
-| 82 | Eric Xia | 1,705.5 |
-| 83 | monamie.b | 1,705 |
-| 84 | yd.nan | 1,702.8 |
-| 85 | JiaYi Fu | 1,690 |
-| 86 | Jason Fang | 1,683.795 |
-| 87 | 1773703527 | 1,677 |
-| 88 | Maksim Nikolin | 1,673 |
+| 78 | Maksim Nikolin | 1,753 |
+| 79 | firstuserhere | 1,750.5 |
+| 80 | Escadoula Escadoula | 1,745 |
+| 81 | yd.nan | 1,722.8 |
+| 82 | Joe Chaoyue | 1,715 |
+| 83 | Nikita Bekasov | 1,715 |
+| 84 | Eric Xia | 1,705.5 |
+| 85 | monamie.b | 1,705 |
+| 86 | JiaYi Fu | 1,690 |
+| 87 | Jason Fang | 1,683.795 |
+| 88 | 1773703527 | 1,677 |
 | 89 | Alex Shcherbakov | 1,665 |
 | 90 | Samyak Jain | 1,645 |
 | 91 | Yi Zhang | 1,640 |
-| 92 | Ching Wei Tseng | 1,620 |
-| 93 | Peter Li | 1,620 |
-| 94 | Nagy Zoltán | 1,620 |
-| 95 | zhiheng xu | 1,610 |
-| 96 | Yin Xiaoln | 1,610 |
-| 97 | Sergey | 1,600 |
-| 98 | Pavel | 1,595 |
-| 99 | Sirui Zheng | 1,590 |
-| 100 | x15144067268 | 1,560 |
+| 92 | katam madhumitha | 1,630 |
+| 93 | Joe Qi | 1,625 |
+| 94 | Ching Wei Tseng | 1,620 |
+| 95 | Nagy Zoltán | 1,620 |
+| 96 | zhiheng xu | 1,610 |
+| 97 | Yin Xiaoln | 1,610 |
+| 98 | caesar | 1,605 |
+| 99 | Sergey | 1,600 |
+| 100 | Pavel | 1,595 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
