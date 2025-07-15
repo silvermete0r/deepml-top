@@ -27,7 +27,7 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 4 | StoatScript | 3,960 |
 | 5 | Lado Turmanidze (Stochastic Batman) | 3,885 |
 | 6 | DhanushKumar .R | 3,580 |
-| 7 | N R | 3,480 |
+| 7 | N R | 3,490 |
 | 8 | Niels van Galen Last | 3,440 |
 | 9 | Siva Morgan | 3,425 |
 | 10 | 1nkik H | 3,400 |
@@ -37,15 +37,15 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 14 | Python | 3,305 |
 | 15 | Lea Wron | 3,245 |
 | 16 | hiddenneuron | 3,165 |
-| 17 | Mahdi Farmahini Farahani | 3,115 |
-| 18 | Breeze Chen | 3,105 |
-| 19 | trangstalbergle | 3,046 |
-| 20 | Junang Li | 3,020 |
+| 17 | Breeze Chen | 3,160 |
+| 18 | Mahdi Farmahini Farahani | 3,115 |
+| 19 | Junang Li | 3,055 |
+| 20 | trangstalbergle | 3,046 |
 | 21 | Salim Beyden | 2,983.5 |
 | 22 | Anh Tú Ngô | 2,945 |
-| 23 | Maksym Koval | 2,895 |
-| 24 | Kuat Kurpenov | 2,845 |
-| 25 | Mahesh | 2,840 |
+| 23 | Mahesh | 2,895 |
+| 24 | Maksym Koval | 2,895 |
+| 25 | Kuat Kurpenov | 2,845 |
 | 26 | SantaClaus | 2,825 |
 | 27 | antonoof | 2,780 |
 | 28 | BY | 2,695 |
@@ -56,71 +56,71 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 33 | jwu456789 | 2,520 |
 | 34 | Haolun Zhang | 2,510 |
 | 35 | Yuzhou Chen | 2,410 |
-| 36 | Tushar aggarwal | 2,385 |
-| 37 | Mako | 2,380 |
-| 38 | Mythri Shivakumar | 2,380 |
-| 39 | mavleo96 | 2,350 |
-| 40 | Vick Mahase | 2,345 |
-| 41 | ajay gangwar | 2,330 |
+| 36 | ajay gangwar | 2,405 |
+| 37 | Tushar aggarwal | 2,385 |
+| 38 | Mako | 2,380 |
+| 39 | Mythri Shivakumar | 2,380 |
+| 40 | mavleo96 | 2,350 |
+| 41 | Vick Mahase | 2,345 |
 | 42 | Shi-Wei Zhou | 2,325 |
-| 43 | atoms-iambics.4i | 2,265 |
-| 44 | Márcio Pereira | 2,265 |
-| 45 | Jiarui Cui | 2,255 |
-| 46 | GlaDiaTor | 2,245 |
-| 47 | soumit saha | 2,240 |
-| 48 | Linxuan XIE | 2,240 |
+| 43 | GlaDiaTor | 2,300 |
+| 44 | atoms-iambics.4i | 2,265 |
+| 45 | Márcio Pereira | 2,265 |
+| 46 | Jiarui Cui | 2,255 |
+| 47 | Linxuan XIE | 2,250 |
+| 48 | soumit saha | 2,240 |
 | 49 | Nabeel Raza | 2,220 |
-| 50 | bebeshka | 2,190 |
-| 51 | Xiao Lei Zhang | 2,180 |
-| 52 | 1773703527 | 2,167 |
+| 50 | 1773703527 | 2,192 |
+| 51 | bebeshka | 2,190 |
+| 52 | Xiao Lei Zhang | 2,180 |
 | 53 | Zeyuan Li | 2,150 |
 | 54 | ps | 2,125 |
 | 55 | Côme | 2,125 |
 | 56 | romil797 | 2,120 |
 | 57 | automorphing | 2,105 |
 | 58 | callrmshetty | 2,102.5 |
-| 59 | Kapish Luhariwala | 2,090 |
-| 60 | yang_mingxin | 2,020 |
-| 61 | s233036 | 2,015 |
-| 62 | caesar | 2,010 |
-| 63 | Wu.E Jiang | 2,000 |
-| 64 | Alper Karaca | 2,000 |
-| 65 | Aarohi Bhand | 1,995 |
-| 66 | Aykut Çayır | 1,985 |
-| 67 | Shooshi | 1,980 |
-| 68 | katam madhumitha | 1,965 |
-| 69 | Kartik Mathur | 1,960 |
-| 70 | yd.nan | 1,957.8 |
-| 71 | Kacper Urban | 1,935 |
-| 72 | Pavel | 1,925 |
-| 73 | NIESCHAL GHOSH | 1,910 |
-| 74 | Escadoula Escadoula | 1,905 |
-| 75 | 0x researcher | 1,890 |
-| 76 | Stephen zhao | 1,875 |
-| 77 | Ma Al | 1,865 |
-| 78 | Shubh Goyal | 1,860 |
-| 79 | Алексей Панарин | 1,830 |
-| 80 | 747893812 | 1,830 |
-| 81 | Wenxuan Dai | 1,825 |
-| 82 | Qiujiang Jin | 1,810 |
-| 83 | xin yin | 1,808.283 |
-| 84 | Kyle Zhou | 1,805 |
-| 85 | Maksim Nikolin | 1,803 |
-| 86 | cynthiaxue2018 | 1,790 |
-| 87 | Dmitry Bakanov | 1,785 |
-| 88 | Alex Mason | 1,775 |
-| 89 | Jason Fang | 1,758.795 |
-| 90 | tanghaibao | 1,755 |
-| 91 | firstuserhere | 1,750.5 |
-| 92 | Joe Chaoyue | 1,715 |
-| 93 | Nikita Bekasov | 1,715 |
-| 94 | Eric Xia | 1,705.5 |
-| 95 | monamie.b | 1,705 |
-| 96 | JiaYi Fu | 1,690 |
-| 97 | hg1169 | 1,685 |
-| 98 | Юлия | 1,670 |
-| 99 | Alex Shcherbakov | 1,665 |
-| 100 | Vedant Bhatt | 1,660 |
+| 59 | caesar | 2,095 |
+| 60 | Kapish Luhariwala | 2,090 |
+| 61 | yang_mingxin | 2,020 |
+| 62 | s233036 | 2,015 |
+| 63 | xin yin | 2,013.283 |
+| 64 | Wu.E Jiang | 2,000 |
+| 65 | Alper Karaca | 2,000 |
+| 66 | Aarohi Bhand | 1,995 |
+| 67 | Aykut Çayır | 1,985 |
+| 68 | Shooshi | 1,980 |
+| 69 | Kartik Mathur | 1,970 |
+| 70 | katam madhumitha | 1,965 |
+| 71 | yd.nan | 1,957.8 |
+| 72 | Dmitry Bakanov | 1,935 |
+| 73 | Kacper Urban | 1,935 |
+| 74 | Pavel | 1,925 |
+| 75 | NIESCHAL GHOSH | 1,910 |
+| 76 | Escadoula Escadoula | 1,905 |
+| 77 | Stephen zhao | 1,900 |
+| 78 | 0x researcher | 1,890 |
+| 79 | Алексей Панарин | 1,885 |
+| 80 | Ma Al | 1,865 |
+| 81 | Shubh Goyal | 1,860 |
+| 82 | 747893812 | 1,830 |
+| 83 | Wenxuan Dai | 1,825 |
+| 84 | Qiujiang Jin | 1,810 |
+| 85 | Kyle Zhou | 1,805 |
+| 86 | Maksim Nikolin | 1,803 |
+| 87 | Sudheesh Singanamalla | 1,800 |
+| 88 | cynthiaxue2018 | 1,790 |
+| 89 | Alex Mason | 1,775 |
+| 90 | Jason Fang | 1,758.795 |
+| 91 | tanghaibao | 1,755 |
+| 92 | firstuserhere | 1,750.5 |
+| 93 | hg1169 | 1,740 |
+| 94 | Joe Chaoyue | 1,715 |
+| 95 | Nikita Bekasov | 1,715 |
+| 96 | Eric Xia | 1,705.5 |
+| 97 | monamie.b | 1,705 |
+| 98 | JiaYi Fu | 1,690 |
+| 99 | Юлия | 1,670 |
+| 100 | Alex Shcherbakov | 1,665 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
