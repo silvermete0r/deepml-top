@@ -21,36 +21,36 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 <!-- LEADERBOARD_START -->
 | Rank | Username | Score |
 |------|---------|-------|
-| 1 | Marco Cheng | 5,160 |
+| 1 | Marco Cheng | 5,200 |
 | 2 | mr. Arman (梦想) | 4,605 |
 | 3 | Patteera Triamamornwooth | 4,060 |
 | 4 | StoatScript | 3,960 |
 | 5 | Lado Turmanidze (Stochastic Batman) | 3,885 |
 | 6 | DhanushKumar .R | 3,645 |
 | 7 | N R | 3,560 |
-| 8 | Siva Morgan | 3,455 |
+| 8 | Siva Morgan | 3,465 |
 | 9 | Alexander Krylov | 3,445 |
 | 10 | ТЕМА 2003 | 3,445 |
 | 11 | Niels van Galen Last | 3,440 |
 | 12 | PythonPPP | 3,400 |
 | 13 | 1nkik H | 3,400 |
 | 14 | ZhangJY | 3,350 |
-| 15 | Junang Li | 3,270 |
+| 15 | Junang Li | 3,295 |
 | 16 | Lea Wron | 3,245 |
 | 17 | Breeze Chen | 3,215 |
 | 18 | hiddenneuron | 3,165 |
-| 19 | Mahdi Farmahini Farahani | 3,115 |
-| 20 | trangstalbergle | 3,101 |
+| 19 | trangstalbergle | 3,136 |
+| 20 | Mahdi Farmahini Farahani | 3,115 |
 | 21 | Mahesh | 2,990 |
 | 22 | Anh Tú Ngô | 2,985 |
 | 23 | Salim Beyden | 2,983.5 |
-| 24 | Maksym Koval | 2,895 |
-| 25 | Kuat Kurpenov | 2,845 |
-| 26 | SantaClaus | 2,825 |
-| 27 | antonoof | 2,780 |
-| 28 | BY | 2,695 |
-| 29 | Jiarui Cui | 2,675 |
-| 30 | Youshaa Murhij | 2,645 |
+| 24 | Kuat Kurpenov | 2,845 |
+| 25 | SantaClaus | 2,825 |
+| 26 | antonoof | 2,780 |
+| 27 | BY | 2,695 |
+| 28 | Jiarui Cui | 2,675 |
+| 29 | Youshaa Murhij | 2,645 |
+| 30 | Maksym Koval | 2,605.5 |
 | 31 | Anirudh Senani | 2,570 |
 | 32 | ajay gangwar | 2,540 |
 | 33 | PAT | 2,535 |
@@ -65,47 +65,47 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 42 | GlaDiaTor | 2,355 |
 | 43 | Vick Mahase | 2,345 |
 | 44 | Shi-Wei Zhou | 2,325 |
-| 45 | atoms-iambics.4i | 2,265 |
-| 46 | Márcio Pereira | 2,265 |
-| 47 | xin yin | 2,258.283 |
-| 48 | 1773703527 | 2,252 |
-| 49 | Dmitry Bakanov | 2,250 |
-| 50 | Linxuan XIE | 2,250 |
-| 51 | soumit saha | 2,240 |
-| 52 | Nabeel Raza | 2,220 |
-| 53 | bebeshka | 2,190 |
-| 54 | Xiao Lei Zhang | 2,180 |
-| 55 | Stephen zhao | 2,180 |
-| 56 | Zeyuan Li | 2,150 |
-| 57 | automorphing | 2,145 |
-| 58 | Sudheesh Singanamalla | 2,135 |
-| 59 | ps | 2,125 |
-| 60 | Côme | 2,125 |
-| 61 | romil797 | 2,120 |
-| 62 | callrmshetty | 2,102.5 |
-| 63 | littlebook24 | 2,100 |
-| 64 | caesar | 2,095 |
-| 65 | Kapish Luhariwala | 2,090 |
-| 66 | katam madhumitha | 2,060 |
-| 67 | yd.nan | 2,042.8 |
+| 45 | 1773703527 | 2,312 |
+| 46 | Linxuan XIE | 2,300 |
+| 47 | xin yin | 2,283.283 |
+| 48 | littlebook24 | 2,275 |
+| 49 | atoms-iambics.4i | 2,265 |
+| 50 | Márcio Pereira | 2,265 |
+| 51 | Dmitry Bakanov | 2,250 |
+| 52 | soumit saha | 2,240 |
+| 53 | Nabeel Raza | 2,220 |
+| 54 | bebeshka | 2,190 |
+| 55 | Xiao Lei Zhang | 2,180 |
+| 56 | Stephen zhao | 2,180 |
+| 57 | Sudheesh Singanamalla | 2,160 |
+| 58 | Zeyuan Li | 2,150 |
+| 59 | automorphing | 2,145 |
+| 60 | ps | 2,125 |
+| 61 | Côme | 2,125 |
+| 62 | romil797 | 2,120 |
+| 63 | yd.nan | 2,102.8 |
+| 64 | callrmshetty | 2,102.5 |
+| 65 | caesar | 2,095 |
+| 66 | Kapish Luhariwala | 2,090 |
+| 67 | katam madhumitha | 2,060 |
 | 68 | Pavel | 2,030 |
 | 69 | yang_mingxin | 2,020 |
 | 70 | s233036 | 2,015 |
-| 71 | Wu.E Jiang | 2,000 |
-| 72 | Alper Karaca | 2,000 |
-| 73 | Aarohi Bhand | 1,995 |
-| 74 | Aykut Çayır | 1,985 |
-| 75 | Shooshi | 1,980 |
-| 76 | Kartik Mathur | 1,970 |
-| 77 | Алексей Панарин | 1,965 |
+| 71 | Алексей Панарин | 2,005 |
+| 72 | Wu.E Jiang | 2,000 |
+| 73 | Alper Karaca | 2,000 |
+| 74 | Aarohi Bhand | 1,995 |
+| 75 | Aykut Çayır | 1,985 |
+| 76 | Shooshi | 1,980 |
+| 77 | Kartik Mathur | 1,970 |
 | 78 | Kacper Urban | 1,935 |
 | 79 | NIESCHAL GHOSH | 1,910 |
 | 80 | Escadoula Escadoula | 1,905 |
 | 81 | 0x researcher | 1,890 |
 | 82 | Ma Al | 1,865 |
-| 83 | Shubh Goyal | 1,860 |
-| 84 | Emanuel-Florin Ciobotea | 1,855 |
-| 85 | hg1169 | 1,840 |
+| 83 | hg1169 | 1,860 |
+| 84 | Shubh Goyal | 1,860 |
+| 85 | Emanuel-Florin Ciobotea | 1,855 |
 | 86 | 747893812 | 1,830 |
 | 87 | Wenxuan Dai | 1,825 |
 | 88 | Qiujiang Jin | 1,810 |
