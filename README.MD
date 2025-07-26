@@ -22,75 +22,75 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | Rank | Username | Score |
 |------|---------|-------|
 | 1 | Marco Cheng | 5,260 |
-| 2 | mr. Arman (梦想) | 4,765 |
-| 3 | Patteera Triamamornwooth | 4,235 |
+| 2 | mr. Arman (梦想) | 4,805 |
+| 3 | Patteera Triamamornwooth | 4,275 |
 | 4 | StoatScript | 3,960 |
 | 5 | Lado Turmanidze (Stochastic Batman) | 3,885 |
-| 6 | DhanushKumar .R | 3,685 |
-| 7 | PythonPPP | 3,670 |
-| 8 | ТЕМА 2003 | 3,620 |
-| 9 | N R | 3,585 |
-| 10 | 1nkik H | 3,550 |
-| 11 | Mahdi Farmahini Farahani | 3,545 |
-| 12 | Alexander Krylov | 3,540 |
-| 13 | Siva Morgan | 3,475 |
-| 14 | shongpapa80 | 3,450 |
+| 6 | DhanushKumar .R | 3,725 |
+| 7 | PythonPPP | 3,710 |
+| 8 | ТЕМА 2003 | 3,660 |
+| 9 | 1nkik H | 3,590 |
+| 10 | N R | 3,585 |
+| 11 | Alexander Krylov | 3,580 |
+| 12 | Mahdi Farmahini Farahani | 3,545 |
+| 13 | shongpapa80 | 3,500 |
+| 14 | Siva Morgan | 3,500 |
 | 15 | Junang Li | 3,440 |
 | 16 | Niels van Galen Last | 3,440 |
 | 17 | ZhangJY | 3,350 |
-| 18 | Lea Wron | 3,245 |
-| 19 | trangstalbergle | 3,231 |
-| 20 | Breeze Chen | 3,225 |
-| 21 | Mahesh | 3,220 |
+| 18 | trangstalbergle | 3,271 |
+| 19 | Wulin | 3,260 |
+| 20 | Lea Wron | 3,245 |
+| 21 | Breeze Chen | 3,225 |
 | 22 | hiddenneuron | 3,165 |
-| 23 | Anh Tú Ngô | 3,105 |
+| 23 | Anh Tú Ngô | 3,145 |
 | 24 | Jiarui Cui | 3,105 |
 | 25 | Salim Beyden | 3,038.5 |
 | 26 | Kuat Kurpenov | 2,845 |
 | 27 | SantaClaus | 2,825 |
 | 28 | antonoof | 2,780 |
 | 29 | Youshaa Murhij | 2,780 |
-| 30 | ajay gangwar | 2,715 |
+| 30 | ajay gangwar | 2,755 |
 | 31 | BY | 2,695 |
 | 32 | Maksym Koval | 2,605.5 |
 | 33 | Anirudh Senani | 2,570 |
 | 34 | Aman Rangapur | 2,555 |
 | 35 | PAT | 2,535 |
-| 36 | anian.ruoss | 2,526.5 |
-| 37 | jwu456789 | 2,520 |
-| 38 | Haolun Zhang | 2,510 |
-| 39 | mavleo96 | 2,510 |
-| 40 | GlaDiaTor | 2,475 |
-| 41 | Mythri Shivakumar | 2,420 |
-| 42 | 1773703527 | 2,412 |
-| 43 | Yuzhou Chen | 2,410 |
-| 44 | Tushar aggarwal | 2,385 |
-| 45 | Mako | 2,380 |
-| 46 | xin yin | 2,358.283 |
-| 47 | Vick Mahase | 2,345 |
-| 48 | Shi-Wei Zhou | 2,325 |
-| 49 | Linxuan XIE | 2,310 |
-| 50 | yd.nan | 2,297.8 |
-| 51 | Pavel | 2,295 |
-| 52 | atoms-iambics.4i | 2,265 |
-| 53 | Márcio Pereira | 2,265 |
-| 54 | Emanuel-Florin Ciobotea | 2,255 |
+| 36 | mavleo96 | 2,535 |
+| 37 | anian.ruoss | 2,526.5 |
+| 38 | jwu456789 | 2,520 |
+| 39 | Haolun Zhang | 2,510 |
+| 40 | Emanuel-Florin Ciobotea | 2,505 |
+| 41 | GlaDiaTor | 2,475 |
+| 42 | Mythri Shivakumar | 2,420 |
+| 43 | 1773703527 | 2,412 |
+| 44 | Yuzhou Chen | 2,410 |
+| 45 | Tushar aggarwal | 2,385 |
+| 46 | Mako | 2,380 |
+| 47 | xin yin | 2,358.283 |
+| 48 | Vick Mahase | 2,345 |
+| 49 | Shi-Wei Zhou | 2,325 |
+| 50 | Linxuan XIE | 2,310 |
+| 51 | yd.nan | 2,297.8 |
+| 52 | Pavel | 2,295 |
+| 53 | atoms-iambics.4i | 2,265 |
+| 54 | Márcio Pereira | 2,265 |
 | 55 | Дмитрий | 2,250 |
 | 56 | soumit saha | 2,250 |
 | 57 | Sudheesh Singanamalla | 2,245 |
 | 58 | Stephen zhao | 2,230 |
 | 59 | caesar | 2,230 |
 | 60 | Nabeel Raza | 2,220 |
-| 61 | automorphing | 2,195 |
-| 62 | bebeshka | 2,190 |
-| 63 | Xiao Lei Zhang | 2,180 |
+| 61 | Xiao Lei Zhang | 2,210 |
+| 62 | automorphing | 2,195 |
+| 63 | bebeshka | 2,190 |
 | 64 | Zeyuan Li | 2,150 |
-| 65 | ps | 2,125 |
-| 66 | Côme | 2,125 |
-| 67 | romil797 | 2,120 |
-| 68 | callrmshetty | 2,102.5 |
-| 69 | katam madhumitha | 2,100 |
-| 70 | Алексей Панарин | 2,095 |
+| 65 | katam madhumitha | 2,140 |
+| 66 | Алексей Панарин | 2,135 |
+| 67 | ps | 2,125 |
+| 68 | Côme | 2,125 |
+| 69 | romil797 | 2,120 |
+| 70 | callrmshetty | 2,102.5 |
 | 71 | Kapish Luhariwala | 2,090 |
 | 72 | yang_mingxin | 2,020 |
 | 73 | s233036 | 2,015 |
@@ -98,9 +98,9 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 75 | Alper Karaca | 2,000 |
 | 76 | Aarohi Bhand | 1,995 |
 | 77 | C8H18N2 | 1,991 |
-| 78 | Aykut Çayır | 1,985 |
-| 79 | Shooshi | 1,980 |
-| 80 | hg1169 | 1,975 |
+| 78 | hg1169 | 1,985 |
+| 79 | Aykut Çayır | 1,985 |
+| 80 | Shooshi | 1,980 |
 | 81 | Kartik Mathur | 1,970 |
 | 82 | Li Le | 1,945 |
 | 83 | Kacper Urban | 1,935 |
@@ -108,11 +108,11 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 85 | 0x researcher | 1,890 |
 | 86 | Ma Al | 1,865 |
 | 87 | Shubh Goyal | 1,860 |
-| 88 | 747893812 | 1,830 |
-| 89 | Wenxuan Dai | 1,825 |
-| 90 | Qiujiang Jin | 1,810 |
-| 91 | Kyle Zhou | 1,805 |
-| 92 | Maksim Nikolin | 1,803 |
+| 88 | Maksim Nikolin | 1,843 |
+| 89 | 747893812 | 1,830 |
+| 90 | Wenxuan Dai | 1,825 |
+| 91 | Qiujiang Jin | 1,810 |
+| 92 | Kyle Zhou | 1,805 |
 | 93 | Pavel Avdeyev | 1,795 |
 | 94 | cynthiaxue2018 | 1,790 |
 | 95 | Alex Mason | 1,775 |
@@ -120,7 +120,7 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 97 | Escadoula Escadoula | 1,764.5 |
 | 98 | Fimochka | 1,760 |
 | 99 | Jason Fang | 1,758.795 |
-| 100 | tanghaibao | 1,755 |
+| 100 | Илья Тампио | 1,755 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
