@@ -26,10 +26,10 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 3 | Patteera Triamamornwooth | 4,330 |
 | 4 | StoatScript | 3,960 |
 | 5 | Lado Turmanidze (Stochastic Batman) | 3,885 |
-| 6 | DhanushKumar .R | 3,780 |
+| 6 | DhanushKumar .R | 3,830 |
 | 7 | PythonPPP | 3,765 |
 | 8 | ТЕМА 2003 | 3,715 |
-| 9 | 1nkik H | 3,645 |
+| 9 | 1nkik H | 3,685 |
 | 10 | N R | 3,585 |
 | 11 | Alexander Krylov | 3,580 |
 | 12 | Mahdi Farmahini Farahani | 3,545 |
@@ -37,20 +37,20 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 14 | shongpapa80 | 3,500 |
 | 15 | Junang Li | 3,440 |
 | 16 | Niels van Galen Last | 3,440 |
-| 17 | ZhangJY | 3,350 |
-| 18 | trangstalbergle | 3,326 |
+| 17 | trangstalbergle | 3,366 |
+| 18 | ZhangJY | 3,350 |
 | 19 | Wulin | 3,260 |
 | 20 | Lea Wron | 3,245 |
 | 21 | Breeze Chen | 3,225 |
 | 22 | hiddenneuron | 3,165 |
-| 23 | Anh Tú Ngô | 3,145 |
-| 24 | Jiarui Cui | 3,105 |
+| 23 | Jiarui Cui | 3,165 |
+| 24 | Anh Tú Ngô | 3,145 |
 | 25 | Salim Beyden | 3,038.5 |
 | 26 | Kuat Kurpenov | 2,845 |
 | 27 | SantaClaus | 2,825 |
-| 28 | antonoof | 2,780 |
-| 29 | Youshaa Murhij | 2,780 |
-| 30 | ajay gangwar | 2,755 |
+| 28 | ajay gangwar | 2,795 |
+| 29 | antonoof | 2,780 |
+| 30 | Youshaa Murhij | 2,780 |
 | 31 | BY | 2,695 |
 | 32 | Maksym Koval | 2,605.5 |
 | 33 | Anirudh Senani | 2,570 |
@@ -75,18 +75,18 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 52 | Pavel | 2,295 |
 | 53 | atoms-iambics.4i | 2,265 |
 | 54 | Márcio Pereira | 2,265 |
-| 55 | Дмитрий | 2,250 |
-| 56 | soumit saha | 2,250 |
-| 57 | Sudheesh Singanamalla | 2,245 |
-| 58 | Xiao Lei Zhang | 2,235 |
-| 59 | Stephen zhao | 2,230 |
+| 55 | Stephen zhao | 2,255 |
+| 56 | Дмитрий | 2,250 |
+| 57 | soumit saha | 2,250 |
+| 58 | Sudheesh Singanamalla | 2,245 |
+| 59 | Xiao Lei Zhang | 2,235 |
 | 60 | caesar | 2,230 |
 | 61 | Nabeel Raza | 2,220 |
-| 62 | automorphing | 2,195 |
-| 63 | Алексей Панарин | 2,190 |
+| 62 | Алексей Панарин | 2,215 |
+| 63 | automorphing | 2,195 |
 | 64 | bebeshka | 2,190 |
-| 65 | Zeyuan Li | 2,150 |
-| 66 | katam madhumitha | 2,140 |
+| 65 | katam madhumitha | 2,180 |
+| 66 | Zeyuan Li | 2,150 |
 | 67 | ps | 2,125 |
 | 68 | Côme | 2,125 |
 | 69 | romil797 | 2,120 |
