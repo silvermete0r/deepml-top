@@ -34,26 +34,26 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 11 | N R | 3,610 |
 | 12 | Mahdi Farmahini Farahani | 3,545 |
 | 13 | Siva Morgan | 3,535 |
-| 14 | shongpapa80 | 3,500 |
+| 14 | shongpapa80 | 3,525 |
 | 15 | Junang Li | 3,440 |
 | 16 | Niels van Galen Last | 3,440 |
 | 17 | trangstalbergle | 3,421 |
 | 18 | ZhangJY | 3,350 |
-| 19 | Wulin | 3,300 |
-| 20 | Breeze Chen | 3,280 |
-| 21 | Lea Wron | 3,245 |
-| 22 | Anh Tú Ngô | 3,185 |
-| 23 | hiddenneuron | 3,165 |
-| 24 | Jiarui Cui | 3,165 |
+| 19 | Jiarui Cui | 3,310 |
+| 20 | Wulin | 3,300 |
+| 21 | Breeze Chen | 3,280 |
+| 22 | Lea Wron | 3,245 |
+| 23 | Anh Tú Ngô | 3,185 |
+| 24 | hiddenneuron | 3,165 |
 | 25 | Salim Beyden | 3,038.5 |
 | 26 | ajay gangwar | 2,850 |
 | 27 | Kuat Kurpenov | 2,845 |
 | 28 | SantaClaus | 2,825 |
 | 29 | antonoof | 2,780 |
 | 30 | Youshaa Murhij | 2,780 |
-| 31 | BY | 2,695 |
-| 32 | Maksym Koval | 2,605.5 |
-| 33 | Emanuel-Florin Ciobotea | 2,605 |
+| 31 | Emanuel-Florin Ciobotea | 2,705 |
+| 32 | BY | 2,695 |
+| 33 | Maksym Koval | 2,605.5 |
 | 34 | Anirudh Senani | 2,570 |
 | 35 | Aman Rangapur | 2,555 |
 | 36 | PAT | 2,535 |
@@ -67,24 +67,24 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 44 | Yuzhou Chen | 2,410 |
 | 45 | Tushar aggarwal | 2,385 |
 | 46 | Mako | 2,380 |
-| 47 | xin yin | 2,358.283 |
-| 48 | Vick Mahase | 2,345 |
-| 49 | Shi-Wei Zhou | 2,325 |
-| 50 | Linxuan XIE | 2,320 |
-| 51 | Алексей Панарин | 2,310 |
-| 52 | yd.nan | 2,297.8 |
-| 53 | Pavel | 2,295 |
-| 54 | atoms-iambics.4i | 2,265 |
-| 55 | Márcio Pereira | 2,265 |
-| 56 | Stephen zhao | 2,255 |
-| 57 | caesar | 2,255 |
-| 58 | Дмитрий | 2,250 |
-| 59 | soumit saha | 2,250 |
-| 60 | Sudheesh Singanamalla | 2,245 |
-| 61 | Xiao Lei Zhang | 2,235 |
-| 62 | katam madhumitha | 2,235 |
-| 63 | Nabeel Raza | 2,220 |
-| 64 | automorphing | 2,220 |
+| 47 | Алексей Панарин | 2,360 |
+| 48 | xin yin | 2,358.283 |
+| 49 | Дмитрий | 2,350 |
+| 50 | Vick Mahase | 2,345 |
+| 51 | Shi-Wei Zhou | 2,325 |
+| 52 | yd.nan | 2,322.8 |
+| 53 | Linxuan XIE | 2,320 |
+| 54 | Pavel | 2,295 |
+| 55 | automorphing | 2,295 |
+| 56 | Xiao Lei Zhang | 2,270 |
+| 57 | atoms-iambics.4i | 2,265 |
+| 58 | Márcio Pereira | 2,265 |
+| 59 | Stephen zhao | 2,255 |
+| 60 | caesar | 2,255 |
+| 61 | soumit saha | 2,250 |
+| 62 | Sudheesh Singanamalla | 2,245 |
+| 63 | katam madhumitha | 2,235 |
+| 64 | Nabeel Raza | 2,220 |
 | 65 | bebeshka | 2,190 |
 | 66 | Zeyuan Li | 2,150 |
 | 67 | ps | 2,125 |
@@ -93,9 +93,9 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 70 | callrmshetty | 2,102.5 |
 | 71 | Kapish Luhariwala | 2,090 |
 | 72 | hg1169 | 2,035 |
-| 73 | yang_mingxin | 2,020 |
-| 74 | s233036 | 2,015 |
-| 75 | Wu.E Jiang | 2,000 |
+| 73 | Jiongran Wang | 2,030 |
+| 74 | yang_mingxin | 2,020 |
+| 75 | s233036 | 2,015 |
 | 76 | Alper Karaca | 2,000 |
 | 77 | Aarohi Bhand | 1,995 |
 | 78 | 王思钰 | 1,991 |
@@ -105,22 +105,22 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 82 | Li Le | 1,945 |
 | 83 | Kacper Urban | 1,935 |
 | 84 | NIESCHAL GHOSH | 1,910 |
-| 85 | Jiongran Wang | 1,895 |
-| 86 | 0x researcher | 1,890 |
-| 87 | Ma Al | 1,865 |
-| 88 | Shubh Goyal | 1,860 |
-| 89 | Maksim Nikolin | 1,843 |
-| 90 | 747893812 | 1,830 |
-| 91 | Wenxuan Dai | 1,825 |
-| 92 | Qiujiang Jin | 1,810 |
-| 93 | Kyle Zhou | 1,805 |
-| 94 | Pavel Avdeyev | 1,795 |
-| 95 | cynthiaxue2018 | 1,790 |
-| 96 | Alex Mason | 1,775 |
-| 97 | peter.metalfreak | 1,765 |
-| 98 | Escadoula Escadoula | 1,764.5 |
-| 99 | Fimochka | 1,760 |
-| 100 | Jason Fang | 1,758.795 |
+| 85 | 0x researcher | 1,890 |
+| 86 | Ma Al | 1,865 |
+| 87 | Shubh Goyal | 1,860 |
+| 88 | Maksim Nikolin | 1,843 |
+| 89 | 747893812 | 1,830 |
+| 90 | Wenxuan Dai | 1,825 |
+| 91 | Qiujiang Jin | 1,810 |
+| 92 | Kyle Zhou | 1,805 |
+| 93 | Pavel Avdeyev | 1,795 |
+| 94 | cynthiaxue2018 | 1,790 |
+| 95 | Alex Mason | 1,775 |
+| 96 | peter.metalfreak | 1,765 |
+| 97 | Escadoula Escadoula | 1,764.5 |
+| 98 | Fimochka | 1,760 |
+| 99 | Jason Fang | 1,758.795 |
+| 100 | Илья Тампио | 1,755 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
