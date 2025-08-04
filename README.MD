@@ -24,22 +24,22 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 1 | Marco Cheng | 5,260 |
 | 2 | mr. Arman (梦想) | 5,050 |
 | 3 | Patteera Triamamornwooth | 4,465 |
-| 4 | StoatScript | 3,960 |
-| 5 | ТЕМА 2003 | 3,930 |
-| 6 | DhanushKumar .R | 3,925 |
-| 7 | Lado Turmanidze (Stochastic Batman) | 3,885 |
-| 8 | PythonPPP | 3,885 |
+| 4 | ТЕМА 2003 | 3,970 |
+| 5 | StoatScript | 3,960 |
+| 6 | DhanushKumar .R | 3,935 |
+| 7 | PythonPPP | 3,925 |
+| 8 | Lado Turmanidze (Stochastic Batman) | 3,885 |
 | 9 | 1nkik H | 3,725 |
-| 10 | Alexander Krylov | 3,675 |
+| 10 | Alexander Krylov | 3,715 |
 | 11 | N R | 3,610 |
 | 12 | Siva Morgan | 3,585 |
 | 13 | Jiarui Cui | 3,550 |
 | 14 | Mahdi Farmahini Farahani | 3,545 |
 | 15 | shongpapa80 | 3,525 |
-| 16 | Junang Li | 3,440 |
-| 17 | Niels van Galen Last | 3,440 |
-| 18 | trangstalbergle | 3,421 |
-| 19 | Wulin | 3,420 |
+| 16 | Wulin | 3,460 |
+| 17 | Junang Li | 3,440 |
+| 18 | Niels van Galen Last | 3,440 |
+| 19 | trangstalbergle | 3,421 |
 | 20 | ZhangJY | 3,350 |
 | 21 | Anh Tú Ngô | 3,305 |
 | 22 | Breeze Chen | 3,280 |
@@ -60,9 +60,9 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 37 | PAT | 2,535 |
 | 38 | mavleo96 | 2,535 |
 | 39 | anian.ruoss | 2,526.5 |
-| 40 | jwu456789 | 2,520 |
-| 41 | Haolun Zhang | 2,510 |
-| 42 | Алексей Панарин | 2,480 |
+| 40 | Алексей Панарин | 2,520 |
+| 41 | jwu456789 | 2,520 |
+| 42 | Haolun Zhang | 2,510 |
 | 43 | Mythri Shivakumar | 2,420 |
 | 44 | 1773703527 | 2,412 |
 | 45 | Jiongran Wang | 2,410 |
@@ -72,24 +72,24 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 49 | Mako | 2,380 |
 | 50 | caesar | 2,380 |
 | 51 | Linxuan XIE | 2,375 |
-| 52 | xin yin | 2,358.283 |
-| 53 | Vick Mahase | 2,345 |
-| 54 | Shi-Wei Zhou | 2,325 |
-| 55 | yd.nan | 2,322.8 |
-| 56 | Xiao Lei Zhang | 2,295 |
-| 57 | Pavel | 2,295 |
-| 58 | automorphing | 2,295 |
-| 59 | katam madhumitha | 2,275 |
-| 60 | atoms-iambics.4i | 2,265 |
-| 61 | Márcio Pereira | 2,265 |
-| 62 | Stephen zhao | 2,255 |
-| 63 | soumit saha | 2,250 |
-| 64 | Sudheesh Singanamalla | 2,245 |
-| 65 | Nabeel Raza | 2,220 |
-| 66 | bebeshka | 2,190 |
-| 67 | Zeyuan Li | 2,150 |
-| 68 | ps | 2,125 |
-| 69 | Côme | 2,125 |
+| 52 | Vick Mahase | 2,345 |
+| 53 | Shi-Wei Zhou | 2,325 |
+| 54 | yd.nan | 2,322.8 |
+| 55 | Xiao Lei Zhang | 2,295 |
+| 56 | Pavel | 2,295 |
+| 57 | automorphing | 2,295 |
+| 58 | katam madhumitha | 2,275 |
+| 59 | atoms-iambics.4i | 2,265 |
+| 60 | Márcio Pereira | 2,265 |
+| 61 | Stephen zhao | 2,255 |
+| 62 | soumit saha | 2,250 |
+| 63 | Sudheesh Singanamalla | 2,245 |
+| 64 | Nabeel Raza | 2,220 |
+| 65 | bebeshka | 2,190 |
+| 66 | Zeyuan Li | 2,150 |
+| 67 | ps | 2,125 |
+| 68 | Côme | 2,125 |
+| 69 | xin yin | 2,122 |
 | 70 | romil797 | 2,120 |
 | 71 | callrmshetty | 2,102.5 |
 | 72 | Kapish Luhariwala | 2,090 |
