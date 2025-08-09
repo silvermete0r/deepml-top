@@ -26,7 +26,7 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 3 | Patteera Triamamornwooth | 4,615 |
 | 4 | ТЕМА 2003 | 4,120 |
 | 5 | DhanushKumar .R | 4,085 |
-| 6 | PythonPPP | 4,075 |
+| 6 | Python | 4,075 |
 | 7 | StoatScript | 3,960 |
 | 8 | Lado Turmanidze (Stochastic Batman) | 3,885 |
 | 9 | Alexander Krylov | 3,865 |
@@ -35,8 +35,8 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 12 | Siva Morgan | 3,635 |
 | 13 | Wulin | 3,610 |
 | 14 | Jiarui Cui | 3,575 |
-| 15 | Mahdi Farmahini Farahani | 3,545 |
-| 16 | shongpapa80 | 3,525 |
+| 15 | shongpapa80 | 3,550 |
+| 16 | Mahdi Farmahini Farahani | 3,545 |
 | 17 | trangstalbergle | 3,476 |
 | 18 | Junang Li | 3,440 |
 | 19 | Niels van Galen Last | 3,440 |
@@ -44,7 +44,7 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 21 | Anh Tú Ngô | 3,345 |
 | 22 | Breeze Chen | 3,280 |
 | 23 | Lea Wron | 3,245 |
-| 24 | hiddenneuron | 3,165 |
+| 24 | hiddenneuron | 3,225 |
 | 25 | ajay gangwar | 3,105 |
 | 26 | Salim Beyden | 3,038.5 |
 | 27 | Jiongran Wang | 2,975 |
@@ -79,10 +79,10 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 56 | Vick Mahase | 2,345 |
 | 57 | Shi-Wei Zhou | 2,325 |
 | 58 | Xiao Lei Zhang | 2,295 |
-| 59 | atoms-iambics.4i | 2,265 |
-| 60 | Márcio Pereira | 2,265 |
-| 61 | Stephen zhao | 2,255 |
-| 62 | soumit saha | 2,250 |
+| 59 | soumit saha | 2,275 |
+| 60 | atoms-iambics.4i | 2,265 |
+| 61 | Márcio Pereira | 2,265 |
+| 62 | Stephen zhao | 2,255 |
 | 63 | Sudheesh Singanamalla | 2,245 |
 | 64 | Nabeel Raza | 2,220 |
 | 65 | bebeshka | 2,190 |
@@ -93,34 +93,34 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 70 | romil797 | 2,120 |
 | 71 | callrmshetty | 2,102.5 |
 | 72 | Kapish Luhariwala | 2,090 |
-| 73 | hg1169 | 2,035 |
-| 74 | yang_mingxin | 2,020 |
-| 75 | s233036 | 2,015 |
-| 76 | Alper Karaca | 2,000 |
-| 77 | Aarohi Bhand | 1,995 |
-| 78 | Maksim Nikolin | 1,993 |
-| 79 | Aykut Çayır | 1,985 |
-| 80 | Shooshi | 1,980 |
-| 81 | Kartik Mathur | 1,970 |
-| 82 | 747893812 | 1,965 |
+| 73 | 747893812 | 2,065 |
+| 74 | hg1169 | 2,035 |
+| 75 | yang_mingxin | 2,020 |
+| 76 | s233036 | 2,015 |
+| 77 | Alper Karaca | 2,000 |
+| 78 | Aarohi Bhand | 1,995 |
+| 79 | Maksim Nikolin | 1,993 |
+| 80 | Aykut Çayır | 1,985 |
+| 81 | Shooshi | 1,980 |
+| 82 | Kartik Mathur | 1,970 |
 | 83 | Li Le | 1,945 |
 | 84 | Kacper Urban | 1,935 |
 | 85 | NIESCHAL GHOSH | 1,910 |
-| 86 | 0x researcher | 1,890 |
-| 87 | Anshuman Sahu | 1,865 |
-| 88 | Ma Al | 1,865 |
-| 89 | Chi Yang | 1,860.5 |
-| 90 | Shubh Goyal | 1,860 |
-| 91 | Egor Kashkarov | 1,835 |
-| 92 | Wenxuan Dai | 1,825 |
-| 93 | nick.volynets | 1,825 |
-| 94 | peter.metalfreak | 1,820 |
-| 95 | Qiujiang Jin | 1,810 |
-| 96 | Kyle Zhou | 1,805 |
-| 97 | 王思钰 | 1,791 |
-| 98 | cynthiaxue2018 | 1,790 |
-| 99 | Alex Mason | 1,775 |
-| 100 | SAHAYA ASHIK LIBU | 1,775 |
+| 86 | nick.volynets | 1,900 |
+| 87 | 0x researcher | 1,890 |
+| 88 | Anshuman Sahu | 1,865 |
+| 89 | Ma Al | 1,865 |
+| 90 | Chi Yang | 1,860.5 |
+| 91 | Shubh Goyal | 1,860 |
+| 92 | Egor Kashkarov | 1,835 |
+| 93 | SAHAYA ASHIK LIBU | 1,830 |
+| 94 | Wenxuan Dai | 1,825 |
+| 95 | peter.metalfreak | 1,820 |
+| 96 | Qiujiang Jin | 1,810 |
+| 97 | Kyle Zhou | 1,805 |
+| 98 | 王思钰 | 1,791 |
+| 99 | cynthiaxue2018 | 1,790 |
+| 100 | Arnas Gercas | 1,790 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
