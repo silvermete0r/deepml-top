@@ -22,38 +22,38 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | Rank | Username | Score |
 |------|---------|-------|
 | 1 | Marco Cheng | 5,315 |
-| 2 | mr. Arman (梦想) | 5,160 |
-| 3 | Patteera Triamamornwooth | 4,615 |
-| 4 | ТЕМА 2003 | 4,120 |
-| 5 | DhanushKumar .R | 4,085 |
+| 2 | mr. Arman (梦想) | 5,200 |
+| 3 | Patteera Triamamornwooth | 4,655 |
+| 4 | ТЕМА 2003 | 4,160 |
+| 5 | DhanushKumar .R | 4,095 |
 | 6 | Python | 4,075 |
 | 7 | StoatScript | 3,960 |
 | 8 | Lado Turmanidze (Stochastic Batman) | 3,885 |
 | 9 | Alexander Krylov | 3,865 |
 | 10 | 1nkik H | 3,725 |
-| 11 | N R | 3,635 |
-| 12 | Siva Morgan | 3,635 |
-| 13 | Wulin | 3,610 |
+| 11 | N R | 3,685 |
+| 12 | Wulin | 3,650 |
+| 13 | Siva Morgan | 3,635 |
 | 14 | Jiarui Cui | 3,575 |
 | 15 | shongpapa80 | 3,550 |
 | 16 | Mahdi Farmahini Farahani | 3,545 |
 | 17 | trangstalbergle | 3,476 |
 | 18 | Junang Li | 3,440 |
 | 19 | Niels van Galen Last | 3,440 |
-| 20 | ZhangJY | 3,350 |
-| 21 | Anh Tú Ngô | 3,345 |
-| 22 | Breeze Chen | 3,280 |
-| 23 | Lea Wron | 3,245 |
-| 24 | hiddenneuron | 3,225 |
+| 20 | hiddenneuron | 3,425 |
+| 21 | Anh Tú Ngô | 3,385 |
+| 22 | ZhangJY | 3,350 |
+| 23 | Breeze Chen | 3,280 |
+| 24 | Lea Wron | 3,245 |
 | 25 | ajay gangwar | 3,105 |
-| 26 | Salim Beyden | 3,038.5 |
-| 27 | Jiongran Wang | 2,975 |
+| 26 | Jiongran Wang | 3,070 |
+| 27 | Salim Beyden | 3,038.5 |
 | 28 | Emanuel-Florin Ciobotea | 2,955 |
 | 29 | Kuat Kurpenov | 2,845 |
 | 30 | SantaClaus | 2,825 |
-| 31 | antonoof | 2,780 |
-| 32 | Youshaa Murhij | 2,780 |
-| 33 | Алексей Панарин | 2,745 |
+| 31 | Алексей Панарин | 2,785 |
+| 32 | antonoof | 2,780 |
+| 33 | Youshaa Murhij | 2,780 |
 | 34 | BY | 2,695 |
 | 35 | GlaDiaTor | 2,610 |
 | 36 | Maksym Koval | 2,605.5 |
@@ -74,8 +74,8 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 51 | Tushar aggarwal | 2,385 |
 | 52 | Linxuan XIE | 2,385 |
 | 53 | Mako | 2,380 |
-| 54 | katam madhumitha | 2,370 |
-| 55 | yd.nan | 2,347.8 |
+| 54 | yd.nan | 2,372.8 |
+| 55 | katam madhumitha | 2,370 |
 | 56 | Vick Mahase | 2,345 |
 | 57 | Shi-Wei Zhou | 2,325 |
 | 58 | Xiao Lei Zhang | 2,295 |
@@ -100,27 +100,27 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 77 | Alper Karaca | 2,000 |
 | 78 | Aarohi Bhand | 1,995 |
 | 79 | Maksim Nikolin | 1,993 |
-| 80 | Aykut Çayır | 1,985 |
-| 81 | Shooshi | 1,980 |
-| 82 | Kartik Mathur | 1,970 |
-| 83 | Li Le | 1,945 |
-| 84 | Kacper Urban | 1,935 |
-| 85 | NIESCHAL GHOSH | 1,910 |
-| 86 | nick.volynets | 1,900 |
-| 87 | 0x researcher | 1,890 |
-| 88 | Anshuman Sahu | 1,865 |
+| 80 | Anshuman Sahu | 1,990 |
+| 81 | Aykut Çayır | 1,985 |
+| 82 | Shooshi | 1,980 |
+| 83 | Kartik Mathur | 1,970 |
+| 84 | Li Le | 1,945 |
+| 85 | Kacper Urban | 1,935 |
+| 86 | NIESCHAL GHOSH | 1,910 |
+| 87 | nick.volynets | 1,900 |
+| 88 | 0x researcher | 1,890 |
 | 89 | Ma Al | 1,865 |
 | 90 | Chi Yang | 1,860.5 |
 | 91 | Shubh Goyal | 1,860 |
 | 92 | Egor Kashkarov | 1,835 |
 | 93 | SAHAYA ASHIK LIBU | 1,830 |
-| 94 | Wenxuan Dai | 1,825 |
-| 95 | peter.metalfreak | 1,820 |
-| 96 | Qiujiang Jin | 1,810 |
-| 97 | Kyle Zhou | 1,805 |
-| 98 | 王思钰 | 1,791 |
-| 99 | cynthiaxue2018 | 1,790 |
-| 100 | Arnas Gercas | 1,790 |
+| 94 | Arnas Gercas | 1,830 |
+| 95 | Wenxuan Dai | 1,825 |
+| 96 | peter.metalfreak | 1,820 |
+| 97 | Qiujiang Jin | 1,810 |
+| 98 | Kyle Zhou | 1,805 |
+| 99 | 王思钰 | 1,791 |
+| 100 | cynthiaxue2018 | 1,790 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
