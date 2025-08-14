@@ -59,60 +59,60 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 36 | Maksym Koval | 2,605.5 |
 | 37 | Anirudh Senani | 2,570 |
 | 38 | Aman Rangapur | 2,555 |
-| 39 | PAT | 2,535 |
+| 39 | caesar | 2,555 |
 | 40 | mavleo96 | 2,535 |
 | 41 | anian.ruoss | 2,526.5 |
 | 42 | jwu456789 | 2,520 |
 | 43 | Haolun Zhang | 2,510 |
-| 44 | caesar | 2,505 |
-| 45 | automorphing | 2,455 |
-| 46 | Pavel | 2,420 |
-| 47 | Mythri Shivakumar | 2,420 |
-| 48 | 1773703527 | 2,412 |
-| 49 | Yuzhou Chen | 2,410 |
-| 50 | Linxuan XIE | 2,410 |
-| 51 | Дмитрий | 2,400 |
-| 52 | Tushar aggarwal | 2,385 |
-| 53 | Mako | 2,380 |
-| 54 | yd.nan | 2,372.8 |
-| 55 | katam madhumitha | 2,370 |
-| 56 | Vick Mahase | 2,345 |
-| 57 | Shi-Wei Zhou | 2,325 |
-| 58 | soumit saha | 2,300 |
-| 59 | Xiao Lei Zhang | 2,295 |
+| 44 | automorphing | 2,455 |
+| 45 | Pavel | 2,420 |
+| 46 | Mythri Shivakumar | 2,420 |
+| 47 | 1773703527 | 2,412 |
+| 48 | Yuzhou Chen | 2,410 |
+| 49 | Linxuan XIE | 2,410 |
+| 50 | Дмитрий | 2,400 |
+| 51 | Tushar aggarwal | 2,385 |
+| 52 | Mako | 2,380 |
+| 53 | yd.nan | 2,372.8 |
+| 54 | katam madhumitha | 2,370 |
+| 55 | Vick Mahase | 2,345 |
+| 56 | Shi-Wei Zhou | 2,325 |
+| 57 | soumit saha | 2,300 |
+| 58 | Xiao Lei Zhang | 2,295 |
+| 59 | 747893812 | 2,270 |
 | 60 | atoms-iambics.4i | 2,265 |
 | 61 | Márcio Pereira | 2,265 |
 | 62 | Stephen zhao | 2,255 |
 | 63 | Sudheesh Singanamalla | 2,245 |
-| 64 | 747893812 | 2,245 |
-| 65 | Nabeel Raza | 2,220 |
-| 66 | bebeshka | 2,190 |
-| 67 | Zeyuan Li | 2,150 |
-| 68 | xin yin | 2,147 |
-| 69 | ps | 2,125 |
-| 70 | Côme | 2,125 |
-| 71 | romil797 | 2,120 |
-| 72 | callrmshetty | 2,102.5 |
-| 73 | Kapish Luhariwala | 2,090 |
+| 64 | Nabeel Raza | 2,220 |
+| 65 | bebeshka | 2,190 |
+| 66 | Zeyuan Li | 2,150 |
+| 67 | xin yin | 2,147 |
+| 68 | ps | 2,125 |
+| 69 | Côme | 2,125 |
+| 70 | romil797 | 2,120 |
+| 71 | callrmshetty | 2,102.5 |
+| 72 | Kapish Luhariwala | 2,090 |
+| 73 | nick.volynets | 2,075 |
 | 74 | Maksim Nikolin | 2,073 |
 | 75 | hg1169 | 2,060 |
 | 76 | Anshuman Sahu | 2,040 |
-| 77 | nick.volynets | 2,025 |
-| 78 | yang_mingxin | 2,020 |
-| 79 | s233036 | 2,015 |
-| 80 | Alper Karaca | 2,000 |
-| 81 | Aarohi Bhand | 1,995 |
-| 82 | Arnas Gercas | 1,990 |
-| 83 | Aykut Çayır | 1,985 |
-| 84 | Shooshi | 1,980 |
-| 85 | Kartik Mathur | 1,970 |
-| 86 | SAHAYA ASHIK LIBU | 1,950 |
-| 87 | Li Le | 1,945 |
-| 88 | Kacper Urban | 1,935 |
+| 77 | yang_mingxin | 2,020 |
+| 78 | s233036 | 2,015 |
+| 79 | Alper Karaca | 2,000 |
+| 80 | Aarohi Bhand | 1,995 |
+| 81 | Arnas Gercas | 1,990 |
+| 82 | Aykut Çayır | 1,985 |
+| 83 | Shooshi | 1,980 |
+| 84 | Kartik Mathur | 1,970 |
+| 85 | SAHAYA ASHIK LIBU | 1,950 |
+| 86 | Li Le | 1,945 |
+| 87 | Kacper Urban | 1,935 |
+| 88 | Chi Yang | 1,910.5 |
 | 89 | NIESCHAL GHOSH | 1,910 |
 | 90 | 0x researcher | 1,890 |
 | 91 | Ma Al | 1,865 |
-| 92 | Chi Yang | 1,860.5 |
+| 92 | 295442376 | 1,860 |
 | 93 | Shubh Goyal | 1,860 |
 | 94 | Egor Kashkarov | 1,835 |
 | 95 | Wenxuan Dai | 1,825 |
