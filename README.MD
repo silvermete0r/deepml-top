@@ -23,31 +23,31 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 |------|---------|-------|
 | 1 | Marco Cheng | 5,315 |
 | 2 | mr. Arman (梦想) | 5,240 |
-| 3 | Patteera Triamamornwooth | 4,895 |
-| 4 | ТЕМА 2003 | 4,470 |
-| 5 | DhanushKumar .R | 4,420 |
-| 6 | PythonPPP | 4,385 |
+| 3 | Patteera Triamamornwooth | 4,935 |
+| 4 | ТЕМА 2003 | 4,510 |
+| 5 | DhanushKumar .R | 4,485 |
+| 6 | PythonPPP | 4,425 |
 | 7 | Alexander Krylov | 4,175 |
-| 8 | Wulin | 3,960 |
+| 8 | Wulin | 4,000 |
 | 9 | StoatScript | 3,960 |
 | 10 | Lado Turmanidze (Stochastic Batman) | 3,885 |
 | 11 | N R | 3,735 |
-| 12 | 1nkik H | 3,725 |
-| 13 | Jiongran Wang | 3,705 |
+| 12 | Jiongran Wang | 3,730 |
+| 13 | 1nkik H | 3,725 |
 | 14 | hiddenneuron | 3,685 |
 | 15 | Siva Morgan | 3,670 |
 | 16 | Jiarui Cui | 3,575 |
 | 17 | shongpapa80 | 3,550 |
 | 18 | Mahdi Farmahini Farahani | 3,545 |
-| 19 | Anh Tú Ngô | 3,480 |
+| 19 | Anh Tú Ngô | 3,520 |
 | 20 | trangstalbergle | 3,476 |
 | 21 | Junang Li | 3,440 |
 | 22 | Niels van Galen Last | 3,440 |
-| 23 | ZhangJY | 3,350 |
-| 24 | ajay gangwar | 3,310 |
+| 23 | ajay gangwar | 3,350 |
+| 24 | ZhangJY | 3,350 |
 | 25 | Breeze Chen | 3,280 |
-| 26 | Lea Wron | 3,245 |
-| 27 | Алексей Панарин | 3,230 |
+| 26 | Алексей Панарин | 3,270 |
+| 27 | Lea Wron | 3,245 |
 | 28 | Salim Beyden | 3,038.5 |
 | 29 | Emanuel-Florin Ciobotea | 2,955 |
 | 30 | Kuat Kurpenov | 2,845 |
@@ -59,65 +59,65 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 36 | BY | 2,695 |
 | 37 | Maksym Koval | 2,605.5 |
 | 38 | ekho | 2,590 |
-| 39 | Anirudh Senani | 2,570 |
-| 40 | mavleo96 | 2,560 |
-| 41 | Aman Rangapur | 2,555 |
-| 42 | anian.ruoss | 2,526.5 |
-| 43 | jwu456789 | 2,520 |
-| 44 | Haolun Zhang | 2,510 |
-| 45 | Pavel | 2,500 |
-| 46 | Linxuan XIE | 2,435 |
-| 47 | Mythri Shivakumar | 2,420 |
-| 48 | 1773703527 | 2,412 |
-| 49 | Yuzhou Chen | 2,410 |
-| 50 | Дмитрий | 2,400 |
-| 51 | Tushar aggarwal | 2,385 |
-| 52 | Mako | 2,380 |
-| 53 | yd.nan | 2,372.8 |
-| 54 | katam madhumitha | 2,370 |
-| 55 | Vick Mahase | 2,345 |
-| 56 | Shi-Wei Zhou | 2,325 |
+| 39 | mavleo96 | 2,560 |
+| 40 | Aman Rangapur | 2,555 |
+| 41 | anian.ruoss | 2,526.5 |
+| 42 | jwu456789 | 2,520 |
+| 43 | Haolun Zhang | 2,510 |
+| 44 | Pavel | 2,500 |
+| 45 | Linxuan XIE | 2,435 |
+| 46 | Mythri Shivakumar | 2,420 |
+| 47 | 1773703527 | 2,412 |
+| 48 | Yuzhou Chen | 2,410 |
+| 49 | Дмитрий | 2,400 |
+| 50 | Tushar aggarwal | 2,385 |
+| 51 | Mako | 2,380 |
+| 52 | yd.nan | 2,372.8 |
+| 53 | katam madhumitha | 2,370 |
+| 54 | Vick Mahase | 2,345 |
+| 55 | Shi-Wei Zhou | 2,325 |
+| 56 | Arnas Gercas | 2,315 |
 | 57 | 747893812 | 2,305 |
 | 58 | soumit saha | 2,300 |
-| 59 | Arnas Gercas | 2,275 |
-| 60 | atoms-iambics.4i | 2,265 |
-| 61 | Márcio Pereira | 2,265 |
-| 62 | Stephen zhao | 2,255 |
-| 63 | Sudheesh Singanamalla | 2,245 |
-| 64 | SAHAYA ASHIK LIBU | 2,235 |
-| 65 | Nabeel Raza | 2,220 |
-| 66 | bebeshka | 2,190 |
-| 67 | Zeyuan Li | 2,150 |
-| 68 | xin yin | 2,147 |
-| 69 | nick.volynets | 2,125 |
-| 70 | ps | 2,125 |
-| 71 | Côme | 2,125 |
-| 72 | romil797 | 2,120 |
+| 59 | atoms-iambics.4i | 2,265 |
+| 60 | Márcio Pereira | 2,265 |
+| 61 | Stephen zhao | 2,255 |
+| 62 | Sudheesh Singanamalla | 2,245 |
+| 63 | SAHAYA ASHIK LIBU | 2,235 |
+| 64 | Nabeel Raza | 2,220 |
+| 65 | bebeshka | 2,190 |
+| 66 | Zeyuan Li | 2,150 |
+| 67 | xin yin | 2,147 |
+| 68 | nick.volynets | 2,125 |
+| 69 | ps | 2,125 |
+| 70 | Côme | 2,125 |
+| 71 | romil797 | 2,120 |
+| 72 | 张子轩 | 2,115 |
 | 73 | callrmshetty | 2,102.5 |
 | 74 | Xiao Lei Zhang | 2,090.5 |
 | 75 | Kapish Luhariwala | 2,090 |
 | 76 | Maksim Nikolin | 2,073 |
-| 77 | 张子轩 | 2,065 |
+| 77 | if z | 2,065 |
 | 78 | hg1169 | 2,060 |
 | 79 | Anshuman Sahu | 2,040 |
 | 80 | yang_mingxin | 2,020 |
 | 81 | s233036 | 2,015 |
 | 82 | Alper Karaca | 2,000 |
-| 83 | if z | 1,995 |
-| 84 | Aarohi Bhand | 1,995 |
-| 85 | Aykut Çayır | 1,985 |
-| 86 | Shooshi | 1,980 |
-| 87 | Kartik Mathur | 1,970 |
-| 88 | Li Le | 1,945 |
-| 89 | Kacper Urban | 1,935 |
-| 90 | Chi Yang | 1,910.5 |
-| 91 | NIESCHAL GHOSH | 1,910 |
-| 92 | 0x researcher | 1,890 |
-| 93 | 295442376 | 1,885 |
+| 83 | Aarohi Bhand | 1,995 |
+| 84 | Aykut Çayır | 1,985 |
+| 85 | Shooshi | 1,980 |
+| 86 | Kartik Mathur | 1,970 |
+| 87 | Li Le | 1,945 |
+| 88 | Kacper Urban | 1,935 |
+| 89 | Chi Yang | 1,910.5 |
+| 90 | NIESCHAL GHOSH | 1,910 |
+| 91 | 0x researcher | 1,890 |
+| 92 | 295442376 | 1,885 |
+| 93 | Moustafa Meshry | 1,880 |
 | 94 | Ma Al | 1,865 |
 | 95 | Shubh Goyal | 1,860 |
 | 96 | Egor Kashkarov | 1,835 |
-| 97 | Moustafa Meshry | 1,830 |
+| 97 | Naman Raiyani | 1,835 |
 | 98 | Wenxuan Dai | 1,825 |
 | 99 | Bahadır AKDEMİR | 1,810 |
 | 100 | Qiujiang Jin | 1,810 |
