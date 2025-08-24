@@ -41,9 +41,9 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 18 | shongpapa80 | 3,550 |
 | 19 | Mahdi Farmahini Farahani | 3,545 |
 | 20 | trangstalbergle | 3,476 |
-| 21 | Junang Li | 3,440 |
-| 22 | Niels van Galen Last | 3,440 |
-| 23 | ajay gangwar | 3,390 |
+| 21 | ajay gangwar | 3,470 |
+| 22 | Junang Li | 3,440 |
+| 23 | Niels van Galen Last | 3,440 |
 | 24 | ZhangJY | 3,350 |
 | 25 | Алексей Панарин | 3,335 |
 | 26 | Breeze Chen | 3,280 |
@@ -63,10 +63,10 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 40 | Aman Rangapur | 2,555 |
 | 41 | anian.ruoss | 2,526.5 |
 | 42 | jwu456789 | 2,520 |
-| 43 | Haolun Zhang | 2,510 |
-| 44 | Pavel | 2,500 |
-| 45 | 张子轩 | 2,440 |
-| 46 | Linxuan XIE | 2,435 |
+| 43 | 张子轩 | 2,515 |
+| 44 | Haolun Zhang | 2,510 |
+| 45 | Pavel | 2,500 |
+| 46 | Linxuan XIE | 2,445 |
 | 47 | Mythri Shivakumar | 2,420 |
 | 48 | 1773703527 | 2,412 |
 | 49 | Yuzhou Chen | 2,410 |
@@ -92,10 +92,10 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 69 | ps | 2,125 |
 | 70 | Côme | 2,125 |
 | 71 | romil797 | 2,120 |
-| 72 | Maksim Nikolin | 2,113 |
-| 73 | callrmshetty | 2,102.5 |
-| 74 | Anshuman Sahu | 2,100 |
-| 75 | Xiao Lei Zhang | 2,090.5 |
+| 72 | Xiao Lei Zhang | 2,115.5 |
+| 73 | Maksim Nikolin | 2,113 |
+| 74 | callrmshetty | 2,102.5 |
+| 75 | Anshuman Sahu | 2,100 |
 | 76 | Kapish Luhariwala | 2,090 |
 | 77 | if z | 2,065 |
 | 78 | hg1169 | 2,060 |
@@ -109,11 +109,11 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 86 | Li Le | 1,945 |
 | 87 | Kacper Urban | 1,935 |
 | 88 | Moustafa Meshry | 1,925 |
-| 89 | Chi Yang | 1,910.5 |
-| 90 | NIESCHAL GHOSH | 1,910 |
-| 91 | 0x researcher | 1,890 |
-| 92 | 295442376 | 1,885 |
-| 93 | Naman Raiyani | 1,875 |
+| 89 | Naman Raiyani | 1,915 |
+| 90 | Chi Yang | 1,910.5 |
+| 91 | NIESCHAL GHOSH | 1,910 |
+| 92 | 0x researcher | 1,890 |
+| 93 | 295442376 | 1,885 |
 | 94 | Ma Al | 1,865 |
 | 95 | Shubh Goyal | 1,860 |
 | 96 | Egor Kashkarov | 1,835 |
