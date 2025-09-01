@@ -21,14 +21,14 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 <!-- LEADERBOARD_START -->
 | Rank | Username | Score |
 |------|---------|-------|
-| 1 | Marco Cheng | 5,395 |
-| 2 | mr. Arman (梦想) | 5,380 |
-| 3 | Patteera Triamamornwooth | 5,015 |
-| 4 | antonoof | 4,590 |
+| 1 | mr. Arman (梦想) | 5,435 |
+| 2 | Marco Cheng | 5,395 |
+| 3 | Patteera Triamamornwooth | 5,070 |
+| 4 | antonoof | 4,645 |
 | 5 | DhanushKumar .R | 4,525 |
 | 6 | PythonPPP | 4,505 |
 | 7 | Alexander Krylov | 4,255 |
-| 8 | Wulin | 4,080 |
+| 8 | Wulin | 4,135 |
 | 9 | StoatScript | 3,960 |
 | 10 | Lado Turmanidze (Stochastic Batman) | 3,885 |
 | 11 | N R | 3,760 |
@@ -63,11 +63,11 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 40 | mavleo96 | 2,610 |
 | 41 | Pavel | 2,610 |
 | 42 | Maksym Koval | 2,605.5 |
-| 43 | Aman Rangapur | 2,555 |
-| 44 | anian.ruoss | 2,526.5 |
-| 45 | jwu456789 | 2,520 |
-| 46 | Haolun Zhang | 2,510 |
-| 47 | Arnas Gercas | 2,490 |
+| 43 | Arnas Gercas | 2,585 |
+| 44 | Aman Rangapur | 2,555 |
+| 45 | anian.ruoss | 2,526.5 |
+| 46 | jwu456789 | 2,520 |
+| 47 | Haolun Zhang | 2,510 |
 | 48 | katam madhumitha | 2,450 |
 | 49 | Linxuan XIE | 2,445 |
 | 50 | yd.nan | 2,422.8 |
@@ -96,20 +96,20 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 73 | callrmshetty | 2,102.5 |
 | 74 | Anshuman Sahu | 2,100 |
 | 75 | Kapish Luhariwala | 2,090 |
-| 76 | Naman Raiyani | 2,060 |
-| 77 | hg1169 | 2,060 |
-| 78 | yang_mingxin | 2,020 |
-| 79 | s233036 | 2,015 |
-| 80 | Alper Karaca | 2,000 |
-| 81 | Allen Liu | 2,000 |
-| 82 | Aarohi Bhand | 1,995 |
-| 83 | David James | 1,995 |
-| 84 | Kacper Urban | 1,985 |
-| 85 | Aykut Çayır | 1,985 |
-| 86 | Shooshi | 1,980 |
-| 87 | Marian Cretu | 1,980 |
-| 88 | Kartik Mathur | 1,970 |
-| 89 | tanghaibao | 1,955 |
+| 76 | Allen Liu | 2,075 |
+| 77 | Naman Raiyani | 2,060 |
+| 78 | hg1169 | 2,060 |
+| 79 | yang_mingxin | 2,020 |
+| 80 | s233036 | 2,015 |
+| 81 | tanghaibao | 2,005 |
+| 82 | Alper Karaca | 2,000 |
+| 83 | Aarohi Bhand | 1,995 |
+| 84 | David James | 1,995 |
+| 85 | Kacper Urban | 1,985 |
+| 86 | Aykut Çayır | 1,985 |
+| 87 | Shooshi | 1,980 |
+| 88 | Marian Cretu | 1,980 |
+| 89 | Kartik Mathur | 1,970 |
 | 90 | Li Le | 1,945 |
 | 91 | Moustafa Meshry | 1,925 |
 | 92 | Chi Yang | 1,910.5 |
@@ -117,17 +117,17 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 94 | 0x researcher | 1,890 |
 | 95 | 295442376 | 1,885 |
 | 96 | xin yin | 1,874 |
-| 97 | Ma Al | 1,865 |
-| 98 | Shubh Goyal | 1,860 |
-| 99 | AKASH SAMANTA | 1,840 |
+| 97 | AKASH SAMANTA | 1,865 |
+| 98 | Ma Al | 1,865 |
+| 99 | Shubh Goyal | 1,860 |
 | 100 | pyry.ruotsalainen | 1,839 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
 
 <!-- BADGES_START -->
-![DeepML Marco Cheng](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Fmain%2Fbadges.json&query=%24.4091c1a21900bd2c7d3f4e343acddda1.label&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)
 ![DeepML mr. Arman (梦想)](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Fmain%2Fbadges.json&query=%24.1247b1b5b9cd95e98d7ff7438207406f.label&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)
+![DeepML Marco Cheng](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Fmain%2Fbadges.json&query=%24.4091c1a21900bd2c7d3f4e343acddda1.label&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)
 ![DeepML Patteera Triamamornwooth](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Fmain%2Fbadges.json&query=%24.0eeb1bc570f4ebaca4c3c1d5794e9de9.label&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)
 <!-- BADGES_END -->
 
