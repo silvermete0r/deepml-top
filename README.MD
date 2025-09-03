@@ -21,14 +21,14 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 <!-- LEADERBOARD_START -->
 | Rank | Username | Score |
 |------|---------|-------|
-| 1 | mr. Arman (梦想) | 5,435 |
+| 1 | mr. Arman (梦想) | 5,460 |
 | 2 | Marco Cheng | 5,395 |
-| 3 | Patteera Triamamornwooth | 5,070 |
-| 4 | antonoof | 4,645 |
-| 5 | DhanushKumar .R | 4,525 |
-| 6 | PythonPPP | 4,505 |
-| 7 | Alexander Krylov | 4,255 |
-| 8 | Wulin | 4,135 |
+| 3 | Patteera Triamamornwooth | 5,125 |
+| 4 | antonoof | 4,700 |
+| 5 | PythonPPP | 4,560 |
+| 6 | DhanushKumar .R | 4,525 |
+| 7 | Alexander Krylov | 4,310 |
+| 8 | Wulin | 4,190 |
 | 9 | StoatScript | 3,960 |
 | 10 | Lado Turmanidze (Stochastic Batman) | 3,885 |
 | 11 | N R | 3,760 |
@@ -40,10 +40,10 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 17 | ajay gangwar | 3,550 |
 | 18 | shongpapa80 | 3,550 |
 | 19 | Mahdi Farmahini Farahani | 3,545 |
-| 20 | trangstalbergle | 3,476 |
-| 21 | Junang Li | 3,440 |
-| 22 | Niels van Galen Last | 3,440 |
-| 23 | Алексей Панарин | 3,430 |
+| 20 | Алексей Панарин | 3,485 |
+| 21 | trangstalbergle | 3,476 |
+| 22 | Junang Li | 3,440 |
+| 23 | Niels van Galen Last | 3,440 |
 | 24 | ZhangJY | 3,350 |
 | 25 | Breeze Chen | 3,280 |
 | 26 | Lea Wron | 3,245 |
@@ -56,13 +56,13 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 33 | SantaClaus | 2,825 |
 | 34 | antonoof | 2,780 |
 | 35 | Youshaa Murhij | 2,780 |
-| 36 | 1nkik H | 2,715.525 |
-| 37 | automorphing | 2,715 |
-| 38 | BY | 2,695 |
-| 39 | 747893812 | 2,690 |
-| 40 | mavleo96 | 2,635 |
-| 41 | Arnas Gercas | 2,625 |
-| 42 | Pavel | 2,610 |
+| 36 | 747893812 | 2,740 |
+| 37 | automorphing | 2,740 |
+| 38 | 1nkik H | 2,715.525 |
+| 39 | BY | 2,695 |
+| 40 | Arnas Gercas | 2,680 |
+| 41 | mavleo96 | 2,670 |
+| 42 | Pavel | 2,660 |
 | 43 | Maksym Koval | 2,605.5 |
 | 44 | Aman Rangapur | 2,555 |
 | 45 | anian.ruoss | 2,526.5 |
@@ -81,38 +81,38 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 58 | Shi-Wei Zhou | 2,325 |
 | 59 | if z | 2,305 |
 | 60 | soumit saha | 2,300 |
-| 61 | atoms-iambics.4i | 2,265 |
-| 62 | Márcio Pereira | 2,265 |
-| 63 | Stephen zhao | 2,255 |
-| 64 | Sudheesh Singanamalla | 2,245 |
-| 65 | Maksim Nikolin | 2,243 |
+| 61 | Maksim Nikolin | 2,298 |
+| 62 | atoms-iambics.4i | 2,265 |
+| 63 | Márcio Pereira | 2,265 |
+| 64 | Stephen zhao | 2,255 |
+| 65 | Sudheesh Singanamalla | 2,245 |
 | 66 | SAHAYA ASHIK LIBU | 2,235 |
 | 67 | Nabeel Raza | 2,220 |
-| 68 | bebeshka | 2,190 |
-| 69 | Zeyuan Li | 2,150 |
-| 70 | David James | 2,145 |
-| 71 | Xiao Lei Zhang | 2,140.5 |
-| 72 | Naman Raiyani | 2,135 |
-| 73 | ps | 2,125 |
-| 74 | romil797 | 2,120 |
-| 75 | callrmshetty | 2,102.5 |
-| 76 | Anshuman Sahu | 2,100 |
-| 77 | Kapish Luhariwala | 2,090 |
-| 78 | Allen Liu | 2,075 |
+| 68 | Naman Raiyani | 2,200 |
+| 69 | bebeshka | 2,190 |
+| 70 | Zeyuan Li | 2,150 |
+| 71 | David James | 2,145 |
+| 72 | Xiao Lei Zhang | 2,140.5 |
+| 73 | Anshuman Sahu | 2,135 |
+| 74 | ps | 2,125 |
+| 75 | Allen Liu | 2,125 |
+| 76 | romil797 | 2,120 |
+| 77 | callrmshetty | 2,102.5 |
+| 78 | Kapish Luhariwala | 2,090 |
 | 79 | hg1169 | 2,060 |
 | 80 | tanghaibao | 2,050 |
-| 81 | yang_mingxin | 2,020 |
-| 82 | s233036 | 2,015 |
-| 83 | Alper Karaca | 2,000 |
-| 84 | Aarohi Bhand | 1,995 |
-| 85 | Kacper Urban | 1,985 |
-| 86 | Aykut Çayır | 1,985 |
-| 87 | Shooshi | 1,980 |
-| 88 | Marian Cretu | 1,980 |
-| 89 | Kartik Mathur | 1,970 |
-| 90 | Li Le | 1,945 |
-| 91 | Moustafa Meshry | 1,925 |
-| 92 | AKASH SAMANTA | 1,915 |
+| 81 | AKASH SAMANTA | 2,030 |
+| 82 | yang_mingxin | 2,020 |
+| 83 | s233036 | 2,015 |
+| 84 | Alper Karaca | 2,000 |
+| 85 | Aarohi Bhand | 1,995 |
+| 86 | Kacper Urban | 1,985 |
+| 87 | Aykut Çayır | 1,985 |
+| 88 | Shooshi | 1,980 |
+| 89 | Marian Cretu | 1,980 |
+| 90 | Kartik Mathur | 1,970 |
+| 91 | Li Le | 1,945 |
+| 92 | Moustafa Meshry | 1,925 |
 | 93 | Chi Yang | 1,910.5 |
 | 94 | NIESCHAL GHOSH | 1,910 |
 | 95 | 0x researcher | 1,890 |
