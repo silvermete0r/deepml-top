@@ -23,73 +23,73 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 |------|---------|-------|
 | 1 | mr. Arman (梦想) | 5,555 |
 | 2 | Marco Cheng | 5,435 |
-| 3 | Patt | 5,260 |
-| 4 | antonoof | 4,835 |
-| 5 | PythonPPP | 4,695 |
+| 3 | Patt | 5,300 |
+| 4 | antonoof | 4,875 |
+| 5 | PythonPPP | 4,735 |
 | 6 | DhanushKumar .R | 4,580 |
-| 7 | Alexander Krylov | 4,445 |
-| 8 | Wulin | 4,310 |
-| 9 | StoatScript | 4,055 |
-| 10 | Lado Turmanidze (Stochastic Batman) | 3,885 |
-| 11 | N R | 3,870 |
-| 12 | Anh Tú Ngô | 3,815 |
+| 7 | Alexander Krylov | 4,485 |
+| 8 | Wulin | 4,350 |
+| 9 | StoatScript | 4,140 |
+| 10 | N R | 3,905 |
+| 11 | Lado Turmanidze (Stochastic Batman) | 3,885 |
+| 12 | Anh Tú Ngô | 3,855 |
 | 13 | Jiongran Wang | 3,755 |
-| 14 | hiddenneuron | 3,685 |
-| 15 | Алексей Панарин | 3,675 |
+| 14 | Алексей Панарин | 3,715 |
+| 15 | hiddenneuron | 3,685 |
 | 16 | Siva Morgan | 3,670 |
-| 17 | ajay gangwar | 3,615 |
+| 17 | ajay gangwar | 3,655 |
 | 18 | Jiarui Cui | 3,575 |
 | 19 | shongpapa80 | 3,550 |
 | 20 | Mahdi Farmahini Farahani | 3,545 |
 | 21 | trangstalbergle | 3,516 |
-| 22 | Junang Li | 3,440 |
-| 23 | Niels van Galen Last | 3,440 |
-| 24 | agercas | 3,435 |
+| 22 | agercas | 3,470 |
+| 23 | Junang Li | 3,440 |
+| 24 | Niels van Galen Last | 3,440 |
 | 25 | ZhangJY | 3,350 |
 | 26 | Breeze Chen | 3,280 |
 | 27 | Lea Wron | 3,245 |
 | 28 | Salim Beyden | 3,038.5 |
 | 29 | 张子轩 | 2,975 |
 | 30 | Emanuel-Florin Ciobotea | 2,955 |
-| 31 | GlaDiaTor | 2,920 |
-| 32 | caesar | 2,875 |
+| 31 | caesar | 2,930 |
+| 32 | GlaDiaTor | 2,920 |
 | 33 | Kuat Kurpenov | 2,845 |
 | 34 | SantaClaus | 2,825 |
-| 35 | 747893812 | 2,785 |
-| 36 | antonoof | 2,780 |
-| 37 | mavleo96 | 2,780 |
-| 38 | Youshaa Murhij | 2,780 |
-| 39 | automorphing | 2,765 |
-| 40 | 1nkik H | 2,755.525 |
-| 41 | BY | 2,695 |
-| 42 | Pavel | 2,685 |
+| 35 | Pavel | 2,790 |
+| 36 | 747893812 | 2,785 |
+| 37 | antonoof | 2,780 |
+| 38 | mavleo96 | 2,780 |
+| 39 | Youshaa Murhij | 2,780 |
+| 40 | automorphing | 2,765 |
+| 41 | 1nkik H | 2,755.525 |
+| 42 | BY | 2,695 |
 | 43 | Maksym Koval | 2,605.5 |
-| 44 | Aman Rangapur | 2,555 |
-| 45 | katam madhumitha | 2,530 |
+| 44 | katam madhumitha | 2,570 |
+| 45 | Aman Rangapur | 2,555 |
 | 46 | anian.ruoss | 2,526.5 |
 | 47 | jwu456789 | 2,520 |
 | 48 | Haolun Zhang | 2,510 |
 | 49 | yd.nan | 2,507.8 |
 | 50 | nick.volynets | 2,485 |
-| 51 | Kevin Wang | 2,450 |
-| 52 | Linxuan XIE | 2,445 |
-| 53 | Mythri Shivakumar | 2,420 |
-| 54 | 1773703527 | 2,412 |
-| 55 | Maksim Nikolin | 2,403 |
-| 56 | Naman Raiyani | 2,400 |
-| 57 | Дмитрий | 2,400 |
-| 58 | Tushar aggarwal | 2,385 |
-| 59 | Mako | 2,380 |
-| 60 | Vick Mahase | 2,345 |
-| 61 | Shi-Wei Zhou | 2,325 |
-| 62 | Chen Fu | 2,315 |
-| 63 | Allen Liu | 2,310 |
-| 64 | if z | 2,305 |
-| 65 | soumit saha | 2,300 |
-| 66 | yezi | 2,265 |
-| 67 | atoms-iambics.4i | 2,265 |
-| 68 | Márcio Pereira | 2,265 |
-| 69 | AKASH SAMANTA | 2,260 |
+| 51 | Maksim Nikolin | 2,463 |
+| 52 | Kevin Wang | 2,450 |
+| 53 | Linxuan XIE | 2,445 |
+| 54 | Naman Raiyani | 2,440 |
+| 55 | Mythri Shivakumar | 2,420 |
+| 56 | yezi | 2,415 |
+| 57 | 1773703527 | 2,412 |
+| 58 | Дмитрий | 2,400 |
+| 59 | Chen Fu | 2,400 |
+| 60 | Tushar aggarwal | 2,385 |
+| 61 | Mako | 2,380 |
+| 62 | Vick Mahase | 2,345 |
+| 63 | Shi-Wei Zhou | 2,325 |
+| 64 | Allen Liu | 2,310 |
+| 65 | if z | 2,305 |
+| 66 | soumit saha | 2,300 |
+| 67 | AKASH SAMANTA | 2,270 |
+| 68 | atoms-iambics.4i | 2,265 |
+| 69 | Márcio Pereira | 2,265 |
 | 70 | Stephen zhao | 2,255 |
 | 71 | Sudheesh Singanamalla | 2,245 |
 | 72 | SAHAYA ASHIK LIBU | 2,235 |
