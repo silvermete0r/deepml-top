@@ -26,54 +26,54 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 3 | Patt | 5,300 |
 | 4 | antonoof | 4,875 |
 | 5 | PythonPPP | 4,735 |
-| 6 | DhanushKumar .R | 4,635 |
-| 7 | Alexander Krylov | 4,485 |
-| 8 | Wulin | 4,350 |
-| 9 | StoatScript | 4,285 |
+| 6 | StoatScript | 4,685 |
+| 7 | DhanushKumar .R | 4,660 |
+| 8 | Alexander Krylov | 4,485 |
+| 9 | Wulin | 4,350 |
 | 10 | N R | 3,905 |
 | 11 | Lado Turmanidze (Stochastic Batman) | 3,885 |
 | 12 | Anh Tú Ngô | 3,855 |
-| 13 | Алексей Панарин | 3,770 |
+| 13 | Алексей Панарин | 3,810 |
 | 14 | Jiongran Wang | 3,755 |
 | 15 | ajay gangwar | 3,710 |
 | 16 | hiddenneuron | 3,685 |
 | 17 | Siva Morgan | 3,670 |
 | 18 | Jiarui Cui | 3,575 |
-| 19 | shongpapa80 | 3,550 |
-| 20 | Mahdi Farmahini Farahani | 3,545 |
-| 21 | agercas | 3,525 |
+| 19 | agercas | 3,565 |
+| 20 | shongpapa80 | 3,550 |
+| 21 | Mahdi Farmahini Farahani | 3,545 |
 | 22 | trangstalbergle | 3,516 |
 | 23 | Junang Li | 3,440 |
 | 24 | Niels van Galen Last | 3,440 |
 | 25 | ZhangJY | 3,350 |
 | 26 | Breeze Chen | 3,280 |
 | 27 | Lea Wron | 3,245 |
-| 28 | Salim Beyden | 3,038.5 |
-| 29 | GlaDiaTor | 3,030 |
-| 30 | 张子轩 | 2,985 |
-| 31 | caesar | 2,985 |
-| 32 | Emanuel-Florin Ciobotea | 2,955 |
-| 33 | Max | 2,945 |
+| 28 | Max | 3,235 |
+| 29 | Salim Beyden | 3,038.5 |
+| 30 | GlaDiaTor | 3,030 |
+| 31 | 张子轩 | 2,985 |
+| 32 | caesar | 2,985 |
+| 33 | Emanuel-Florin Ciobotea | 2,955 |
 | 34 | Pavel | 2,890 |
 | 35 | Kuat Kurpenov | 2,845 |
-| 36 | SantaClaus | 2,825 |
-| 37 | automorphing | 2,820 |
-| 38 | 747893812 | 2,785 |
-| 39 | antonoof | 2,780 |
-| 40 | mavleo96 | 2,780 |
+| 36 | mavleo96 | 2,830 |
+| 37 | SantaClaus | 2,825 |
+| 38 | automorphing | 2,820 |
+| 39 | 747893812 | 2,785 |
+| 40 | antonoof | 2,780 |
 | 41 | Youshaa Murhij | 2,780 |
 | 42 | 1nkik H | 2,755.525 |
 | 43 | BY | 2,695 |
 | 44 | Maksym Koval | 2,605.5 |
-| 45 | katam madhumitha | 2,570 |
-| 46 | Aman Rangapur | 2,555 |
-| 47 | Naman Raiyani | 2,550 |
+| 45 | Naman Raiyani | 2,590 |
+| 46 | katam madhumitha | 2,580 |
+| 47 | Aman Rangapur | 2,555 |
 | 48 | anian.ruoss | 2,526.5 |
 | 49 | jwu456789 | 2,520 |
 | 50 | Maksim Nikolin | 2,518 |
 | 51 | Haolun Zhang | 2,510 |
 | 52 | yd.nan | 2,507.8 |
-| 53 | nick.volynets | 2,485 |
+| 53 | nick.volynets | 2,495 |
 | 54 | Kevin Wang | 2,450 |
 | 55 | Linxuan XIE | 2,445 |
 | 56 | Mythri Shivakumar | 2,420 |
@@ -96,31 +96,31 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 73 | Xiao Lei Zhang | 2,225.5 |
 | 74 | Nabeel Raza | 2,220 |
 | 75 | tanghaibao | 2,205 |
-| 76 | Zeyuan Li | 2,150 |
-| 77 | David James | 2,145 |
-| 78 | Anshuman Sahu | 2,135 |
-| 79 | ps | 2,125 |
-| 80 | KG | 2,120 |
-| 81 | romil797 | 2,120 |
-| 82 | callrmshetty | 2,102.5 |
-| 83 | Kapish Luhariwala | 2,090 |
-| 84 | hg1169 | 2,070 |
-| 85 | maxzhengqu | 2,040 |
-| 86 | yang_mingxin | 2,020 |
-| 87 | s233036 | 2,015 |
-| 88 | NGUYEN PHUNG BAO HUY | 2,010 |
-| 89 | Alper Karaca | 2,000 |
-| 90 | Aarohi Bhand | 1,995 |
-| 91 | Kacper Urban | 1,985 |
-| 92 | Aykut Çayır | 1,985 |
-| 93 | Shooshi | 1,980 |
-| 94 | Marian Cretu | 1,980 |
-| 95 | Kartik Mathur | 1,970 |
-| 96 | pyry.ruotsalainen | 1,959 |
+| 76 | KG | 2,185 |
+| 77 | Alper Karaca | 2,165 |
+| 78 | Zeyuan Li | 2,150 |
+| 79 | David James | 2,145 |
+| 80 | Anshuman Sahu | 2,135 |
+| 81 | ps | 2,125 |
+| 82 | romil797 | 2,120 |
+| 83 | callrmshetty | 2,102.5 |
+| 84 | Kapish Luhariwala | 2,090 |
+| 85 | hg1169 | 2,070 |
+| 86 | maxzhengqu | 2,070 |
+| 87 | NGUYEN PHUNG BAO HUY | 2,065 |
+| 88 | yang_mingxin | 2,020 |
+| 89 | s233036 | 2,015 |
+| 90 | pyry.ruotsalainen | 1,999 |
+| 91 | Aarohi Bhand | 1,995 |
+| 92 | Kacper Urban | 1,985 |
+| 93 | Aykut Çayır | 1,985 |
+| 94 | Shooshi | 1,980 |
+| 95 | Marian Cretu | 1,980 |
+| 96 | Kartik Mathur | 1,970 |
 | 97 | Li Le | 1,945 |
-| 98 | Moustafa Meshry | 1,925 |
-| 99 | changjing Dong | 1,925 |
-| 100 | Chi Yang | 1,910.5 |
+| 98 | Xin Yang | 1,940 |
+| 99 | Prem Laknaboina | 1,935 |
+| 100 | Moustafa Meshry | 1,925 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
