@@ -34,21 +34,21 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 11 | Lado Turmanidze (Stochastic Batman) | 3,885 |
 | 12 | Anh Tú Ngô | 3,855 |
 | 13 | Алексей Панарин | 3,810 |
-| 14 | Jiongran Wang | 3,755 |
-| 15 | ajay gangwar | 3,710 |
+| 14 | ajay gangwar | 3,765 |
+| 15 | Jiongran Wang | 3,755 |
 | 16 | hiddenneuron | 3,685 |
 | 17 | Siva Morgan | 3,670 |
-| 18 | Jiarui Cui | 3,575 |
-| 19 | agercas | 3,565 |
-| 20 | shongpapa80 | 3,550 |
-| 21 | Mahdi Farmahini Farahani | 3,545 |
-| 22 | trangstalbergle | 3,516 |
+| 18 | agercas | 3,620 |
+| 19 | Jiarui Cui | 3,575 |
+| 20 | trangstalbergle | 3,571 |
+| 21 | shongpapa80 | 3,550 |
+| 22 | Mahdi Farmahini Farahani | 3,545 |
 | 23 | Junang Li | 3,440 |
 | 24 | Niels van Galen Last | 3,440 |
-| 25 | ZhangJY | 3,350 |
-| 26 | Breeze Chen | 3,280 |
-| 27 | Lea Wron | 3,245 |
-| 28 | Max | 3,235 |
+| 25 | Max | 3,415 |
+| 26 | ZhangJY | 3,350 |
+| 27 | Breeze Chen | 3,280 |
+| 28 | Lea Wron | 3,245 |
 | 29 | Salim Beyden | 3,038.5 |
 | 30 | GlaDiaTor | 3,030 |
 | 31 | 张子轩 | 2,985 |
@@ -64,8 +64,8 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 41 | Youshaa Murhij | 2,780 |
 | 42 | 1nkik H | 2,755.525 |
 | 43 | BY | 2,695 |
-| 44 | Maksym Koval | 2,605.5 |
-| 45 | Naman Raiyani | 2,590 |
+| 44 | Naman Raiyani | 2,645 |
+| 45 | Maksym Koval | 2,605.5 |
 | 46 | katam madhumitha | 2,580 |
 | 47 | Aman Rangapur | 2,555 |
 | 48 | anian.ruoss | 2,526.5 |
@@ -84,42 +84,42 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 61 | Mako | 2,380 |
 | 62 | Vick Mahase | 2,345 |
 | 63 | AKASH SAMANTA | 2,335 |
-| 64 | Shi-Wei Zhou | 2,325 |
-| 65 | Allen Liu | 2,310 |
-| 66 | if z | 2,305 |
-| 67 | soumit saha | 2,300 |
-| 68 | atoms-iambics.4i | 2,265 |
-| 69 | Márcio Pereira | 2,265 |
-| 70 | Stephen zhao | 2,255 |
-| 71 | Sudheesh Singanamalla | 2,245 |
-| 72 | SAHAYA ASHIK LIBU | 2,235 |
-| 73 | Xiao Lei Zhang | 2,225.5 |
-| 74 | Nabeel Raza | 2,220 |
-| 75 | tanghaibao | 2,205 |
-| 76 | KG | 2,185 |
-| 77 | Alper Karaca | 2,165 |
-| 78 | Zeyuan Li | 2,150 |
-| 79 | David James | 2,145 |
-| 80 | Anshuman Sahu | 2,135 |
-| 81 | ps | 2,125 |
-| 82 | romil797 | 2,120 |
-| 83 | callrmshetty | 2,102.5 |
-| 84 | Kapish Luhariwala | 2,090 |
-| 85 | hg1169 | 2,070 |
-| 86 | maxzhengqu | 2,070 |
-| 87 | NGUYEN PHUNG BAO HUY | 2,065 |
-| 88 | yang_mingxin | 2,020 |
-| 89 | s233036 | 2,015 |
-| 90 | pyry.ruotsalainen | 1,999 |
-| 91 | Aarohi Bhand | 1,995 |
-| 92 | Kacper Urban | 1,985 |
-| 93 | Aykut Çayır | 1,985 |
-| 94 | Shooshi | 1,980 |
-| 95 | Marian Cretu | 1,980 |
-| 96 | Kartik Mathur | 1,970 |
-| 97 | Li Le | 1,945 |
-| 98 | Xin Yang | 1,940 |
-| 99 | Prem Laknaboina | 1,935 |
+| 64 | Marian Cretu | 2,325 |
+| 65 | Shi-Wei Zhou | 2,325 |
+| 66 | Allen Liu | 2,310 |
+| 67 | if z | 2,305 |
+| 68 | soumit saha | 2,300 |
+| 69 | atoms-iambics.4i | 2,265 |
+| 70 | Márcio Pereira | 2,265 |
+| 71 | Stephen zhao | 2,255 |
+| 72 | Sudheesh Singanamalla | 2,245 |
+| 73 | KG | 2,235 |
+| 74 | SAHAYA ASHIK LIBU | 2,235 |
+| 75 | Xiao Lei Zhang | 2,225.5 |
+| 76 | Nabeel Raza | 2,220 |
+| 77 | tanghaibao | 2,205 |
+| 78 | Alper Karaca | 2,165 |
+| 79 | Zeyuan Li | 2,150 |
+| 80 | David James | 2,145 |
+| 81 | Anshuman Sahu | 2,135 |
+| 82 | NGUYEN PHUNG BAO HUY | 2,135 |
+| 83 | ps | 2,125 |
+| 84 | romil797 | 2,120 |
+| 85 | maxzhengqu | 2,105 |
+| 86 | callrmshetty | 2,102.5 |
+| 87 | Kapish Luhariwala | 2,090 |
+| 88 | hg1169 | 2,070 |
+| 89 | pyry.ruotsalainen | 2,054 |
+| 90 | yang_mingxin | 2,020 |
+| 91 | s233036 | 2,015 |
+| 92 | Aarohi Bhand | 1,995 |
+| 93 | Xin Yang | 1,995 |
+| 94 | Prem Laknaboina | 1,990 |
+| 95 | Kacper Urban | 1,985 |
+| 96 | Aykut Çayır | 1,985 |
+| 97 | Shooshi | 1,980 |
+| 98 | Kartik Mathur | 1,970 |
+| 99 | Li Le | 1,945 |
 | 100 | Moustafa Meshry | 1,925 |
 <!-- LEADERBOARD_END -->
 
