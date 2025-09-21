@@ -21,14 +21,14 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 <!-- LEADERBOARD_START -->
 | Rank | Username | Score |
 |------|---------|-------|
-| 1 | mr. Arman (梦想) | 5,615 |
+| 1 | mr. Arman (梦想) | 5,650 |
 | 2 | Marco Cheng | 5,435 |
-| 3 | Patt | 5,355 |
-| 4 | antonoof | 4,930 |
+| 3 | Patt | 5,435 |
+| 4 | antonoof | 5,010 |
 | 5 | StoatScript | 4,895 |
-| 6 | PythonPPP | 4,775 |
-| 7 | DhanushKumar .R | 4,695 |
-| 8 | Alexander Krylov | 4,525 |
+| 6 | PythonPPP | 4,855 |
+| 7 | DhanushKumar .R | 4,775 |
+| 8 | Alexander Krylov | 4,605 |
 | 9 | Wulin | 4,350 |
 | 10 | N R | 3,915 |
 | 11 | Алексей Панарин | 3,905 |
@@ -37,8 +37,8 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 14 | Anh Tú Ngô | 3,855 |
 | 15 | Max | 3,855 |
 | 16 | Mahdi Farmahini Farahani | 3,840 |
-| 17 | Jiongran Wang | 3,755 |
-| 18 | agercas | 3,755 |
+| 17 | agercas | 3,835 |
+| 18 | Jiongran Wang | 3,755 |
 | 19 | hiddenneuron | 3,685 |
 | 20 | Siva Morgan | 3,670 |
 | 21 | Jiarui Cui | 3,575 |
@@ -49,40 +49,40 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 26 | ZhangJY | 3,350 |
 | 27 | Breeze Chen | 3,280 |
 | 28 | Lea Wron | 3,245 |
-| 29 | caesar | 3,070 |
-| 30 | Salim Beyden | 3,038.5 |
-| 31 | GlaDiaTor | 3,030 |
-| 32 | Pavel | 3,000 |
-| 33 | 张子轩 | 2,985 |
-| 34 | Emanuel-Florin Ciobotea | 2,955 |
-| 35 | mavleo96 | 2,935 |
-| 36 | Naman Raiyani | 2,915 |
-| 37 | katelyng3 | 2,900 |
-| 38 | Kuat Kurpenov | 2,845 |
-| 39 | automorphing | 2,845 |
-| 40 | SantaClaus | 2,825 |
-| 41 | 747893812 | 2,785 |
-| 42 | antonoof | 2,780 |
-| 43 | Youshaa Murhij | 2,780 |
-| 44 | 1nkik H | 2,755.525 |
-| 45 | Marian Cretu | 2,750 |
+| 29 | caesar | 3,120 |
+| 30 | GlaDiaTor | 3,110 |
+| 31 | katelyng3 | 3,090 |
+| 32 | Salim Beyden | 3,038.5 |
+| 33 | Pavel | 3,000 |
+| 34 | Naman Raiyani | 2,995 |
+| 35 | 张子轩 | 2,985 |
+| 36 | Marian Cretu | 2,960 |
+| 37 | Emanuel-Florin Ciobotea | 2,955 |
+| 38 | mavleo96 | 2,935 |
+| 39 | Kuat Kurpenov | 2,845 |
+| 40 | automorphing | 2,845 |
+| 41 | SantaClaus | 2,825 |
+| 42 | 747893812 | 2,785 |
+| 43 | antonoof | 2,780 |
+| 44 | Youshaa Murhij | 2,780 |
+| 45 | 1nkik H | 2,755.525 |
 | 46 | Maksym Koval | 2,605.5 |
 | 47 | Maksim Nikolin | 2,598 |
 | 48 | katam madhumitha | 2,580 |
 | 49 | Aman Rangapur | 2,555 |
-| 50 | AKASH SAMANTA | 2,540 |
+| 50 | AKASH SAMANTA | 2,550 |
 | 51 | nick.volynets | 2,530 |
 | 52 | anian.ruoss | 2,526.5 |
 | 53 | jwu456789 | 2,520 |
 | 54 | Haolun Zhang | 2,510 |
 | 55 | yd.nan | 2,507.8 |
-| 56 | NGUYEN PHUNG BAO HUY | 2,455 |
-| 57 | yezi | 2,450 |
-| 58 | Kevin Wang | 2,450 |
-| 59 | Linxuan XIE | 2,445 |
-| 60 | Mythri Shivakumar | 2,420 |
-| 61 | 1773703527 | 2,412 |
-| 62 | Nihal Jaiswal | 2,410 |
+| 56 | Nihal Jaiswal | 2,485 |
+| 57 | NGUYEN PHUNG BAO HUY | 2,455 |
+| 58 | yezi | 2,450 |
+| 59 | Kevin Wang | 2,450 |
+| 60 | Linxuan XIE | 2,445 |
+| 61 | Mythri Shivakumar | 2,420 |
+| 62 | 1773703527 | 2,412 |
 | 63 | Дмитрий | 2,400 |
 | 64 | Tushar aggarwal | 2,385 |
 | 65 | Vick Mahase | 2,345 |
@@ -107,20 +107,20 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 84 | ps | 2,125 |
 | 85 | romil797 | 2,120 |
 | 86 | callrmshetty | 2,102.5 |
-| 87 | pyry.ruotsalainen | 2,094 |
-| 88 | Kapish Luhariwala | 2,090 |
-| 89 | hg1169 | 2,070 |
-| 90 | douquan56 | 2,066.094 |
-| 91 | Leon Dong | 2,040 |
-| 92 | yang_mingxin | 2,020 |
-| 93 | s233036 | 2,015 |
-| 94 | Xin Yang | 2,005 |
-| 95 | Матвей Чудаков | 2,000 |
-| 96 | Aarohi Bhand | 1,995 |
-| 97 | Kacper Urban | 1,985 |
-| 98 | Aykut Çayır | 1,985 |
-| 99 | Shooshi | 1,980 |
-| 100 | Kartik Mathur | 1,970 |
+| 87 | Xin Yang | 2,095 |
+| 88 | pyry.ruotsalainen | 2,094 |
+| 89 | Guanyu Huo | 2,090 |
+| 90 | Kapish Luhariwala | 2,090 |
+| 91 | hg1169 | 2,070 |
+| 92 | douquan56 | 2,066.094 |
+| 93 | Leon Dong | 2,040 |
+| 94 | yang_mingxin | 2,020 |
+| 95 | s233036 | 2,015 |
+| 96 | Матвей Чудаков | 2,000 |
+| 97 | Aarohi Bhand | 1,995 |
+| 98 | Kacper Urban | 1,985 |
+| 99 | Aykut Çayır | 1,985 |
+| 100 | Shooshi | 1,980 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
