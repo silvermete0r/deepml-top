@@ -8,7 +8,7 @@
     "4091c1a21900bd2c7d3f4e343acddda1": {
         "label": "No. 2 | Marco Cheng",
         "rank": "2",
-        "score": "5,435",
+        "score": "5,475",
         "username": "Marco Cheng"
     },
     "4b6dd077a50c0d50b43cc8120a91ccd7": {
@@ -18,8 +18,8 @@
         "username": "Patt"
     },
     "45f9607a6e1850d180a9c15bb6bbf5b0": {
-        "label": "No. 43 | antonoof",
-        "rank": "43",
+        "label": "No. 44 | antonoof",
+        "rank": "44",
         "score": "2,780",
         "username": "antonoof"
     },
@@ -44,7 +44,7 @@
     "8fd8dcf2a00e8f91fe5b2c6bb1c0aa8e": {
         "label": "No. 8 | Alexander Krylov",
         "rank": "8",
-        "score": "4,605",
+        "score": "4,645",
         "username": "Alexander Krylov"
     },
     "70b5fd84492568160b8217f215b58be4": {
@@ -149,23 +149,23 @@
         "score": "3,440",
         "username": "Niels van Galen Last"
     },
-    "7d9e00eae4cfbb44fb4c2c4a5a0e0e92": {
-        "label": "No. 26 | ZhangJY",
+    "56d721ccadb8bbfd8b47390d82a6ea4b": {
+        "label": "No. 26 | KG",
         "rank": "26",
+        "score": "3,380",
+        "username": "KG"
+    },
+    "7d9e00eae4cfbb44fb4c2c4a5a0e0e92": {
+        "label": "No. 27 | ZhangJY",
+        "rank": "27",
         "score": "3,350",
         "username": "ZhangJY"
     },
     "5a665e8671177d2f02c54f07e7671cf8": {
-        "label": "No. 27 | Breeze Chen",
-        "rank": "27",
+        "label": "No. 28 | Breeze Chen",
+        "rank": "28",
         "score": "3,280",
         "username": "Breeze Chen"
-    },
-    "56d721ccadb8bbfd8b47390d82a6ea4b": {
-        "label": "No. 28 | KG",
-        "rank": "28",
-        "score": "3,255",
-        "username": "KG"
     },
     "1d225304451b31b86e367c51836e4753": {
         "label": "No. 29 | Lea Wron",
@@ -245,17 +245,17 @@
         "score": "2,825",
         "username": "SantaClaus"
     },
-    "4d86c7e717cfe667cd976a81791b14c9": {
-        "label": "No. 42 | 747893812",
+    "6081482d75dc29a31ff28ede48b83c24": {
+        "label": "No. 42 | Youshaa Murhij",
         "rank": "42",
+        "score": "2,820",
+        "username": "Youshaa Murhij"
+    },
+    "4d86c7e717cfe667cd976a81791b14c9": {
+        "label": "No. 43 | 747893812",
+        "rank": "43",
         "score": "2,785",
         "username": "747893812"
-    },
-    "6081482d75dc29a31ff28ede48b83c24": {
-        "label": "No. 44 | Youshaa Murhij",
-        "rank": "44",
-        "score": "2,780",
-        "username": "Youshaa Murhij"
     },
     "704d3a24b0de71e291b1dbf2a02f2c79": {
         "label": "No. 45 | 1nkik H",
@@ -266,26 +266,26 @@
     "d30802702c0d1d3cfff7abf7627290f9": {
         "label": "No. 46 | katam madhumitha",
         "rank": "46",
-        "score": "2,620",
+        "score": "2,660",
         "username": "katam madhumitha"
     },
-    "185b5d0948a42bd94b203fee0c45f4c0": {
-        "label": "No. 47 | Maksym Koval",
+    "b5495c071a8a7d8d70e57e5fb6087afd": {
+        "label": "No. 47 | Nihal Jaiswal",
         "rank": "47",
+        "score": "2,625",
+        "username": "Nihal Jaiswal"
+    },
+    "185b5d0948a42bd94b203fee0c45f4c0": {
+        "label": "No. 48 | Maksym Koval",
+        "rank": "48",
         "score": "2,605.5",
         "username": "Maksym Koval"
     },
     "511cd3f4651a2ee006a0362d783719a5": {
-        "label": "No. 48 | Maksim Nikolin",
-        "rank": "48",
+        "label": "No. 49 | Maksim Nikolin",
+        "rank": "49",
         "score": "2,598",
         "username": "Maksim Nikolin"
-    },
-    "b5495c071a8a7d8d70e57e5fb6087afd": {
-        "label": "No. 49 | Nihal Jaiswal",
-        "rank": "49",
-        "score": "2,585",
-        "username": "Nihal Jaiswal"
     },
     "62b2a33b91a383afd733f21d8e081e6c": {
         "label": "No. 50 | AKASH SAMANTA",
@@ -338,7 +338,7 @@
     "ade28caf69a0ffe7e5e3c5fd5ebca7f9": {
         "label": "No. 58 | yezi",
         "rank": "58",
-        "score": "2,475",
+        "score": "2,500",
         "username": "yezi"
     },
     "124fb9bc7d9f71d0d183e3a0083bf36a": {
