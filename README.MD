@@ -43,15 +43,15 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 20 | Siva Morgan | 3,670 |
 | 21 | Jiarui Cui | 3,575 |
 | 22 | trangstalbergle | 3,571 |
-| 23 | shongpapa80 | 3,550 |
-| 24 | Junang Li | 3,440 |
-| 25 | Niels van Galen Last | 3,440 |
-| 26 | KG | 3,430 |
+| 23 | KG | 3,550 |
+| 24 | shongpapa80 | 3,550 |
+| 25 | Junang Li | 3,440 |
+| 26 | Niels van Galen Last | 3,440 |
 | 27 | ZhangJY | 3,350 |
 | 28 | Breeze Chen | 3,280 |
-| 29 | Lea Wron | 3,245 |
-| 30 | GlaDiaTor | 3,165 |
-| 31 | caesar | 3,145 |
+| 29 | caesar | 3,280 |
+| 30 | Lea Wron | 3,245 |
+| 31 | GlaDiaTor | 3,165 |
 | 32 | Marian Cretu | 3,110 |
 | 33 | Naman Raiyani | 3,090 |
 | 34 | Salim Beyden | 3,038.5 |
@@ -66,12 +66,12 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 43 | 747893812 | 2,785 |
 | 44 | antonoof | 2,780 |
 | 45 | 1nkik H | 2,755.525 |
-| 46 | katam madhumitha | 2,660 |
-| 47 | Nihal Jaiswal | 2,625 |
-| 48 | AKASH SAMANTA | 2,610 |
-| 49 | Maksym Koval | 2,605.5 |
-| 50 | Maksim Nikolin | 2,598 |
-| 51 | NGUYEN PHUNG BAO HUY | 2,565 |
+| 46 | Nihal Jaiswal | 2,665 |
+| 47 | katam madhumitha | 2,660 |
+| 48 | AKASH SAMANTA | 2,635 |
+| 49 | NGUYEN PHUNG BAO HUY | 2,615 |
+| 50 | Maksym Koval | 2,605.5 |
+| 51 | Maksim Nikolin | 2,598 |
 | 52 | Aman Rangapur | 2,555 |
 | 53 | nick.volynets | 2,530 |
 | 54 | anian.ruoss | 2,526.5 |
@@ -99,8 +99,8 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 76 | SAHAYA ASHIK LIBU | 2,235 |
 | 77 | Nabeel Raza | 2,220 |
 | 78 | tanghaibao | 2,215 |
-| 79 | Alper Karaca | 2,200 |
-| 80 | Xin Yang | 2,190 |
+| 79 | Xin Yang | 2,210 |
+| 80 | Alper Karaca | 2,200 |
 | 81 | Leon Dong | 2,175 |
 | 82 | Zeyuan Li | 2,150 |
 | 83 | David James | 2,145 |
