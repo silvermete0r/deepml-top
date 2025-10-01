@@ -21,22 +21,22 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 <!-- LEADERBOARD_START -->
 | Rank | Username | Score |
 |------|---------|-------|
-| 1 | mr. Arman (梦想) | 5,705 |
-| 2 | Patt | 5,570 |
+| 1 | mr. Arman (梦想) | 5,745 |
+| 2 | Patt | 5,610 |
 | 3 | Marco Cheng | 5,475 |
-| 4 | antonoof | 5,145 |
-| 5 | StoatScript | 4,920 |
-| 6 | PythonPPP | 4,910 |
-| 7 | DhanushKumar .R | 4,910 |
+| 4 | antonoof | 5,185 |
+| 5 | DhanushKumar .R | 4,995 |
+| 6 | PythonPPP | 4,950 |
+| 7 | StoatScript | 4,920 |
 | 8 | Alexander Krylov | 4,780 |
 | 9 | Wulin | 4,350 |
 | 10 | ajay gangwar | 4,180 |
-| 11 | Алексей Панарин | 4,120 |
-| 12 | agercas | 4,050 |
-| 13 | N R | 3,940 |
-| 14 | Anh Tú Ngô | 3,910 |
-| 15 | Lado Turmanidze (Stochastic Batman) | 3,885 |
-| 16 | katelyng3 | 3,880 |
+| 11 | Алексей Панарин | 4,160 |
+| 12 | agercas | 4,090 |
+| 13 | katelyng3 | 3,940 |
+| 14 | N R | 3,940 |
+| 15 | Anh Tú Ngô | 3,910 |
+| 16 | Lado Turmanidze (Stochastic Batman) | 3,885 |
 | 17 | Max | 3,880 |
 | 18 | Mahdi Farmahini Farahani | 3,840 |
 | 19 | Jiongran Wang | 3,755 |
@@ -52,7 +52,7 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 29 | Breeze Chen | 3,280 |
 | 30 | Lea Wron | 3,245 |
 | 31 | GlaDiaTor | 3,245 |
-| 32 | Naman Raiyani | 3,130 |
+| 32 | Naman Raiyani | 3,170 |
 | 33 | Marian Cretu | 3,110 |
 | 34 | Salim Beyden | 3,038.5 |
 | 35 | mavleo96 | 3,005 |
@@ -65,11 +65,11 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 42 | 1nkik H | 2,835.525 |
 | 43 | SantaClaus | 2,825 |
 | 44 | Youshaa Murhij | 2,820 |
-| 45 | 747893812 | 2,785 |
+| 45 | 747893812 | 2,795 |
 | 46 | antonoof | 2,780 |
 | 47 | katam madhumitha | 2,780 |
 | 48 | Nihal Jaiswal | 2,770 |
-| 49 | NGUYEN PHUNG BAO HUY | 2,635 |
+| 49 | NGUYEN PHUNG BAO HUY | 2,645 |
 | 50 | Maksym Koval | 2,605.5 |
 | 51 | Maksim Nikolin | 2,598 |
 | 52 | nick.volynets | 2,555 |
@@ -86,8 +86,8 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 63 | 1773703527 | 2,412 |
 | 64 | Дмитрий | 2,400 |
 | 65 | Tushar aggarwal | 2,385 |
-| 66 | Vick Mahase | 2,345 |
-| 67 | Leon Dong | 2,335 |
+| 66 | Leon Dong | 2,375 |
+| 67 | Vick Mahase | 2,345 |
 | 68 | Shi-Wei Zhou | 2,325 |
 | 69 | maxzhengqu | 2,315 |
 | 70 | Allen Liu | 2,310 |
@@ -96,11 +96,11 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 73 | atoms-iambics.4i | 2,265 |
 | 74 | Márcio Pereira | 2,265 |
 | 75 | Stephen zhao | 2,255 |
-| 76 | Sudheesh Singanamalla | 2,245 |
-| 77 | SAHAYA ASHIK LIBU | 2,235 |
-| 78 | Nabeel Raza | 2,220 |
-| 79 | tanghaibao | 2,215 |
-| 80 | Xin Yang | 2,210 |
+| 76 | Xin Yang | 2,250 |
+| 77 | Sudheesh Singanamalla | 2,245 |
+| 78 | tanghaibao | 2,240 |
+| 79 | SAHAYA ASHIK LIBU | 2,235 |
+| 80 | Nabeel Raza | 2,220 |
 | 81 | Alper Karaca | 2,200 |
 | 82 | Bala Baskar | 2,195 |
 | 83 | pyry.ruotsalainen | 2,174 |
@@ -112,13 +112,13 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 89 | ps | 2,125 |
 | 90 | romil797 | 2,120 |
 | 91 | callrmshetty | 2,102.5 |
-| 92 | Матвей Чудаков | 2,095 |
-| 93 | Kapish Luhariwala | 2,090 |
-| 94 | hg1169 | 2,070 |
-| 95 | Egor Kashkarov | 2,050 |
-| 96 | yang_mingxin | 2,020 |
-| 97 | s233036 | 2,015 |
-| 98 | Viktor Makoviichuk | 2,000 |
+| 92 | Egor Kashkarov | 2,100 |
+| 93 | Матвей Чудаков | 2,095 |
+| 94 | Kapish Luhariwala | 2,090 |
+| 95 | hg1169 | 2,070 |
+| 96 | Viktor Makoviichuk | 2,040 |
+| 97 | yang_mingxin | 2,020 |
+| 98 | s233036 | 2,015 |
 | 99 | Aarohi Bhand | 1,995 |
 | 100 | ravivarma patturi | 1,985 |
 <!-- LEADERBOARD_END -->
