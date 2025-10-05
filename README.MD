@@ -31,9 +31,9 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 8 | Alexander Krylov | 4,875 |
 | 9 | Wulin | 4,350 |
 | 10 | ajay gangwar | 4,275 |
-| 11 | Алексей Панарин | 4,200 |
-| 12 | agercas | 4,185 |
-| 13 | katelyng3 | 4,090 |
+| 11 | Алексей Панарин | 4,240 |
+| 12 | agercas | 4,225 |
+| 13 | katelyng3 | 4,130 |
 | 14 | Anh Tú Ngô | 4,005 |
 | 15 | N R | 3,940 |
 | 16 | Lado Turmanidze (Stochastic Batman) | 3,885 |
@@ -47,15 +47,15 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 24 | shongpapa80 | 3,550 |
 | 25 | Junang Li | 3,440 |
 | 26 | Niels van Galen Last | 3,440 |
-| 27 | ZhangJY | 3,350 |
-| 28 | Naman Raiyani | 3,320 |
+| 27 | Naman Raiyani | 3,360 |
+| 28 | ZhangJY | 3,350 |
 | 29 | caesar | 3,290 |
 | 30 | Breeze Chen | 3,280 |
 | 31 | Lea Wron | 3,245 |
 | 32 | GlaDiaTor | 3,245 |
 | 33 | Marian Cretu | 3,135 |
-| 34 | Salim Beyden | 3,038.5 |
-| 35 | AKASH SAMANTA | 3,020 |
+| 34 | AKASH SAMANTA | 3,045 |
+| 35 | Salim Beyden | 3,038.5 |
 | 36 | mavleo96 | 3,005 |
 | 37 | Pavel | 3,000 |
 | 38 | 张子轩 | 2,985 |
@@ -77,10 +77,10 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 54 | anian.ruoss | 2,526.5 |
 | 55 | jwu456789 | 2,520 |
 | 56 | Haolun Zhang | 2,510 |
-| 57 | yd.nan | 2,507.8 |
-| 58 | yezi | 2,500 |
-| 59 | Prem Laknaboina | 2,475 |
-| 60 | Leon Dong | 2,470 |
+| 57 | Leon Dong | 2,510 |
+| 58 | yd.nan | 2,507.8 |
+| 59 | yezi | 2,500 |
+| 60 | Prem Laknaboina | 2,475 |
 | 61 | Kevin Wang | 2,450 |
 | 62 | Linxuan XIE | 2,445 |
 | 63 | Mythri Shivakumar | 2,420 |
@@ -88,12 +88,12 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 65 | Дмитрий | 2,400 |
 | 66 | Tushar aggarwal | 2,385 |
 | 67 | Vick Mahase | 2,345 |
-| 68 | Shi-Wei Zhou | 2,325 |
-| 69 | maxzhengqu | 2,315 |
-| 70 | Allen Liu | 2,310 |
-| 71 | soumit saha | 2,300 |
-| 72 | tanghaibao | 2,290 |
-| 73 | Bala Baskar | 2,290 |
+| 68 | Bala Baskar | 2,330 |
+| 69 | Shi-Wei Zhou | 2,325 |
+| 70 | maxzhengqu | 2,315 |
+| 71 | Allen Liu | 2,310 |
+| 72 | soumit saha | 2,300 |
+| 73 | tanghaibao | 2,300 |
 | 74 | Xiao Lei Zhang | 2,285.5 |
 | 75 | Egor Kashkarov | 2,280 |
 | 76 | atoms-iambics.4i | 2,265 |
@@ -104,9 +104,9 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 81 | SAHAYA ASHIK LIBU | 2,235 |
 | 82 | Nabeel Raza | 2,220 |
 | 83 | Alper Karaca | 2,200 |
-| 84 | pyry.ruotsalainen | 2,174 |
-| 85 | Zeyuan Li | 2,150 |
-| 86 | douquan56 | 2,146.094 |
+| 84 | douquan56 | 2,186.094 |
+| 85 | pyry.ruotsalainen | 2,174 |
+| 86 | Zeyuan Li | 2,150 |
 | 87 | David James | 2,145 |
 | 88 | Anshuman Sahu | 2,135 |
 | 89 | Guanyu Huo | 2,135 |
@@ -119,8 +119,8 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 96 | Viktor Makoviichuk | 2,050 |
 | 97 | Bakhodir Ashirmatov | 2,045 |
 | 98 | K | 2,030 |
-| 99 | yang_mingxin | 2,020 |
-| 100 | Chi Yang | 2,015.5 |
+| 99 | ravivarma patturi | 2,025 |
+| 100 | yang_mingxin | 2,020 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
