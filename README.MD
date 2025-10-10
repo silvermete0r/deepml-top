@@ -21,15 +21,15 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 <!-- LEADERBOARD_START -->
 | Rank | Username | Score |
 |------|---------|-------|
-| 1 | Patt | 5,935 |
+| 1 | Patt | 5,990 |
 | 2 | mr. Arman (梦想) | 5,780 |
-| 3 | antonoof | 5,510 |
+| 3 | antonoof | 5,565 |
 | 4 | Marco Cheng | 5,475 |
 | 5 | PythonPPP | 5,165 |
 | 6 | DhanushKumar .R | 5,030 |
 | 7 | Alexander Krylov | 4,930 |
 | 8 | StoatScript | 4,920 |
-| 9 | Алексей Панарин | 4,375 |
+| 9 | Алексей Панарин | 4,430 |
 | 10 | Wulin | 4,350 |
 | 11 | agercas | 4,345 |
 | 12 | ajay gangwar | 4,330 |
@@ -55,10 +55,10 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 32 | Lea Wron | 3,245 |
 | 33 | AKASH SAMANTA | 3,230 |
 | 34 | Marian Cretu | 3,135 |
-| 35 | automorphing | 3,055 |
-| 36 | Salim Beyden | 3,038.5 |
-| 37 | mavleo96 | 3,005 |
-| 38 | Pavel | 3,000 |
+| 35 | Pavel | 3,070 |
+| 36 | automorphing | 3,055 |
+| 37 | Salim Beyden | 3,038.5 |
+| 38 | mavleo96 | 3,005 |
 | 39 | 张子轩 | 2,985 |
 | 40 | Emanuel-Florin Ciobotea | 2,955 |
 | 41 | 1nkik H | 2,890.525 |
@@ -66,19 +66,19 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 43 | Youshaa Murhij | 2,875 |
 | 44 | Nihal Jaiswal | 2,865 |
 | 45 | Kuat Kurpenov | 2,845 |
-| 46 | SantaClaus | 2,825 |
-| 47 | 747893812 | 2,795 |
-| 48 | antonoof | 2,780 |
-| 49 | NGUYEN PHUNG BAO HUY | 2,750 |
-| 50 | Leon Dong | 2,740 |
-| 51 | nick.volynets | 2,730 |
+| 46 | nick.volynets | 2,830 |
+| 47 | SantaClaus | 2,825 |
+| 48 | Leon Dong | 2,795 |
+| 49 | 747893812 | 2,795 |
+| 50 | antonoof | 2,780 |
+| 51 | NGUYEN PHUNG BAO HUY | 2,750 |
 | 52 | Prem Laknaboina | 2,705 |
 | 53 | Maksym Koval | 2,605.5 |
 | 54 | Maksim Nikolin | 2,598 |
-| 55 | Aman Rangapur | 2,555 |
-| 56 | anian.ruoss | 2,526.5 |
-| 57 | jwu456789 | 2,520 |
-| 58 | Bala Baskar | 2,520 |
+| 55 | Bala Baskar | 2,575 |
+| 56 | Aman Rangapur | 2,555 |
+| 57 | anian.ruoss | 2,526.5 |
+| 58 | jwu456789 | 2,520 |
 | 59 | Haolun Zhang | 2,510 |
 | 60 | yd.nan | 2,507.8 |
 | 61 | yezi | 2,500 |
@@ -107,20 +107,20 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 84 | Guanyu Huo | 2,210 |
 | 85 | Alper Karaca | 2,200 |
 | 86 | douquan56 | 2,186.094 |
-| 87 | Zeyuan Li | 2,150 |
-| 88 | David James | 2,145 |
-| 89 | Anshuman Sahu | 2,135 |
-| 90 | ps | 2,125 |
-| 91 | ravivarma patturi | 2,120 |
-| 92 | romil797 | 2,120 |
-| 93 | Viktor Makoviichuk | 2,105 |
-| 94 | callrmshetty | 2,102.5 |
-| 95 | Матвей Чудаков | 2,095 |
+| 87 | Матвей Чудаков | 2,160 |
+| 88 | Zeyuan Li | 2,150 |
+| 89 | David James | 2,145 |
+| 90 | Anshuman Sahu | 2,135 |
+| 91 | ps | 2,125 |
+| 92 | ravivarma patturi | 2,120 |
+| 93 | romil797 | 2,120 |
+| 94 | Viktor Makoviichuk | 2,105 |
+| 95 | callrmshetty | 2,102.5 |
 | 96 | Kapish Luhariwala | 2,090 |
-| 97 | hg1169 | 2,070 |
-| 98 | Bakhodir Ashirmatov | 2,045 |
-| 99 | K | 2,030 |
-| 100 | yang_mingxin | 2,020 |
+| 97 | Xiaohua Du | 2,080 |
+| 98 | Shivanirudh | 2,071.425 |
+| 99 | hg1169 | 2,070 |
+| 100 | Bakhodir Ashirmatov | 2,045 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
