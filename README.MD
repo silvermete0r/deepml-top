@@ -22,7 +22,7 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | Rank | Username | Score |
 |------|---------|-------|
 | 1 | Patt | 6,100 |
-| 2 | mr. Arman (梦想) | 5,870 |
+| 2 | mr. Arman (梦想) | 5,895 |
 | 3 | antonoof | 5,675 |
 | 4 | Marco Cheng | 5,475 |
 | 5 | PythonPPP | 5,275 |
@@ -30,7 +30,7 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 7 | Alexander Krylov | 5,040 |
 | 8 | StoatScript | 4,920 |
 | 9 | Алексей Панарин | 4,540 |
-| 10 | agercas | 4,455 |
+| 10 | agercas | 4,535 |
 | 11 | ajay gangwar | 4,385 |
 | 12 | Wulin | 4,350 |
 | 13 | katelyng3 | 4,170 |
@@ -45,15 +45,15 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 22 | trangstalbergle | 3,661 |
 | 23 | Jiarui Cui | 3,575 |
 | 24 | shongpapa80 | 3,550 |
-| 25 | Naman Raiyani | 3,510 |
-| 26 | Junang Li | 3,440 |
-| 27 | Niels van Galen Last | 3,440 |
-| 28 | GlaDiaTor | 3,435 |
+| 25 | GlaDiaTor | 3,515 |
+| 26 | Naman Raiyani | 3,510 |
+| 27 | Junang Li | 3,440 |
+| 28 | Niels van Galen Last | 3,440 |
 | 29 | ZhangJY | 3,350 |
-| 30 | caesar | 3,290 |
-| 31 | Breeze Chen | 3,280 |
-| 32 | Lea Wron | 3,245 |
-| 33 | AKASH SAMANTA | 3,230 |
+| 30 | AKASH SAMANTA | 3,310 |
+| 31 | caesar | 3,290 |
+| 32 | Breeze Chen | 3,280 |
+| 33 | Lea Wron | 3,245 |
 | 34 | Marian Cretu | 3,135 |
 | 35 | Pavel | 3,070 |
 | 36 | automorphing | 3,055 |
@@ -64,16 +64,16 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 41 | Leon Dong | 2,905 |
 | 42 | 1nkik H | 2,890.525 |
 | 43 | katam madhumitha | 2,890 |
-| 44 | Youshaa Murhij | 2,875 |
-| 45 | Nihal Jaiswal | 2,865 |
-| 46 | nick.volynets | 2,855 |
-| 47 | Kuat Kurpenov | 2,845 |
-| 48 | SantaClaus | 2,825 |
-| 49 | 747893812 | 2,795 |
-| 50 | antonoof | 2,780 |
-| 51 | NGUYEN PHUNG BAO HUY | 2,750 |
-| 52 | Prem Laknaboina | 2,705 |
-| 53 | liu hongyu | 2,700 |
+| 44 | liu hongyu | 2,885 |
+| 45 | Youshaa Murhij | 2,875 |
+| 46 | Nihal Jaiswal | 2,865 |
+| 47 | nick.volynets | 2,855 |
+| 48 | Kuat Kurpenov | 2,845 |
+| 49 | SantaClaus | 2,825 |
+| 50 | 747893812 | 2,795 |
+| 51 | antonoof | 2,780 |
+| 52 | NGUYEN PHUNG BAO HUY | 2,750 |
+| 53 | Prem Laknaboina | 2,705 |
 | 54 | Bala Baskar | 2,685 |
 | 55 | Maksym Koval | 2,605.5 |
 | 56 | Maksim Nikolin | 2,598 |
@@ -82,43 +82,43 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 59 | jwu456789 | 2,520 |
 | 60 | Haolun Zhang | 2,510 |
 | 61 | yd.nan | 2,507.8 |
-| 62 | tanghaibao | 2,470 |
+| 62 | tanghaibao | 2,495 |
 | 63 | Linxuan XIE | 2,445 |
 | 64 | Mythri Shivakumar | 2,420 |
 | 65 | 1773703527 | 2,412 |
 | 66 | Дмитрий | 2,400 |
 | 67 | Tushar aggarwal | 2,385 |
 | 68 | soumit saha | 2,360 |
-| 69 | Vick Mahase | 2,345 |
-| 70 | Shi-Wei Zhou | 2,325 |
-| 71 | maxzhengqu | 2,315 |
-| 72 | Allen Liu | 2,310 |
+| 69 | Shi-Wei Zhou | 2,325 |
+| 70 | maxzhengqu | 2,315 |
+| 71 | Allen Liu | 2,310 |
+| 72 | Матвей Чудаков | 2,290 |
 | 73 | Xiao Lei Zhang | 2,285.5 |
 | 74 | Egor Kashkarov | 2,280 |
 | 75 | pyry.ruotsalainen | 2,269 |
 | 76 | atoms-iambics.4i | 2,265 |
 | 77 | Márcio Pereira | 2,265 |
-| 78 | Xiaohua Du | 2,255 |
-| 79 | Stephen zhao | 2,255 |
-| 80 | Xin Yang | 2,250 |
-| 81 | Sudheesh Singanamalla | 2,245 |
-| 82 | Матвей Чудаков | 2,240 |
-| 83 | SAHAYA ASHIK LIBU | 2,235 |
-| 84 | Nabeel Raza | 2,220 |
-| 85 | Guanyu Huo | 2,210 |
-| 86 | Alper Karaca | 2,200 |
-| 87 | douquan56 | 2,186.094 |
-| 88 | Duc Nguyen | 2,185 |
-| 89 | Shivanirudh | 2,181.425 |
-| 90 | ravivarma patturi | 2,175 |
-| 91 | Zeyuan Li | 2,150 |
-| 92 | David James | 2,145 |
-| 93 | Kapish Luhariwala | 2,140 |
-| 94 | Anshuman Sahu | 2,135 |
-| 95 | ps | 2,125 |
-| 96 | romil797 | 2,120 |
-| 97 | Viktor Makoviichuk | 2,105 |
-| 98 | callrmshetty | 2,102.5 |
+| 78 | Shivanirudh | 2,261.425 |
+| 79 | Xiaohua Du | 2,255 |
+| 80 | Stephen zhao | 2,255 |
+| 81 | Xin Yang | 2,250 |
+| 82 | Sudheesh Singanamalla | 2,245 |
+| 83 | Duc Nguyen | 2,235 |
+| 84 | SAHAYA ASHIK LIBU | 2,235 |
+| 85 | Nabeel Raza | 2,220 |
+| 86 | Guanyu Huo | 2,210 |
+| 87 | Alper Karaca | 2,200 |
+| 88 | douquan56 | 2,186.094 |
+| 89 | ravivarma patturi | 2,175 |
+| 90 | Zeyuan Li | 2,150 |
+| 91 | David James | 2,145 |
+| 92 | Kapish Luhariwala | 2,140 |
+| 93 | Anshuman Sahu | 2,135 |
+| 94 | ps | 2,125 |
+| 95 | romil797 | 2,120 |
+| 96 | Viktor Makoviichuk | 2,105 |
+| 97 | callrmshetty | 2,102.5 |
+| 98 | kyuriosity | 2,100 |
 | 99 | K | 2,080 |
 | 100 | hg1169 | 2,070 |
 <!-- LEADERBOARD_END -->
