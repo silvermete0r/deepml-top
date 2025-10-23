@@ -26,10 +26,10 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 3 | antonoof | 5,880 |
 | 4 | Marco Cheng | 5,475 |
 | 5 | Python | 5,385 |
-| 6 | DhanushKumar .R | 5,325 |
+| 6 | DhanushKumar .R | 5,335 |
 | 7 | Alexander Krylov | 5,150 |
 | 8 | StoatScript | 4,920 |
-| 9 | agercas | 4,765 |
+| 9 | agercas | 4,820 |
 | 10 | Алексей Панарин | 4,690 |
 | 11 | ajay gangwar | 4,440 |
 | 12 | Wulin | 4,350 |
@@ -41,30 +41,30 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 18 | Max | 3,880 |
 | 19 | Mahdi Farmahini Farahani | 3,840 |
 | 20 | Jiongran Wang | 3,755 |
-| 21 | hiddenneuron | 3,685 |
-| 22 | GlaDiaTor | 3,680 |
-| 23 | Siva Morgan | 3,670 |
-| 24 | trangstalbergle | 3,661 |
-| 25 | Naman Raiyani | 3,660 |
-| 26 | liu hongyu | 3,610 |
+| 21 | GlaDiaTor | 3,735 |
+| 22 | Naman Raiyani | 3,715 |
+| 23 | hiddenneuron | 3,685 |
+| 24 | Siva Morgan | 3,670 |
+| 25 | trangstalbergle | 3,661 |
+| 26 | liu hongyu | 3,660 |
 | 27 | Jiarui Cui | 3,575 |
 | 28 | shongpapa80 | 3,550 |
 | 29 | AKASH SAMANTA | 3,445 |
 | 30 | Junang Li | 3,440 |
 | 31 | Niels van Galen Last | 3,440 |
-| 32 | ZhangJY | 3,350 |
-| 33 | caesar | 3,290 |
-| 34 | Breeze Chen | 3,280 |
-| 35 | Lea Wron | 3,245 |
-| 36 | Pavel | 3,220 |
+| 32 | Pavel | 3,375 |
+| 33 | ZhangJY | 3,350 |
+| 34 | caesar | 3,290 |
+| 35 | Breeze Chen | 3,280 |
+| 36 | Lea Wron | 3,245 |
 | 37 | bandwidth | 3,220 |
 | 38 | katam madhumitha | 3,150 |
 | 39 | Marian Cretu | 3,135 |
-| 40 | Salim Beyden | 3,093.5 |
-| 41 | Nihal Jaiswal | 3,090 |
-| 42 | Leon Dong | 3,055 |
-| 43 | mavleo96 | 3,005 |
-| 44 | Bala Baskar | 3,000 |
+| 40 | Leon Dong | 3,110 |
+| 41 | Salim Beyden | 3,093.5 |
+| 42 | Nihal Jaiswal | 3,090 |
+| 43 | Bala Baskar | 3,055 |
+| 44 | mavleo96 | 3,005 |
 | 45 | 张子轩 | 2,985 |
 | 46 | Youshaa Murhij | 2,970 |
 | 47 | Emanuel-Florin Ciobotea | 2,955 |
@@ -77,50 +77,50 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 54 | NGUYEN PHUNG BAO HUY | 2,750 |
 | 55 | Prem Laknaboina | 2,705 |
 | 56 | Матвей Чудаков | 2,685 |
-| 57 | tanghaibao | 2,615 |
-| 58 | Maksym Koval | 2,605.5 |
-| 59 | Maksim Nikolin | 2,598 |
-| 60 | Duc Nguyen | 2,595 |
-| 61 | soumit saha | 2,595 |
-| 62 | Aman Rangapur | 2,555 |
-| 63 | anian.ruoss | 2,526.5 |
-| 64 | Shivanirudh | 2,521.425 |
+| 57 | tanghaibao | 2,635 |
+| 58 | Maksim Nikolin | 2,598 |
+| 59 | Duc Nguyen | 2,595 |
+| 60 | soumit saha | 2,595 |
+| 61 | Shivanirudh | 2,576.425 |
+| 62 | Xiaohua Du | 2,570 |
+| 63 | Aman Rangapur | 2,555 |
+| 64 | anian.ruoss | 2,526.5 |
 | 65 | jwu456789 | 2,520 |
-| 66 | Xiaohua Du | 2,515 |
-| 67 | Haolun Zhang | 2,510 |
-| 68 | yd.nan | 2,507.8 |
+| 66 | Haolun Zhang | 2,510 |
+| 67 | yd.nan | 2,507.8 |
+| 68 | ThorK | 2,470 |
 | 69 | Linxuan XIE | 2,445 |
 | 70 | Mythri Shivakumar | 2,420 |
 | 71 | 1773703527 | 2,412 |
-| 72 | ThorK | 2,410 |
-| 73 | Дмитрий | 2,400 |
-| 74 | Tushar aggarwal | 2,385 |
-| 75 | Allen Liu | 2,380 |
-| 76 | ravivarma patturi | 2,340 |
-| 77 | pyry.ruotsalainen | 2,334 |
-| 78 | Shi-Wei Zhou | 2,325 |
-| 79 | Xiao Lei Zhang | 2,295.5 |
-| 80 | Egor Kashkarov | 2,280 |
-| 81 | atoms-iambics.4i | 2,265 |
-| 82 | Márcio Pereira | 2,265 |
-| 83 | Stephen zhao | 2,255 |
-| 84 | kyuriosity | 2,250 |
-| 85 | Xin Yang | 2,250 |
-| 86 | Sudheesh Singanamalla | 2,245 |
-| 87 | SAHAYA ASHIK LIBU | 2,235 |
-| 88 | Nabeel Raza | 2,220 |
-| 89 | Guanyu Huo | 2,210 |
-| 90 | douquan56 | 2,186.094 |
-| 91 | Zeyuan Li | 2,150 |
-| 92 | David James | 2,145 |
-| 93 | Kapish Luhariwala | 2,140 |
-| 94 | Anshuman Sahu | 2,135 |
-| 95 | ps | 2,125 |
+| 72 | Дмитрий | 2,400 |
+| 73 | Tushar aggarwal | 2,385 |
+| 74 | Allen Liu | 2,380 |
+| 75 | ravivarma patturi | 2,340 |
+| 76 | pyry.ruotsalainen | 2,334 |
+| 77 | Shi-Wei Zhou | 2,325 |
+| 78 | Xiao Lei Zhang | 2,295.5 |
+| 79 | Egor Kashkarov | 2,280 |
+| 80 | atoms-iambics.4i | 2,265 |
+| 81 | Márcio Pereira | 2,265 |
+| 82 | Stephen zhao | 2,255 |
+| 83 | kyuriosity | 2,250 |
+| 84 | Xin Yang | 2,250 |
+| 85 | Sudheesh Singanamalla | 2,245 |
+| 86 | SAHAYA ASHIK LIBU | 2,235 |
+| 87 | Nabeel Raza | 2,220 |
+| 88 | Guanyu Huo | 2,210 |
+| 89 | douquan56 | 2,186.094 |
+| 90 | Zeyuan Li | 2,150 |
+| 91 | David James | 2,145 |
+| 92 | Kapish Luhariwala | 2,140 |
+| 93 | Anshuman Sahu | 2,135 |
+| 94 | ps | 2,125 |
+| 95 | Cher Li | 2,120 |
 | 96 | Bakhodir Ashirmatov | 2,120 |
 | 97 | romil797 | 2,120 |
-| 98 | Cher Li | 2,110 |
-| 99 | Viktor Makoviichuk | 2,105 |
-| 100 | callrmshetty | 2,102.5 |
+| 98 | Viktor Makoviichuk | 2,105 |
+| 99 | callrmshetty | 2,102.5 |
+| 100 | hg1169 | 2,070 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
