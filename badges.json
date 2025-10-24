@@ -50,7 +50,7 @@
     "0af42360a3ef68e58a5b41024c4025bd": {
         "label": "No. 9 | agercas",
         "rank": "9",
-        "score": "4,820",
+        "score": "4,860",
         "username": "agercas"
     },
     "6595d07951f55074987a3a644705d87a": {
@@ -113,23 +113,23 @@
         "score": "3,840",
         "username": "Mahdi Farmahini Farahani"
     },
-    "acecc78e1ce72de9cbe20f8aa1bd392c": {
-        "label": "No. 20 | Jiongran Wang",
+    "a5178c26f86546e6dbc5b0bc3c7f8637": {
+        "label": "No. 20 | Naman Raiyani",
         "rank": "20",
+        "score": "3,755",
+        "username": "Naman Raiyani"
+    },
+    "acecc78e1ce72de9cbe20f8aa1bd392c": {
+        "label": "No. 21 | Jiongran Wang",
+        "rank": "21",
         "score": "3,755",
         "username": "Jiongran Wang"
     },
     "302bdfaad9d202ec4f3f549f270f7cd9": {
-        "label": "No. 21 | GlaDiaTor",
-        "rank": "21",
+        "label": "No. 22 | GlaDiaTor",
+        "rank": "22",
         "score": "3,735",
         "username": "GlaDiaTor"
-    },
-    "a5178c26f86546e6dbc5b0bc3c7f8637": {
-        "label": "No. 22 | Naman Raiyani",
-        "rank": "22",
-        "score": "3,715",
-        "username": "Naman Raiyani"
     },
     "b8ae93affd3e88323d92b845bf69de74": {
         "label": "No. 23 | hiddenneuron",
@@ -137,23 +137,23 @@
         "score": "3,685",
         "username": "hiddenneuron"
     },
-    "1ee22a1a5d5b97a70b6cd528ac988570": {
-        "label": "No. 24 | Siva Morgan",
+    "df792bd8cac9910317c57ddaa6a36470": {
+        "label": "No. 24 | liu hongyu",
         "rank": "24",
+        "score": "3,670",
+        "username": "liu hongyu"
+    },
+    "1ee22a1a5d5b97a70b6cd528ac988570": {
+        "label": "No. 25 | Siva Morgan",
+        "rank": "25",
         "score": "3,670",
         "username": "Siva Morgan"
     },
     "19bd568027a2ada74dbe041a914dc04a": {
-        "label": "No. 25 | trangstalbergle",
-        "rank": "25",
+        "label": "No. 26 | trangstalbergle",
+        "rank": "26",
         "score": "3,661",
         "username": "trangstalbergle"
-    },
-    "df792bd8cac9910317c57ddaa6a36470": {
-        "label": "No. 26 | liu hongyu",
-        "rank": "26",
-        "score": "3,660",
-        "username": "liu hongyu"
     },
     "d0eeb0ef1033a191cab63b15407065fc": {
         "label": "No. 27 | Jiarui Cui",
@@ -167,29 +167,29 @@
         "score": "3,550",
         "username": "shongpapa80"
     },
-    "62b2a33b91a383afd733f21d8e081e6c": {
-        "label": "No. 29 | AKASH SAMANTA",
+    "9830805fd794d3b8cbee22fe898fefb7": {
+        "label": "No. 29 | Pavel",
         "rank": "29",
+        "score": "3,450",
+        "username": "Pavel"
+    },
+    "62b2a33b91a383afd733f21d8e081e6c": {
+        "label": "No. 30 | AKASH SAMANTA",
+        "rank": "30",
         "score": "3,445",
         "username": "AKASH SAMANTA"
     },
     "2e71056725ab50c8bedccfd26465a1c2": {
-        "label": "No. 30 | Junang Li",
-        "rank": "30",
+        "label": "No. 31 | Junang Li",
+        "rank": "31",
         "score": "3,440",
         "username": "Junang Li"
     },
     "bf62d15a67b58334f4927c43de7b2b43": {
-        "label": "No. 31 | Niels van Galen Last",
-        "rank": "31",
+        "label": "No. 32 | Niels van Galen Last",
+        "rank": "32",
         "score": "3,440",
         "username": "Niels van Galen Last"
-    },
-    "9830805fd794d3b8cbee22fe898fefb7": {
-        "label": "No. 32 | Pavel",
-        "rank": "32",
-        "score": "3,375",
-        "username": "Pavel"
     },
     "7d9e00eae4cfbb44fb4c2c4a5a0e0e92": {
         "label": "No. 33 | ZhangJY",
@@ -218,7 +218,7 @@
     "36676c2be80fcce669845428b1577be9": {
         "label": "No. 37 | bandwidth",
         "rank": "37",
-        "score": "3,220",
+        "score": "3,230",
         "username": "bandwidth"
     },
     "d30802702c0d1d3cfff7abf7627290f9": {
@@ -227,22 +227,22 @@
         "score": "3,150",
         "username": "katam madhumitha"
     },
-    "d602eb9b18a94c761734e44235c77477": {
-        "label": "No. 39 | Marian Cretu",
+    "0f1869bbe9ebc878df8043b8460b5e65": {
+        "label": "No. 39 | Leon Dong",
         "rank": "39",
+        "score": "3,150",
+        "username": "Leon Dong"
+    },
+    "d602eb9b18a94c761734e44235c77477": {
+        "label": "No. 40 | Marian Cretu",
+        "rank": "40",
         "score": "3,135",
         "username": "Marian Cretu"
-    },
-    "0f1869bbe9ebc878df8043b8460b5e65": {
-        "label": "No. 40 | Leon Dong",
-        "rank": "40",
-        "score": "3,110",
-        "username": "Leon Dong"
     },
     "7386d8d63248e711e654b3bfec33dd39": {
         "label": "No. 41 | Salim Beyden",
         "rank": "41",
-        "score": "3,093.5",
+        "score": "3,133.5",
         "username": "Salim Beyden"
     },
     "b5495c071a8a7d8d70e57e5fb6087afd": {
@@ -332,38 +332,38 @@
     "ab00124a778fa26a75c3b2a78189222d": {
         "label": "No. 57 | tanghaibao",
         "rank": "57",
-        "score": "2,635",
+        "score": "2,645",
         "username": "tanghaibao"
     },
-    "511cd3f4651a2ee006a0362d783719a5": {
-        "label": "No. 58 | Maksim Nikolin",
+    "f90a22965a8549ab9e6829ea2d048e2e": {
+        "label": "No. 58 | Shivanirudh",
         "rank": "58",
+        "score": "2,616.425",
+        "username": "Shivanirudh"
+    },
+    "79f0bbf6b1a3415e0cfd8ae2f9d4b01b": {
+        "label": "No. 59 | Xiaohua Du",
+        "rank": "59",
+        "score": "2,610",
+        "username": "Xiaohua Du"
+    },
+    "511cd3f4651a2ee006a0362d783719a5": {
+        "label": "No. 60 | Maksim Nikolin",
+        "rank": "60",
         "score": "2,598",
         "username": "Maksim Nikolin"
     },
     "832754bb6a9015e4337076302f333677": {
-        "label": "No. 59 | Duc Nguyen",
-        "rank": "59",
+        "label": "No. 61 | Duc Nguyen",
+        "rank": "61",
         "score": "2,595",
         "username": "Duc Nguyen"
     },
     "80185f4087ba0ef6c4c4b6d59679792f": {
-        "label": "No. 60 | soumit saha",
-        "rank": "60",
+        "label": "No. 62 | soumit saha",
+        "rank": "62",
         "score": "2,595",
         "username": "soumit saha"
-    },
-    "f90a22965a8549ab9e6829ea2d048e2e": {
-        "label": "No. 61 | Shivanirudh",
-        "rank": "61",
-        "score": "2,576.425",
-        "username": "Shivanirudh"
-    },
-    "79f0bbf6b1a3415e0cfd8ae2f9d4b01b": {
-        "label": "No. 62 | Xiaohua Du",
-        "rank": "62",
-        "score": "2,570",
-        "username": "Xiaohua Du"
     },
     "6bd554626494d4da5c9b21ff1916885f": {
         "label": "No. 63 | Aman Rangapur",
@@ -551,17 +551,17 @@
         "score": "2,135",
         "username": "Anshuman Sahu"
     },
-    "8812c36aa5ae336c2a77bf63211d899a": {
-        "label": "No. 94 | ps",
+    "b7df7bbc64195527e3237f9903646440": {
+        "label": "No. 94 | Cher Li",
         "rank": "94",
+        "score": "2,130",
+        "username": "Cher Li"
+    },
+    "8812c36aa5ae336c2a77bf63211d899a": {
+        "label": "No. 95 | ps",
+        "rank": "95",
         "score": "2,125",
         "username": "ps"
-    },
-    "b7df7bbc64195527e3237f9903646440": {
-        "label": "No. 95 | Cher Li",
-        "rank": "95",
-        "score": "2,120",
-        "username": "Cher Li"
     },
     "3eca5f8d9974cd94beeb54f3a8cfa03b": {
         "label": "No. 96 | Bakhodir Ashirmatov",
