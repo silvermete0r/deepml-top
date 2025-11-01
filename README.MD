@@ -61,8 +61,8 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 38 | Breeze Chen | 3,280 |
 | 39 | Leon Dong | 3,270 |
 | 40 | Lea Wron | 3,245 |
-| 41 | Youshaa Murhij | 3,215 |
-| 42 | Salim Beyden | 3,188.5 |
+| 41 | Salim Beyden | 3,228.5 |
+| 42 | Youshaa Murhij | 3,215 |
 | 43 | Nihal Jaiswal | 3,180 |
 | 44 | Marian Cretu | 3,135 |
 | 45 | mavleo96 | 3,005 |
@@ -71,13 +71,13 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 48 | 1nkik H | 2,890.525 |
 | 49 | nick.volynets | 2,855 |
 | 50 | Kuat Kurpenov | 2,845 |
-| 51 | SantaClaus | 2,825 |
-| 52 | 747893812 | 2,795 |
-| 53 | Shivanirudh | 2,791.425 |
-| 54 | antonoof | 2,780 |
-| 55 | tanghaibao | 2,775 |
-| 56 | Xiaohua Du | 2,770 |
-| 57 | Матвей Чудаков | 2,765 |
+| 51 | Матвей Чудаков | 2,840 |
+| 52 | SantaClaus | 2,825 |
+| 53 | 747893812 | 2,795 |
+| 54 | Shivanirudh | 2,791.425 |
+| 55 | antonoof | 2,780 |
+| 56 | tanghaibao | 2,775 |
+| 57 | Xiaohua Du | 2,770 |
 | 58 | NGUYEN PHUNG BAO HUY | 2,750 |
 | 59 | Prem Laknaboina | 2,705 |
 | 60 | Duc Nguyen | 2,685 |
@@ -97,7 +97,7 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 74 | Tushar aggarwal | 2,385 |
 | 75 | Allen Liu | 2,380 |
 | 76 | Xiao Lei Zhang | 2,350.5 |
-| 77 | Cher Li | 2,340 |
+| 77 | Cher Li | 2,350 |
 | 78 | pyry.ruotsalainen | 2,334 |
 | 79 | Shi-Wei Zhou | 2,325 |
 | 80 | atoms-iambics.4i | 2,265 |
@@ -109,10 +109,10 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 86 | Sudheesh Singanamalla | 2,245 |
 | 87 | Nabeel Raza | 2,220 |
 | 88 | Guanyu Huo | 2,210 |
-| 89 | douquan56 | 2,186.094 |
-| 90 | Garrett Kirk | 2,175 |
-| 91 | Zeyuan Li | 2,150 |
-| 92 | yq lin | 2,150 |
+| 89 | yq lin | 2,200 |
+| 90 | douquan56 | 2,186.094 |
+| 91 | Garrett Kirk | 2,185 |
+| 92 | Zeyuan Li | 2,150 |
 | 93 | David James | 2,145 |
 | 94 | Kapish Luhariwala | 2,140 |
 | 95 | Anshuman Sahu | 2,135 |
