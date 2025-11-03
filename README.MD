@@ -48,7 +48,7 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 25 | liu hongyu | 3,670 |
 | 26 | Siva Morgan | 3,670 |
 | 27 | trangstalbergle | 3,661 |
-| 28 | AKASH SAMANTA | 3,635 |
+| 28 | AKASH SAMANTA | 3,660 |
 | 29 | Jiarui Cui | 3,575 |
 | 30 | shongpapa80 | 3,550 |
 | 31 | Junang Li | 3,440 |
@@ -69,13 +69,13 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 46 | 张子轩 | 2,985 |
 | 47 | Emanuel-Florin Ciobotea | 2,955 |
 | 48 | 1nkik H | 2,890.525 |
-| 49 | nick.volynets | 2,855 |
-| 50 | Kuat Kurpenov | 2,845 |
-| 51 | Матвей Чудаков | 2,840 |
-| 52 | Shivanirudh | 2,831.425 |
-| 53 | SantaClaus | 2,825 |
-| 54 | tanghaibao | 2,815 |
-| 55 | Xiaohua Du | 2,810 |
+| 49 | Shivanirudh | 2,886.425 |
+| 50 | nick.volynets | 2,855 |
+| 51 | Xiaohua Du | 2,850 |
+| 52 | Kuat Kurpenov | 2,845 |
+| 53 | Матвей Чудаков | 2,840 |
+| 54 | SantaClaus | 2,825 |
+| 55 | tanghaibao | 2,815 |
 | 56 | 747893812 | 2,795 |
 | 57 | antonoof | 2,780 |
 | 58 | NGUYEN PHUNG BAO HUY | 2,750 |
@@ -96,7 +96,7 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 73 | Дмитрий | 2,400 |
 | 74 | Tushar aggarwal | 2,385 |
 | 75 | Allen Liu | 2,380 |
-| 76 | Cher Li | 2,360 |
+| 76 | Cher Li | 2,370 |
 | 77 | Xiao Lei Zhang | 2,350.5 |
 | 78 | yq lin | 2,335 |
 | 79 | pyry.ruotsalainen | 2,334 |
@@ -115,12 +115,12 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 92 | Zeyuan Li | 2,150 |
 | 93 | David James | 2,145 |
 | 94 | Kapish Luhariwala | 2,140 |
-| 95 | Anshuman Sahu | 2,135 |
-| 96 | ps | 2,125 |
-| 97 | Bakhodir Ashirmatov | 2,120 |
-| 98 | romil797 | 2,120 |
-| 99 | Preethu A K | 2,110 |
-| 100 | callrmshetty | 2,102.5 |
+| 95 | Lance | 2,136.5 |
+| 96 | Anshuman Sahu | 2,135 |
+| 97 | Preethu A K | 2,130 |
+| 98 | ps | 2,125 |
+| 99 | Bakhodir Ashirmatov | 2,120 |
+| 100 | romil797 | 2,120 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
