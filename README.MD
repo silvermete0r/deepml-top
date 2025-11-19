@@ -26,32 +26,32 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 3 | antonoof | 6,200 |
 | 4 | Alexander Krylov | 5,705 |
 | 5 | Marco Cheng | 5,475 |
-| 6 | Алексей Панарин | 5,440 |
+| 6 | Алексей Панарин | 5,450 |
 | 7 | Python | 5,425 |
 | 8 | DhanushKumar .R | 5,385 |
-| 9 | agercas | 5,260 |
+| 9 | agercas | 5,295 |
 | 10 | StoatScript | 4,920 |
-| 11 | ajay gangwar | 4,860 |
-| 12 | katelyng3 | 4,595 |
-| 13 | ARINJAY WYAWHARE | 4,370 |
+| 11 | ajay gangwar | 4,915 |
+| 12 | ARINJAY WYAWHARE | 4,645 |
+| 13 | katelyng3 | 4,595 |
 | 14 | Wulin | 4,350 |
 | 15 | Pavel | 4,305 |
 | 16 | Max | 4,245 |
 | 17 | Anh Tú Ngô | 4,060 |
-| 18 | Naman Raiyani | 3,990 |
-| 19 | N R | 3,990 |
-| 20 | Stone S | 3,960 |
-| 21 | GlaDiaTor | 3,940 |
-| 22 | liu hongyu | 3,915 |
+| 18 | liu hongyu | 4,015 |
+| 19 | Naman Raiyani | 3,990 |
+| 20 | N R | 3,990 |
+| 21 | Stone S | 3,960 |
+| 22 | GlaDiaTor | 3,940 |
 | 23 | Lado Turmanidze (Stochastic Batman) | 3,885 |
-| 24 | Mahdi Farmahini Farahani | 3,840 |
-| 25 | katam madhumitha | 3,820 |
+| 24 | katam madhumitha | 3,860 |
+| 25 | Mahdi Farmahini Farahani | 3,840 |
 | 26 | Jiongran Wang | 3,755 |
-| 27 | hiddenneuron | 3,685 |
-| 28 | AKASH SAMANTA | 3,685 |
-| 29 | Siva Morgan | 3,670 |
-| 30 | trangstalbergle | 3,661 |
-| 31 | Bala Baskar | 3,655 |
+| 27 | Bala Baskar | 3,710 |
+| 28 | hiddenneuron | 3,685 |
+| 29 | AKASH SAMANTA | 3,685 |
+| 30 | Siva Morgan | 3,670 |
+| 31 | trangstalbergle | 3,661 |
 | 32 | Salim Beyden | 3,608.5 |
 | 33 | Jiarui Cui | 3,575 |
 | 34 | shongpapa80 | 3,550 |
@@ -62,13 +62,13 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 39 | automorphing | 3,370 |
 | 40 | Leon Dong | 3,360 |
 | 41 | ZhangJY | 3,350 |
-| 42 | Shivanirudh | 3,306.425 |
+| 42 | Shivanirudh | 3,331.425 |
 | 43 | Marian Cretu | 3,295 |
 | 44 | caesar | 3,290 |
 | 45 | Breeze Chen | 3,280 |
 | 46 | Xiaohua Du | 3,250 |
 | 47 | Lea Wron | 3,245 |
-| 48 | Матвей Чудаков | 3,060 |
+| 48 | Матвей Чудаков | 3,120 |
 | 49 | mavleo96 | 3,005 |
 | 50 | 张子轩 | 2,985 |
 | 51 | tanghaibao | 2,965 |
@@ -80,42 +80,42 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 57 | SantaClaus | 2,825 |
 | 58 | yq lin | 2,785 |
 | 59 | antonoof | 2,780 |
-| 60 | Duc Nguyen | 2,750 |
-| 61 | NGUYEN PHUNG BAO HUY | 2,750 |
-| 62 | Lance | 2,711.5 |
-| 63 | Cher Li | 2,705 |
+| 60 | Cher Li | 2,755 |
+| 61 | Duc Nguyen | 2,750 |
+| 62 | NGUYEN PHUNG BAO HUY | 2,750 |
+| 63 | Lance | 2,711.5 |
 | 64 | Prem Laknaboina | 2,705 |
 | 65 | soumit saha | 2,595 |
 | 66 | Aman Rangapur | 2,555 |
-| 67 | anian.ruoss | 2,526.5 |
-| 68 | Xiao Lei Zhang | 2,520.5 |
+| 67 | Xiao Lei Zhang | 2,545.5 |
+| 68 | anian.ruoss | 2,526.5 |
 | 69 | jwu456789 | 2,520 |
 | 70 | Haolun Zhang | 2,510 |
 | 71 | yd.nan | 2,507.8 |
 | 72 | Nikita Bekasov | 2,505 |
 | 73 | Preethu A K | 2,495 |
-| 74 | ravivarma patturi | 2,460 |
-| 75 | Linxuan XIE | 2,445 |
-| 76 | Yousef Abdelhady | 2,445 |
-| 77 | Maxim Balabanski | 2,440 |
-| 78 | Mythri Shivakumar | 2,420 |
-| 79 | 1773703527 | 2,412 |
-| 80 | Дмитрий | 2,400 |
-| 81 | Viktor Makoviichuk | 2,395 |
-| 82 | Tushar aggarwal | 2,385 |
-| 83 | Allen Liu | 2,380 |
-| 84 | Vick Mahase | 2,379.407 |
-| 85 | pyry.ruotsalainen | 2,334 |
-| 86 | Mehdi Iranmanesh | 2,325 |
-| 87 | Neil Yang | 2,315 |
+| 74 | Vick Mahase | 2,479.407 |
+| 75 | ravivarma patturi | 2,460 |
+| 76 | Linxuan XIE | 2,445 |
+| 77 | Yousef Abdelhady | 2,445 |
+| 78 | Maxim Balabanski | 2,440 |
+| 79 | Viktor Makoviichuk | 2,435 |
+| 80 | Mythri Shivakumar | 2,420 |
+| 81 | 1773703527 | 2,412 |
+| 82 | Дмитрий | 2,400 |
+| 83 | Tushar aggarwal | 2,385 |
+| 84 | Allen Liu | 2,380 |
+| 85 | Neil Yang | 2,340 |
+| 86 | pyry.ruotsalainen | 2,334 |
+| 87 | Mehdi Iranmanesh | 2,325 |
 | 88 | lorenfiorini | 2,265 |
 | 89 | atoms-iambics.4i | 2,265 |
 | 90 | Márcio Pereira | 2,265 |
 | 91 | Stephen zhao | 2,255 |
-| 92 | kyuriosity | 2,250 |
-| 93 | Xin Yang | 2,250 |
-| 94 | Sudheesh Singanamalla | 2,245 |
-| 95 | Garrett Kirk | 2,225 |
+| 92 | Piotr Makarevich | 2,255 |
+| 93 | kyuriosity | 2,250 |
+| 94 | Xin Yang | 2,250 |
+| 95 | Sudheesh Singanamalla | 2,245 |
 | 96 | Nabeel Raza | 2,220 |
 | 97 | Guanyu Huo | 2,210 |
 | 98 | douquan56 | 2,186.094 |
