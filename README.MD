@@ -21,30 +21,30 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 <!-- LEADERBOARD_START -->
 | Rank | Username | Score |
 |------|---------|-------|
-| 1 | Patt | 7,245 |
-| 2 | antonoof | 6,840 |
-| 3 | Алексей Панарин | 6,525 |
+| 1 | Patt | 7,275 |
+| 2 | antonoof | 6,870 |
+| 3 | Алексей Панарин | 6,605 |
 | 4 | mr. Arman (梦想) | 6,305 |
-| 5 | DhanushKumar .R | 6,230 |
-| 6 | Alexander Krylov | 6,220 |
-| 7 | agercas | 6,010 |
+| 5 | Alexander Krylov | 6,250 |
+| 6 | DhanushKumar .R | 6,230 |
+| 7 | agercas | 6,050 |
 | 8 | Marco Cheng | 5,475 |
 | 9 | Python | 5,425 |
-| 10 | Nikita Bekasov | 5,245 |
+| 10 | Nikita Bekasov | 5,400 |
 | 11 | ajay gangwar | 5,110 |
 | 12 | StoatScript | 4,920 |
-| 13 | katelyng3 | 4,780 |
-| 14 | Bala Baskar | 4,665 |
-| 15 | ARINJAY WYAWHARE | 4,645 |
-| 16 | liu hongyu | 4,550 |
-| 17 | katam madhumitha | 4,490 |
-| 18 | Андрей Глинский | 4,440 |
-| 19 | Wulin | 4,360 |
+| 13 | Bala Baskar | 4,665 |
+| 14 | ARINJAY WYAWHARE | 4,645 |
+| 15 | liu hongyu | 4,550 |
+| 16 | katam madhumitha | 4,530 |
+| 17 | Андрей Глинский | 4,440 |
+| 18 | Wulin | 4,360 |
+| 19 | Salim Beyden | 4,343.5 |
 | 20 | Pavel | 4,305 |
-| 21 | Salim Beyden | 4,303.5 |
+| 21 | katelyng3 | 4,302 |
 | 22 | GlaDiaTor | 4,250 |
 | 23 | Max | 4,245 |
-| 24 | Xiaohua Du | 4,185 |
+| 24 | Xiaohua Du | 4,240 |
 | 25 | Naman Raiyani | 4,120 |
 | 26 | Shivanirudh | 4,081.425 |
 | 27 | N R | 3,990 |
@@ -61,32 +61,32 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 38 | trangstalbergle | 3,661 |
 | 39 | Jiarui Cui | 3,575 |
 | 40 | shongpapa80 | 3,550 |
-| 41 | bandwidth | 3,445 |
-| 42 | Junang Li | 3,440 |
-| 43 | Niels van Galen Last | 3,440 |
-| 44 | Lance | 3,436.5 |
-| 45 | yq lin | 3,410 |
-| 46 | Матвей Чудаков | 3,375 |
+| 41 | Матвей Чудаков | 3,480 |
+| 42 | Lance | 3,466.5 |
+| 43 | bandwidth | 3,445 |
+| 44 | Junang Li | 3,440 |
+| 45 | yq lin | 3,440 |
+| 46 | Niels van Galen Last | 3,440 |
 | 47 | Leon Dong | 3,360 |
 | 48 | ZhangJY | 3,350 |
 | 49 | ThorK | 3,300 |
 | 50 | Marian Cretu | 3,295 |
 | 51 | Breeze Chen | 3,280 |
 | 52 | Lea Wron | 3,245 |
-| 53 | Aditya KA | 3,201.87 |
-| 54 | Cher Li | 3,185 |
-| 55 | mavleo96 | 3,005 |
-| 56 | Soham Deshmukh | 3,000 |
-| 57 | Vick Mahase | 2,999.407 |
-| 58 | 张子轩 | 2,985 |
-| 59 | 1nkik H | 2,980.525 |
-| 60 | tanghaibao | 2,965 |
-| 61 | Emanuel-Florin Ciobotea | 2,955 |
-| 62 | Duc Nguyen | 2,945 |
-| 63 | nick.volynets | 2,855 |
-| 64 | Kuat Kurpenov | 2,845 |
-| 65 | SantaClaus | 2,825 |
-| 66 | Huw Day | 2,795 |
+| 53 | Cher Li | 3,210 |
+| 54 | Aditya KA | 3,201.87 |
+| 55 | Vick Mahase | 3,104.407 |
+| 56 | Duc Nguyen | 3,055 |
+| 57 | mavleo96 | 3,005 |
+| 58 | Soham Deshmukh | 3,000 |
+| 59 | 张子轩 | 2,985 |
+| 60 | 1nkik H | 2,980.525 |
+| 61 | tanghaibao | 2,965 |
+| 62 | Emanuel-Florin Ciobotea | 2,955 |
+| 63 | Huw Day | 2,875 |
+| 64 | nick.volynets | 2,855 |
+| 65 | Kuat Kurpenov | 2,845 |
+| 66 | SantaClaus | 2,825 |
 | 67 | Yousef Abdelhady | 2,795 |
 | 68 | antonoof | 2,780 |
 | 69 | NGUYEN PHUNG BAO HUY | 2,750 |
@@ -94,8 +94,8 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 71 | Xiao Lei Zhang | 2,690.5 |
 | 72 | Neil Yang | 2,640 |
 | 73 | soumit saha | 2,595 |
-| 74 | Maxim Balabanski | 2,540 |
-| 75 | lorenfiorini | 2,535 |
+| 74 | lorenfiorini | 2,565 |
+| 75 | Maxim Balabanski | 2,540 |
 | 76 | anian.ruoss | 2,526.5 |
 | 77 | jwu456789 | 2,520 |
 | 78 | Haolun Zhang | 2,510 |
@@ -119,8 +119,8 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 96 | Stephen zhao | 2,255 |
 | 97 | kyuriosity | 2,250 |
 | 98 | Xin Yang | 2,250 |
-| 99 | Nabeel Raza | 2,220 |
-| 100 | Guanyu Huo | 2,210 |
+| 99 | 神价位 | 2,240 |
+| 100 | Nabeel Raza | 2,220 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
