@@ -22,12 +22,12 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | Rank | Username | Score |
 |------|---------|-------|
 | 1 | Patt | 7,315 |
-| 2 | antonoof | 6,940 |
-| 3 | Алексей Панарин | 6,700 |
-| 4 | Alexander Krylov | 6,360 |
-| 5 | DhanushKumar .R | 6,340 |
-| 6 | mr. Arman (梦想) | 6,305 |
-| 7 | agercas | 6,170 |
+| 2 | antonoof | 6,970 |
+| 3 | Алексей Панарин | 6,755 |
+| 4 | Alexander Krylov | 6,390 |
+| 5 | mr. Arman (梦想) | 6,360 |
+| 6 | DhanushKumar .R | 6,340 |
+| 7 | agercas | 6,200 |
 | 8 | Marco Cheng | 5,475 |
 | 9 | Nikita Bekasov | 5,425 |
 | 10 | Python | 5,425 |
@@ -39,32 +39,32 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 16 | katam madhumitha | 4,530 |
 | 17 | Андрей Глинский | 4,440 |
 | 18 | Salim Beyden | 4,398.5 |
-| 19 | Wulin | 4,360 |
-| 20 | Xiaohua Du | 4,335 |
+| 19 | Xiaohua Du | 4,375 |
+| 20 | Wulin | 4,360 |
 | 21 | Pavel | 4,305 |
 | 22 | katelyng3 | 4,302 |
 | 23 | GlaDiaTor | 4,250 |
 | 24 | Max | 4,245 |
-| 25 | Shivanirudh | 4,161.425 |
+| 25 | Shivanirudh | 4,201.425 |
 | 26 | Naman Raiyani | 4,120 |
 | 27 | N R | 3,990 |
 | 28 | Stone S | 3,960 |
 | 29 | Youshaa Murhij | 3,930 |
 | 30 | Lado Turmanidze (Stochastic Batman) | 3,885 |
 | 31 | Mahdi Farmahini Farahani | 3,840 |
-| 32 | Xinyu Li | 3,823.781 |
-| 33 | Nihal Jaiswal | 3,765 |
-| 34 | Jiongran Wang | 3,755 |
-| 35 | AKASH SAMANTA | 3,695 |
-| 36 | hiddenneuron | 3,685 |
-| 37 | Siva Morgan | 3,670 |
-| 38 | trangstalbergle | 3,661 |
-| 39 | Матвей Чудаков | 3,580 |
-| 40 | Jiarui Cui | 3,575 |
-| 41 | shongpapa80 | 3,550 |
-| 42 | yq lin | 3,500 |
-| 43 | Lance | 3,496.5 |
-| 44 | bandwidth | 3,485 |
+| 32 | Nihal Jaiswal | 3,765 |
+| 33 | Jiongran Wang | 3,755 |
+| 34 | AKASH SAMANTA | 3,705 |
+| 35 | hiddenneuron | 3,685 |
+| 36 | Siva Morgan | 3,670 |
+| 37 | trangstalbergle | 3,661 |
+| 38 | Матвей Чудаков | 3,580 |
+| 39 | Jiarui Cui | 3,575 |
+| 40 | shongpapa80 | 3,550 |
+| 41 | yq lin | 3,530 |
+| 42 | Lance | 3,526.5 |
+| 43 | bandwidth | 3,485 |
+| 44 | Xinyu Li | 3,441 |
 | 45 | Junang Li | 3,440 |
 | 46 | Niels van Galen Last | 3,440 |
 | 47 | Leon Dong | 3,360 |
@@ -73,14 +73,14 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 50 | ThorK | 3,300 |
 | 51 | Marian Cretu | 3,295 |
 | 52 | Breeze Chen | 3,280 |
-| 53 | Lea Wron | 3,245 |
-| 54 | Cher Li | 3,230 |
+| 53 | Cher Li | 3,255 |
+| 54 | Lea Wron | 3,245 |
 | 55 | Aditya KA | 3,201.87 |
 | 56 | Duc Nguyen | 3,195 |
-| 57 | 1nkik H | 3,020.525 |
-| 58 | mavleo96 | 3,005 |
-| 59 | Soham Deshmukh | 3,000 |
-| 60 | Huw Day | 2,995 |
+| 57 | Huw Day | 3,050 |
+| 58 | 1nkik H | 3,020.525 |
+| 59 | mavleo96 | 3,005 |
+| 60 | Soham Deshmukh | 3,000 |
 | 61 | 张子轩 | 2,985 |
 | 62 | tanghaibao | 2,965 |
 | 63 | Emanuel-Florin Ciobotea | 2,955 |
@@ -92,8 +92,8 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 69 | NGUYEN PHUNG BAO HUY | 2,750 |
 | 70 | Prem Laknaboina | 2,705 |
 | 71 | Xiao Lei Zhang | 2,690.5 |
-| 72 | Neil Yang | 2,640 |
-| 73 | lorenfiorini | 2,635 |
+| 72 | lorenfiorini | 2,665 |
+| 73 | Neil Yang | 2,640 |
 | 74 | soumit saha | 2,595 |
 | 75 | Maxim Balabanski | 2,540 |
 | 76 | anian.ruoss | 2,526.5 |
