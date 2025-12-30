@@ -21,22 +21,22 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 <!-- LEADERBOARD_START -->
 | Rank | Username | Score |
 |------|---------|-------|
-| 1 | Patt | 7,910 |
+| 1 | Patt | 7,950 |
 | 2 | antonoof | 7,780 |
-| 3 | Александр Крылов | 7,380 |
-| 4 | Алексей Панарин | 7,330 |
-| 5 | agercas | 6,945 |
+| 3 | Александр Крылов | 7,420 |
+| 4 | Алексей Панарин | 7,395 |
+| 5 | agercas | 7,020 |
 | 6 | DhanushKumar .R | 6,885 |
-| 7 | arman | 6,725 |
+| 7 | arman | 6,765 |
 | 8 | Nikita Bekasov | 6,470 |
 | 9 | Andy Li | 6,185 |
-| 10 | liu hongyu | 5,825 |
+| 10 | liu hongyu | 5,980 |
 | 11 | Marco Cheng | 5,475 |
 | 12 | Python | 5,425 |
 | 13 | ajay gangwar | 5,110 |
-| 14 | Shivanirudh | 5,016.425 |
+| 14 | Shivanirudh | 5,056.425 |
 | 15 | StoatScript | 4,920 |
-| 16 | Salim Beyden | 4,778.5 |
+| 16 | Salim Beyden | 4,818.5 |
 | 17 | Bala Baskar | 4,705 |
 | 18 | GlaDiaTor | 4,655 |
 | 19 | katelyng3 | 4,652 |
@@ -44,14 +44,14 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 21 | Xiaohua Du | 4,630 |
 | 22 | Андрей Глинский | 4,440 |
 | 23 | Nihal Jaiswal | 4,415 |
-| 24 | Wulin | 4,360 |
-| 25 | Youshaa Murhij | 4,315 |
+| 24 | Asura | 4,360 |
+| 25 | Youshaa Murhij | 4,355 |
 | 26 | Pavel | 4,305 |
-| 27 | Max | 4,245 |
-| 28 | Stone S | 4,140 |
-| 29 | Vick Mahase | 4,124.407 |
-| 30 | Naman Raiyani | 4,120 |
-| 31 | yq lin | 4,120 |
+| 27 | Vick Mahase | 4,259.407 |
+| 28 | Max | 4,245 |
+| 29 | yq lin | 4,160 |
+| 30 | Stone S | 4,140 |
+| 31 | Naman Raiyani | 4,120 |
 | 32 | Lance | 3,991.5 |
 | 33 | N R | 3,990 |
 | 34 | Lado Turmanidze (Stochastic Batman) | 3,885 |
@@ -61,11 +61,11 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 38 | katam madhumitha | 3,709.3 |
 | 39 | AKASH SAMANTA | 3,705 |
 | 40 | hiddenneuron | 3,685 |
-| 41 | Siva Morgan | 3,670 |
-| 42 | trangstalbergle | 3,661 |
-| 43 | Jiarui Cui | 3,625 |
+| 41 | Jiarui Cui | 3,675 |
+| 42 | Siva Morgan | 3,670 |
+| 43 | trangstalbergle | 3,661 |
 | 44 | ThorK | 3,620 |
-| 45 | Cher Li | 3,580 |
+| 45 | Cher Li | 3,605 |
 | 46 | Матвей Чудаков | 3,580 |
 | 47 | shongpapa80 | 3,550 |
 | 48 | Aditya KA | 3,516.87 |
@@ -78,15 +78,15 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 55 | Marian Cretu | 3,295 |
 | 56 | Breeze Chen | 3,280 |
 | 57 | Lea Wron | 3,245 |
-| 58 | Duc Nguyen | 3,195 |
-| 59 | lorenfiorini | 3,160 |
-| 60 | Lucas F | 3,160 |
+| 58 | lorenfiorini | 3,200 |
+| 59 | Lucas F | 3,200 |
+| 60 | Duc Nguyen | 3,195 |
 | 61 | 1nkik H | 3,020.525 |
 | 62 | Soham Deshmukh | 3,000 |
-| 63 | 张子轩 | 2,985 |
-| 64 | tanghaibao | 2,965 |
-| 65 | Emanuel-Florin Ciobotea | 2,955 |
-| 66 | 神价位 | 2,955 |
+| 63 | 神价位 | 2,995 |
+| 64 | 张子轩 | 2,985 |
+| 65 | tanghaibao | 2,965 |
+| 66 | Emanuel-Florin Ciobotea | 2,955 |
 | 67 | nick.volynets | 2,855 |
 | 68 | Kuat Kurpenov | 2,845 |
 | 69 | mcbridedmason | 2,837 |
@@ -94,30 +94,30 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 71 | Yousef Abdelhady | 2,795 |
 | 72 | antonoof | 2,780 |
 | 73 | NGUYEN PHUNG BAO HUY | 2,750 |
-| 74 | Prem Laknaboina | 2,705 |
-| 75 | Aditya Majumdar | 2,695.821 |
+| 74 | Aditya Majumdar | 2,735.821 |
+| 75 | Prem Laknaboina | 2,705 |
 | 76 | Neil Yang | 2,640 |
-| 77 | alfonso.m.hernandez | 2,600 |
-| 78 | soumit saha | 2,595 |
-| 79 | Xiao Lei Zhang | 2,591 |
+| 77 | alfonso.m.hernandez | 2,640 |
+| 78 | Xiao Lei Zhang | 2,611 |
+| 79 | soumit saha | 2,595 |
 | 80 | anian.ruoss | 2,526.5 |
-| 81 | jwu456789 | 2,520 |
-| 82 | Haolun Zhang | 2,510 |
-| 83 | jun pan | 2,480 |
-| 84 | gokulmk12 | 2,480 |
+| 81 | gokulmk12 | 2,520 |
+| 82 | jwu456789 | 2,520 |
+| 83 | Haolun Zhang | 2,510 |
+| 84 | jun pan | 2,480 |
 | 85 | ravivarma patturi | 2,460 |
 | 86 | Linxuan XIE | 2,445 |
 | 87 | Mikael Nurminen | 2,438 |
 | 88 | Mehdi Iranmanesh | 2,435 |
-| 89 | Viktor Makoviichuk | 2,427 |
-| 90 | Mythri Shivakumar | 2,420 |
-| 91 | 1773703527 | 2,412 |
-| 92 | Дмитрий | 2,400 |
-| 93 | Tushar aggarwal | 2,385 |
-| 94 | andreavidals | 2,385 |
-| 95 | Allen Liu | 2,380 |
-| 96 | Maxim Sitnikov | 2,370 |
-| 97 | Rocky | 2,305 |
+| 89 | Rocky | 2,430 |
+| 90 | Viktor Makoviichuk | 2,427 |
+| 91 | Mythri Shivakumar | 2,420 |
+| 92 | 1773703527 | 2,412 |
+| 93 | Дмитрий | 2,400 |
+| 94 | Tushar aggarwal | 2,385 |
+| 95 | andreavidals | 2,385 |
+| 96 | Allen Liu | 2,380 |
+| 97 | Maxim Sitnikov | 2,370 |
 | 98 | Garrett Kirk | 2,282.5 |
 | 99 | atoms-iambics.4i | 2,265 |
 | 100 | Márcio Pereira | 2,265 |
