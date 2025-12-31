@@ -21,42 +21,42 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 <!-- LEADERBOARD_START -->
 | Rank | Username | Score |
 |------|---------|-------|
-| 1 | Patt | 7,950 |
+| 1 | Patt | 8,005 |
 | 2 | antonoof | 7,780 |
-| 3 | Александр Крылов | 7,420 |
-| 4 | Алексей Панарин | 7,395 |
-| 5 | agercas | 7,020 |
+| 3 | Александр Крылов | 7,450 |
+| 4 | Алексей Панарин | 7,450 |
+| 5 | agercas | 7,060 |
 | 6 | DhanushKumar .R | 6,885 |
-| 7 | arman | 6,765 |
+| 7 | arman | 6,820 |
 | 8 | Nikita Bekasov | 6,470 |
 | 9 | Andy Li | 6,185 |
-| 10 | liu hongyu | 5,980 |
+| 10 | liu hongyu | 6,185 |
 | 11 | Marco Cheng | 5,475 |
 | 12 | Python | 5,425 |
 | 13 | ajay gangwar | 5,110 |
-| 14 | Shivanirudh | 5,056.425 |
+| 14 | Shivanirudh | 5,096.425 |
 | 15 | StoatScript | 4,920 |
-| 16 | Salim Beyden | 4,818.5 |
+| 16 | Salim Beyden | 4,873.5 |
 | 17 | Bala Baskar | 4,705 |
-| 18 | GlaDiaTor | 4,655 |
-| 19 | katelyng3 | 4,652 |
+| 18 | katelyng3 | 4,692 |
+| 19 | GlaDiaTor | 4,655 |
 | 20 | ARINJAY WYAWHARE | 4,645 |
 | 21 | Xiaohua Du | 4,630 |
-| 22 | Андрей Глинский | 4,440 |
-| 23 | Nihal Jaiswal | 4,415 |
-| 24 | Asura | 4,360 |
-| 25 | Youshaa Murhij | 4,355 |
-| 26 | Pavel | 4,305 |
-| 27 | Vick Mahase | 4,259.407 |
+| 22 | Vick Mahase | 4,514.407 |
+| 23 | Андрей Глинский | 4,440 |
+| 24 | Nihal Jaiswal | 4,415 |
+| 25 | Youshaa Murhij | 4,385 |
+| 26 | Asura | 4,360 |
+| 27 | Pavel | 4,305 |
 | 28 | Max | 4,245 |
-| 29 | yq lin | 4,160 |
+| 29 | yq lin | 4,190 |
 | 30 | Stone S | 4,140 |
 | 31 | Naman Raiyani | 4,120 |
-| 32 | Lance | 3,991.5 |
+| 32 | Lance | 4,021.5 |
 | 33 | N R | 3,990 |
 | 34 | Lado Turmanidze (Stochastic Batman) | 3,885 |
-| 35 | Mahdi Farmahini Farahani | 3,840 |
-| 36 | automorphing | 3,835 |
+| 35 | bandwidth | 3,875 |
+| 36 | Mahdi Farmahini Farahani | 3,840 |
 | 37 | Jiongran Wang | 3,755 |
 | 38 | katam madhumitha | 3,709.3 |
 | 39 | AKASH SAMANTA | 3,705 |
@@ -64,8 +64,8 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 41 | Jiarui Cui | 3,675 |
 | 42 | Siva Morgan | 3,670 |
 | 43 | trangstalbergle | 3,661 |
-| 44 | ThorK | 3,620 |
-| 45 | Cher Li | 3,605 |
+| 44 | Cher Li | 3,630 |
+| 45 | ThorK | 3,620 |
 | 46 | Матвей Чудаков | 3,580 |
 | 47 | shongpapa80 | 3,550 |
 | 48 | Aditya KA | 3,516.87 |
@@ -78,49 +78,49 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 55 | Marian Cretu | 3,295 |
 | 56 | Breeze Chen | 3,280 |
 | 57 | Lea Wron | 3,245 |
-| 58 | lorenfiorini | 3,200 |
-| 59 | Lucas F | 3,200 |
+| 58 | Lucas F | 3,240 |
+| 59 | lorenfiorini | 3,230 |
 | 60 | Duc Nguyen | 3,195 |
-| 61 | 1nkik H | 3,020.525 |
-| 62 | Soham Deshmukh | 3,000 |
-| 63 | 神价位 | 2,995 |
-| 64 | 张子轩 | 2,985 |
-| 65 | tanghaibao | 2,965 |
-| 66 | Emanuel-Florin Ciobotea | 2,955 |
-| 67 | nick.volynets | 2,855 |
-| 68 | Kuat Kurpenov | 2,845 |
-| 69 | mcbridedmason | 2,837 |
+| 61 | mcbridedmason | 3,047 |
+| 62 | 神价位 | 3,035 |
+| 63 | 1nkik H | 3,020.525 |
+| 64 | Soham Deshmukh | 3,000 |
+| 65 | 张子轩 | 2,985 |
+| 66 | tanghaibao | 2,965 |
+| 67 | Emanuel-Florin Ciobotea | 2,955 |
+| 68 | nick.volynets | 2,855 |
+| 69 | Kuat Kurpenov | 2,845 |
 | 70 | SantaClaus | 2,825 |
 | 71 | Yousef Abdelhady | 2,795 |
 | 72 | antonoof | 2,780 |
-| 73 | NGUYEN PHUNG BAO HUY | 2,750 |
-| 74 | Aditya Majumdar | 2,735.821 |
+| 73 | Aditya Majumdar | 2,775.821 |
+| 74 | NGUYEN PHUNG BAO HUY | 2,750 |
 | 75 | Prem Laknaboina | 2,705 |
-| 76 | Neil Yang | 2,640 |
-| 77 | alfonso.m.hernandez | 2,640 |
-| 78 | Xiao Lei Zhang | 2,611 |
+| 76 | alfonso.m.hernandez | 2,695 |
+| 77 | Neil Yang | 2,640 |
+| 78 | Xiao Lei Zhang | 2,621 |
 | 79 | soumit saha | 2,595 |
-| 80 | anian.ruoss | 2,526.5 |
-| 81 | gokulmk12 | 2,520 |
+| 80 | gokulmk12 | 2,560 |
+| 81 | anian.ruoss | 2,526.5 |
 | 82 | jwu456789 | 2,520 |
 | 83 | Haolun Zhang | 2,510 |
-| 84 | jun pan | 2,480 |
-| 85 | ravivarma patturi | 2,460 |
-| 86 | Linxuan XIE | 2,445 |
-| 87 | Mikael Nurminen | 2,438 |
-| 88 | Mehdi Iranmanesh | 2,435 |
-| 89 | Rocky | 2,430 |
-| 90 | Viktor Makoviichuk | 2,427 |
-| 91 | Mythri Shivakumar | 2,420 |
-| 92 | 1773703527 | 2,412 |
-| 93 | Дмитрий | 2,400 |
-| 94 | Tushar aggarwal | 2,385 |
-| 95 | andreavidals | 2,385 |
-| 96 | Allen Liu | 2,380 |
-| 97 | Maxim Sitnikov | 2,370 |
-| 98 | Garrett Kirk | 2,282.5 |
-| 99 | atoms-iambics.4i | 2,265 |
-| 100 | Márcio Pereira | 2,265 |
+| 84 | briller1 | 2,495 |
+| 85 | jun pan | 2,480 |
+| 86 | ravivarma patturi | 2,460 |
+| 87 | Linxuan XIE | 2,445 |
+| 88 | Mikael Nurminen | 2,438 |
+| 89 | Mehdi Iranmanesh | 2,435 |
+| 90 | Rocky | 2,430 |
+| 91 | Viktor Makoviichuk | 2,427 |
+| 92 | Mythri Shivakumar | 2,420 |
+| 93 | 1773703527 | 2,412 |
+| 94 | andreavidals | 2,410 |
+| 95 | Дмитрий | 2,400 |
+| 96 | Tushar aggarwal | 2,385 |
+| 97 | Allen Liu | 2,380 |
+| 98 | Maxim Sitnikov | 2,370 |
+| 99 | Garrett Kirk | 2,282.5 |
+| 100 | atoms-iambics.4i | 2,265 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
