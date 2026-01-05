@@ -21,69 +21,69 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 <!-- LEADERBOARD_START -->
 | Rank | Username | Score |
 |------|---------|-------|
-| 1 | Patt | 8,150 |
-| 2 | antonoof | 7,780 |
-| 3 | Алексей Панарин | 7,770 |
-| 4 | Александр Крылов | 7,595 |
-| 5 | agercas | 7,265 |
-| 6 | DhanushKumar .R | 7,090 |
-| 7 | arman | 6,995 |
-| 8 | Nikita Bekasov | 6,855 |
+| 1 | Patt | 8,190 |
+| 2 | Алексей Панарин | 7,835 |
+| 3 | antonoof | 7,780 |
+| 4 | Александр Крылов | 7,635 |
+| 5 | agercas | 7,305 |
+| 6 | DhanushKumar .R | 7,130 |
+| 7 | Nikita Bekasov | 7,105 |
+| 8 | arman | 7,035 |
 | 9 | Andy Li | 6,455 |
 | 10 | liu hongyu | 6,260 |
 | 11 | Marco Cheng | 5,475 |
 | 12 | Python | 5,425 |
-| 13 | Shivanirudh | 5,376.425 |
+| 13 | Shivanirudh | 5,416.425 |
 | 14 | ajay gangwar | 5,110 |
 | 15 | StoatScript | 4,920 |
 | 16 | Salim Beyden | 4,873.5 |
-| 17 | katelyng3 | 4,802 |
-| 18 | Vick Mahase | 4,784.407 |
-| 19 | GlaDiaTor | 4,765 |
+| 17 | katelyng3 | 4,842 |
+| 18 | GlaDiaTor | 4,805 |
+| 19 | Vick Mahase | 4,784.407 |
 | 20 | ARINJAY WYAWHARE | 4,645 |
 | 21 | Xiaohua Du | 4,630 |
 | 22 | Nihal Jaiswal | 4,470 |
-| 23 | Андрей Глинский | 4,440 |
-| 24 | Youshaa Murhij | 4,415 |
+| 23 | Youshaa Murhij | 4,455 |
+| 24 | Андрей Глинский | 4,440 |
 | 25 | Asura | 4,360 |
-| 26 | yq lin | 4,305 |
+| 26 | yq lin | 4,345 |
 | 27 | Pavel | 4,305 |
 | 28 | Max | 4,245 |
-| 29 | Stone S | 4,140 |
-| 30 | Naman Raiyani | 4,120 |
-| 31 | Lance | 4,101.5 |
-| 32 | bandwidth | 4,080 |
+| 29 | Lance | 4,141.5 |
+| 30 | Stone S | 4,140 |
+| 31 | Naman Raiyani | 4,120 |
+| 32 | bandwidth | 4,105 |
 | 33 | N R | 3,990 |
-| 34 | Lado Turmanidze (Stochastic Batman) | 3,885 |
-| 35 | Mahdi Farmahini Farahani | 3,840 |
-| 36 | ThorK | 3,825 |
+| 34 | ThorK | 3,890 |
+| 35 | Lado Turmanidze (Stochastic Batman) | 3,885 |
+| 36 | Mahdi Farmahini Farahani | 3,840 |
 | 37 | Bala Baskar | 3,811.05 |
-| 38 | Cher Li | 3,755 |
+| 38 | Cher Li | 3,780 |
 | 39 | Jiongran Wang | 3,755 |
-| 40 | katam madhumitha | 3,709.3 |
-| 41 | AKASH SAMANTA | 3,705 |
-| 42 | hiddenneuron | 3,685 |
-| 43 | Jiarui Cui | 3,675 |
-| 44 | Siva Morgan | 3,670 |
-| 45 | trangstalbergle | 3,661 |
-| 46 | Матвей Чудаков | 3,580 |
-| 47 | shongpapa80 | 3,550 |
-| 48 | Aditya KA | 3,516.87 |
-| 49 | mcbridedmason | 3,442 |
+| 40 | AKASH SAMANTA | 3,705 |
+| 41 | hiddenneuron | 3,685 |
+| 42 | Jiarui Cui | 3,675 |
+| 43 | Siva Morgan | 3,670 |
+| 44 | trangstalbergle | 3,661 |
+| 45 | Матвей Чудаков | 3,580 |
+| 46 | shongpapa80 | 3,550 |
+| 47 | Aditya KA | 3,516.87 |
+| 48 | mcbridedmason | 3,492 |
+| 49 | Lucas F | 3,490 |
 | 50 | Xinyu Li | 3,441 |
 | 51 | Junang Li | 3,440 |
 | 52 | Niels van Galen Last | 3,440 |
-| 53 | Huw Day | 3,375 |
-| 54 | Lucas F | 3,375 |
+| 53 | Huw Day | 3,415 |
+| 54 | katam madhumitha | 3,378 |
 | 55 | Leon Dong | 3,360 |
 | 56 | ZhangJY | 3,350 |
-| 57 | Marian Cretu | 3,295 |
-| 58 | Breeze Chen | 3,280 |
-| 59 | lorenfiorini | 3,270 |
+| 57 | lorenfiorini | 3,310 |
+| 58 | Marian Cretu | 3,295 |
+| 59 | Breeze Chen | 3,280 |
 | 60 | Lea Wron | 3,245 |
 | 61 | Duc Nguyen | 3,195 |
-| 62 | 神价位 | 3,145 |
-| 63 | Aditya Majumdar | 3,020.821 |
+| 62 | 神价位 | 3,185 |
+| 63 | Aditya Majumdar | 3,060.821 |
 | 64 | 1nkik H | 3,020.525 |
 | 65 | Soham Deshmukh | 3,000 |
 | 66 | 张子轩 | 2,985 |
@@ -91,23 +91,23 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 68 | Emanuel-Florin Ciobotea | 2,955 |
 | 69 | nick.volynets | 2,855 |
 | 70 | Kuat Kurpenov | 2,845 |
-| 71 | SantaClaus | 2,825 |
-| 72 | Yousef Abdelhady | 2,795 |
-| 73 | gokulmk12 | 2,790 |
-| 74 | alfonso.m.hernandez | 2,790 |
+| 71 | gokulmk12 | 2,830 |
+| 72 | alfonso.m.hernandez | 2,830 |
+| 73 | SantaClaus | 2,825 |
+| 74 | Yousef Abdelhady | 2,795 |
 | 75 | antonoof | 2,780 |
 | 76 | NGUYEN PHUNG BAO HUY | 2,750 |
 | 77 | Prem Laknaboina | 2,705 |
-| 78 | Xiao Lei Zhang | 2,656 |
+| 78 | Xiao Lei Zhang | 2,666 |
 | 79 | Neil Yang | 2,640 |
 | 80 | briller1 | 2,620 |
 | 81 | soumit saha | 2,595 |
 | 82 | Rocky | 2,560 |
 | 83 | anian.ruoss | 2,526.5 |
 | 84 | jwu456789 | 2,520 |
-| 85 | Haolun Zhang | 2,510 |
-| 86 | jun pan | 2,480 |
-| 87 | andreavidals | 2,465 |
+| 85 | andreavidals | 2,515 |
+| 86 | Haolun Zhang | 2,510 |
+| 87 | jun pan | 2,480 |
 | 88 | ravivarma patturi | 2,460 |
 | 89 | Linxuan XIE | 2,445 |
 | 90 | Mikael Nurminen | 2,438 |
@@ -119,16 +119,16 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 96 | Tushar aggarwal | 2,385 |
 | 97 | Allen Liu | 2,380 |
 | 98 | Maxim Sitnikov | 2,370 |
-| 99 | sosanhejos | 2,285 |
-| 100 | xaivian lee | 2,265.315 |
+| 99 | xaivian lee | 2,305.315 |
+| 100 | sosanhejos | 2,285 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
 
 <!-- BADGES_START -->
 ![DeepML Patt](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Fmain%2Fbadges.json&query=%24.4b6dd077a50c0d50b43cc8120a91ccd7.label&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)
-![DeepML antonoof](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Fmain%2Fbadges.json&query=%24.45f9607a6e1850d180a9c15bb6bbf5b0.label&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)
 ![DeepML Алексей Панарин](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Fmain%2Fbadges.json&query=%24.6595d07951f55074987a3a644705d87a.label&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)
+![DeepML antonoof](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsilvermete0r%2Fdeepml-top%2Fmain%2Fbadges.json&query=%24.45f9607a6e1850d180a9c15bb6bbf5b0.label&prefix=Rank%20&style=for-the-badge&label=%F0%9F%9A%80%20DeepML&color=blue&link=https%3A%2F%2Fwww.deep-ml.com%2Fleaderboard)
 <!-- BADGES_END -->
 
 ## 🎖 Claim Your Badge!  
