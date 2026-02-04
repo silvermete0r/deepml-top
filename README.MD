@@ -21,55 +21,55 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 <!-- LEADERBOARD_START -->
 | Rank | Username | Score |
 |------|---------|-------|
-| 1 | Алексей Панарин | 10,740 |
-| 2 | Patteera Triamamornwooth | 9,650 |
-| 3 | AG | 8,850 |
+| 1 | Алексей Панарин | 10,795 |
+| 2 | Patteera Triamamornwooth | 9,680 |
+| 3 | AG | 8,890 |
 | 4 | Александр Крылов | 8,440 |
-| 5 | DhanushKumar .R | 8,380 |
+| 5 | DhanushKumar .R | 8,420 |
 | 6 | arman | 8,055 |
 | 7 | antonoof | 7,780 |
-| 8 | genomedata | 7,620 |
+| 8 | genomedata | 7,670 |
 | 9 | Nikita Bekasov | 7,450 |
 | 10 | Andy Li | 7,055 |
-| 11 | Shivanirudh | 6,831.425 |
+| 11 | Shivanirudh | 6,886.425 |
 | 12 | liu hongyu | 6,720 |
 | 13 | Vick Mahase | 6,389.407 |
-| 14 | Nihal Jaiswal | 6,280 |
+| 14 | Nihal Jaiswal | 6,320 |
 | 15 | Shashank Tripathi | 6,015 |
-| 16 | Youshaa Murhij | 5,815 |
+| 16 | Youshaa Murhij | 5,870 |
 | 17 | Xiaohua Du | 5,815 |
 | 18 | GlaDiaTor | 5,650 |
 | 19 | katelyng3 | 5,592 |
 | 20 | Marco Cheng | 5,475 |
 | 21 | Python | 5,425 |
-| 22 | Lance | 5,346.5 |
+| 22 | Lance | 5,376.5 |
 | 23 | bandwidth | 5,195 |
 | 24 | ajay gangwar | 5,110 |
 | 25 | StoatScript | 4,920 |
-| 26 | Lucas F | 4,800 |
-| 27 | ThorK | 4,690 |
+| 26 | Lucas F | 4,855 |
+| 27 | ThorK | 4,740 |
 | 28 | ARINJAY WYAWHARE | 4,645 |
-| 29 | Stone S | 4,580 |
-| 30 | Aditya Majumdar | 4,545.821 |
-| 31 | Cher Li | 4,485 |
+| 29 | Aditya Majumdar | 4,600.821 |
+| 30 | Stone S | 4,580 |
+| 31 | Cher Li | 4,535 |
 | 32 | yq lin | 4,455 |
 | 33 | Андрей Глинский | 4,440 |
 | 34 | mcbridedmason | 4,387 |
 | 35 | Asura | 4,360 |
 | 36 | Pavel | 4,305 |
-| 37 | Max | 4,245 |
-| 38 | 神价位 | 4,230 |
+| 37 | 神价位 | 4,285 |
+| 38 | Max | 4,245 |
 | 39 | Naman Raiyani | 4,120 |
-| 40 | Salim Beyden | 4,082 |
-| 41 | Bala Baskar | 4,081.05 |
-| 42 | Huw Day | 4,060 |
-| 43 | lorenfiorini | 4,035 |
+| 40 | lorenfiorini | 4,090 |
+| 41 | Salim Beyden | 4,082 |
+| 42 | Bala Baskar | 4,081.05 |
+| 43 | Huw Day | 4,070 |
 | 44 | N R | 3,990 |
 | 45 | Lado Turmanidze (Stochastic Batman) | 3,885 |
 | 46 | Mahdi Farmahini Farahani | 3,840 |
 | 47 | Xiao Lei Zhang | 3,811 |
-| 48 | Jiongran Wang | 3,755 |
-| 49 | sosanhejos | 3,735 |
+| 48 | sosanhejos | 3,775 |
+| 49 | Jiongran Wang | 3,755 |
 | 50 | AKASH SAMANTA | 3,705 |
 | 51 | hiddenneuron | 3,685 |
 | 52 | Jiarui Cui | 3,675 |
@@ -77,9 +77,9 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 54 | trangstalbergle | 3,661 |
 | 55 | Матвей Чудаков | 3,605 |
 | 56 | gokulmk12 | 3,590 |
-| 57 | shongpapa80 | 3,550 |
-| 58 | Aditya KA | 3,516.87 |
-| 59 | Максим Ситников | 3,475 |
+| 57 | Максим Ситников | 3,550 |
+| 58 | shongpapa80 | 3,550 |
+| 59 | Aditya KA | 3,516.87 |
 | 60 | Xinyu Li | 3,441 |
 | 61 | Junang Li | 3,440 |
 | 62 | Niels van Galen Last | 3,440 |
@@ -87,25 +87,25 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 64 | katam madhumitha | 3,378 |
 | 65 | Leon Dong | 3,360 |
 | 66 | ZhangJY | 3,350 |
-| 67 | Marian Cretu | 3,295 |
-| 68 | Breeze Chen | 3,280 |
-| 69 | Lea Wron | 3,245 |
-| 70 | andreavidals | 3,225 |
+| 67 | andreavidals | 3,300 |
+| 68 | Marian Cretu | 3,295 |
+| 69 | Breeze Chen | 3,280 |
+| 70 | Lea Wron | 3,245 |
 | 71 | alfonso.m.hernandez | 3,195 |
-| 72 | xaivian lee | 3,135.315 |
-| 73 | dacxjo | 3,100 |
+| 72 | xaivian lee | 3,175.315 |
+| 73 | dacxjo | 3,155 |
 | 74 | Soham Deshmukh | 3,000 |
-| 75 | 张子轩 | 2,985 |
-| 76 | Emanuel-Florin Ciobotea | 2,955 |
-| 77 | nick.volynets | 2,855 |
-| 78 | mingxiao huo | 2,848.5 |
-| 79 | SantaClaus | 2,825 |
-| 80 | Yousef Abdelhady | 2,795 |
-| 81 | rituparna praharaj | 2,785 |
-| 82 | antonoof | 2,780 |
-| 83 | NGUYEN PHUNG BAO HUY | 2,750 |
-| 84 | Prem Laknaboina | 2,705 |
-| 85 | weihan | 2,670 |
+| 75 | weihan | 2,995 |
+| 76 | 张子轩 | 2,985 |
+| 77 | Emanuel-Florin Ciobotea | 2,955 |
+| 78 | nick.volynets | 2,855 |
+| 79 | mingxiao huo | 2,848.5 |
+| 80 | SantaClaus | 2,825 |
+| 81 | Yousef Abdelhady | 2,795 |
+| 82 | rituparna praharaj | 2,785 |
+| 83 | antonoof | 2,780 |
+| 84 | NGUYEN PHUNG BAO HUY | 2,750 |
+| 85 | Prem Laknaboina | 2,705 |
 | 86 | Neil Yang | 2,640 |
 | 87 | briller1 | 2,620 |
 | 88 | soumit saha | 2,595 |
