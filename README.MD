@@ -21,59 +21,59 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 <!-- LEADERBOARD_START -->
 | Rank | Username | Score |
 |------|---------|-------|
-| 1 | Алексей Панарин | 12,375 |
-| 2 | Patteera Triamamornwooth | 10,770 |
-| 3 | Haibao Tang | 9,925 |
-| 4 | AG | 9,850 |
-| 5 | Александр Крылов | 9,190 |
-| 6 | DhanushKumar .R | 8,925 |
-| 7 | arman | 8,490 |
-| 8 | Vick Mahase | 8,024.407 |
-| 9 | Shivanirudh | 8,011.425 |
+| 1 | Алексей Панарин | 12,430 |
+| 2 | Patteera Triamamornwooth | 10,825 |
+| 3 | Haibao Tang | 10,155 |
+| 4 | AG | 9,905 |
+| 5 | Александр Крылов | 9,320 |
+| 6 | Vick Mahase | 8,959.407 |
+| 7 | DhanushKumar .R | 8,925 |
+| 8 | arman | 8,490 |
+| 9 | Shivanirudh | 8,066.425 |
 | 10 | antonoof | 7,780 |
 | 11 | Andy Li | 7,055 |
-| 12 | Youshaa Murhij | 6,880 |
+| 12 | Youshaa Murhij | 6,935 |
 | 13 | liu hongyu | 6,720 |
-| 14 | Xiaohua Du | 6,625 |
+| 14 | Xiaohua Du | 6,680 |
 | 15 | Nihal Jaiswal | 6,565 |
-| 16 | Lance | 6,481.5 |
-| 17 | katelyng3 | 6,132 |
+| 16 | Lance | 6,536.5 |
+| 17 | katelyng3 | 6,187 |
 | 18 | GlaDiaTor | 6,070 |
 | 19 | Shashank Tripathi | 6,015 |
 | 20 | Aditya Majumdar | 5,805.821 |
 | 21 | weihan | 5,563 |
-| 22 | Marco Cheng | 5,475 |
-| 23 | Python | 5,425 |
-| 24 | Lucas F | 5,425 |
+| 22 | Lucas F | 5,480 |
+| 23 | Marco Cheng | 5,475 |
+| 24 | Python | 5,425 |
 | 25 | bandwidth | 5,400 |
-| 26 | 神价位 | 5,240 |
-| 27 | Cher Li | 5,190 |
+| 26 | 神价位 | 5,295 |
+| 27 | Cher Li | 5,215 |
 | 28 | mcbridedmason | 5,112 |
 | 29 | ajay gangwar | 5,110 |
 | 30 | StoatScript | 4,920 |
 | 31 | Nikita Bekasov | 4,887.945 |
 | 32 | ThorK | 4,840 |
-| 33 | lorenfiorini | 4,655 |
+| 33 | lorenfiorini | 4,665 |
 | 34 | ARINJAY WYAWHARE | 4,645 |
 | 35 | Stone S | 4,580 |
 | 36 | yq lin | 4,455 |
-| 37 | Максим Ситников | 4,415 |
-| 38 | Huw Day | 4,370 |
+| 37 | Максим Ситников | 4,445 |
+| 38 | Huw Day | 4,380 |
 | 39 | Asura | 4,360 |
 | 40 | Pavel | 4,305 |
-| 41 | Max | 4,245 |
-| 42 | Xiao Lei Zhang | 4,226 |
+| 41 | Xiao Lei Zhang | 4,251 |
+| 42 | Max | 4,245 |
 | 43 | Naman Raiyani | 4,120 |
-| 44 | Salim Beyden | 4,082 |
-| 45 | Bala Baskar | 4,081.05 |
-| 46 | andreavidals | 4,080 |
+| 44 | andreavidals | 4,105 |
+| 45 | Salim Beyden | 4,082 |
+| 46 | Bala Baskar | 4,081.05 |
 | 47 | N R | 3,990 |
 | 48 | Lado Turmanidze (Stochastic Batman) | 3,885 |
 | 49 | sosanhejos | 3,855 |
 | 50 | Mahdi Farmahini Farahani | 3,840 |
-| 51 | Jiongran Wang | 3,755 |
-| 52 | AKASH SAMANTA | 3,705 |
-| 53 | Julian Wyatt | 3,705 |
+| 51 | Julian Wyatt | 3,760 |
+| 52 | Jiongran Wang | 3,755 |
+| 53 | AKASH SAMANTA | 3,705 |
 | 54 | hiddenneuron | 3,685 |
 | 55 | Jiarui Cui | 3,675 |
 | 56 | Siva Morgan | 3,670 |
@@ -95,29 +95,29 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 72 | dacxjo | 3,250 |
 | 73 | Lea Wron | 3,245 |
 | 74 | alfonso.m.hernandez | 3,195 |
-| 75 | Soham Deshmukh | 3,000 |
-| 76 | 张子轩 | 2,985 |
-| 77 | Emanuel-Florin Ciobotea | 2,955 |
-| 78 | Ankit XII C 6773 roll 5 | 2,940 |
-| 79 | lee2487596275 | 2,875 |
-| 80 | briller1 | 2,870 |
+| 75 | briller1 | 3,045 |
+| 76 | Soham Deshmukh | 3,000 |
+| 77 | Ankit XII C 6773 roll 5 | 2,995 |
+| 78 | 张子轩 | 2,985 |
+| 79 | Emanuel-Florin Ciobotea | 2,955 |
+| 80 | lee2487596275 | 2,925 |
 | 81 | nick.volynets | 2,855 |
 | 82 | mingxiao huo | 2,848.5 |
 | 83 | SantaClaus | 2,825 |
-| 84 | Yousef Abdelhady | 2,795 |
-| 85 | rituparna praharaj | 2,785 |
-| 86 | antonoof | 2,780 |
-| 87 | Sayan Ganguly | 2,765 |
+| 84 | Sayan Ganguly | 2,820 |
+| 85 | Yousef Abdelhady | 2,795 |
+| 86 | rituparna praharaj | 2,785 |
+| 87 | antonoof | 2,780 |
 | 88 | NGUYEN PHUNG BAO HUY | 2,750 |
 | 89 | Prem Laknaboina | 2,705 |
-| 90 | Neil Yang | 2,640 |
-| 91 | soumit saha | 2,595 |
-| 92 | breeze breeze | 2,578 |
-| 93 | jun pan | 2,530 |
-| 94 | anian.ruoss | 2,526.5 |
-| 95 | jwu456789 | 2,520 |
-| 96 | Haolun Zhang | 2,510 |
-| 97 | qinyixu1008 | 2,490 |
+| 90 | qinyixu1008 | 2,650 |
+| 91 | Neil Yang | 2,640 |
+| 92 | breeze breeze | 2,633 |
+| 93 | soumit saha | 2,595 |
+| 94 | jun pan | 2,530 |
+| 95 | anian.ruoss | 2,526.5 |
+| 96 | jwu456789 | 2,520 |
+| 97 | Haolun Zhang | 2,510 |
 | 98 | Ewsey Obzherin | 2,475 |
 | 99 | neuralmastery | 2,460 |
 | 100 | Linxuan XIE | 2,445 |
