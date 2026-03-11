@@ -21,49 +21,49 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 <!-- LEADERBOARD_START -->
 | Rank | Username | Score |
 |------|---------|-------|
-| 1 | Vick Mahase | 13,829.407 |
-| 2 | Алексей Панарин | 13,230 |
-| 3 | Patteera Triamamornwooth | 11,200 |
+| 1 | Vick Mahase | 13,889.407 |
+| 2 | Алексей Панарин | 13,480 |
+| 3 | Patteera Triamamornwooth | 11,230 |
 | 4 | HT | 10,610 |
-| 5 | AG | 10,485 |
-| 6 | Stone S | 9,960 |
+| 5 | AG | 10,565 |
+| 6 | Stone S | 10,130 |
 | 7 | Александр Крылов | 9,380 |
 | 8 | DhanushKumar .R | 8,925 |
 | 9 | arman | 8,600 |
 | 10 | Shivanirudh | 8,496.425 |
 | 11 | antonoof | 7,780 |
-| 12 | Youshaa Murhij | 7,260 |
+| 12 | Youshaa Murhij | 7,290 |
 | 13 | Xiaohua Du | 7,170 |
 | 14 | Andy Li | 7,055 |
 | 15 | Lance | 6,886.5 |
 | 16 | liu hongyu | 6,720 |
 | 17 | Nihal Jaiswal | 6,700 |
 | 18 | shongpapa80 | 6,575 |
-| 19 | katelyng3 | 6,402 |
+| 19 | katelyng3 | 6,457 |
 | 20 | GlaDiaTor | 6,245 |
-| 21 | Aditya Majumdar | 6,185.821 |
+| 21 | Aditya Majumdar | 6,240.821 |
 | 22 | Lucas F | 5,900 |
-| 23 | 神价位 | 5,710 |
+| 23 | 神价位 | 5,760 |
 | 24 | weihan | 5,563 |
 | 25 | automorphing | 5,480 |
 | 26 | Marco Cheng | 5,475 |
-| 27 | Cher Li | 5,445 |
+| 27 | Cher Li | 5,470 |
 | 28 | Python | 5,425 |
 | 29 | mcbridedmason | 5,112 |
 | 30 | ajay gangwar | 5,110 |
-| 31 | lorenfiorini | 4,935 |
+| 31 | lorenfiorini | 4,945 |
 | 32 | StoatScript | 4,920 |
 | 33 | ThorK | 4,865 |
-| 34 | Максим Ситников | 4,745 |
+| 34 | Максим Ситников | 4,775 |
 | 35 | ARINJAY WYAWHARE | 4,645 |
-| 36 | Xiao Lei Zhang | 4,526 |
-| 37 | andreavidals | 4,500 |
+| 36 | andreavidals | 4,535 |
+| 37 | Xiao Lei Zhang | 4,526 |
 | 38 | yq lin | 4,455 |
 | 39 | Huw Day | 4,430 |
 | 40 | Asura | 4,360 |
 | 41 | Pavel | 4,305 |
-| 42 | Max | 4,245 |
-| 43 | Julian Wyatt | 4,220 |
+| 42 | Julian Wyatt | 4,260 |
+| 43 | Max | 4,245 |
 | 44 | Naman Raiyani | 4,120 |
 | 45 | Salim Beyden | 4,082 |
 | 46 | Bala Baskar | 4,081.05 |
@@ -71,9 +71,9 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 48 | sosanhejos | 3,935 |
 | 49 | Lado Turmanidze (Stochastic Batman) | 3,885 |
 | 50 | Mahdi Farmahini Farahani | 3,840 |
-| 51 | Jiongran Wang | 3,755 |
-| 52 | AKASH SAMANTA | 3,705 |
-| 53 | Матвей Чудаков | 3,700 |
+| 51 | Матвей Чудаков | 3,805 |
+| 52 | Jiongran Wang | 3,755 |
+| 53 | AKASH SAMANTA | 3,705 |
 | 54 | hiddenneuron | 3,685 |
 | 55 | Jiarui Cui | 3,675 |
 | 56 | Siva Morgan | 3,670 |
@@ -87,40 +87,40 @@ Just try this [silvermete0r.github.io/deepml-top](https://silvermete0r.github.io
 | 64 | Niels van Galen Last | 3,440 |
 | 65 | Duc Nguyen | 3,395 |
 | 66 | katam madhumitha | 3,378 |
-| 67 | Leon Dong | 3,360 |
-| 68 | ZhangJY | 3,350 |
-| 69 | Ankit XII C 6773 roll 5 | 3,345 |
-| 70 | lee2487596275 | 3,325 |
-| 71 | Sayan Ganguly | 3,295 |
-| 72 | Marian Cretu | 3,295 |
-| 73 | Breeze Chen | 3,280 |
-| 74 | dacxjo | 3,250 |
-| 75 | Lea Wron | 3,245 |
-| 76 | alfonso.m.hernandez | 3,195 |
-| 77 | briller1 | 3,170 |
-| 78 | qinyixu1008 | 3,125 |
-| 79 | yeddulareddy24bcs0125 | 3,095 |
+| 67 | Ankit XII C 6773 roll 5 | 3,375 |
+| 68 | lee2487596275 | 3,370 |
+| 69 | Leon Dong | 3,360 |
+| 70 | Sayan Ganguly | 3,350 |
+| 71 | ZhangJY | 3,350 |
+| 72 | yeddulareddy24bcs0125 | 3,310 |
+| 73 | Marian Cretu | 3,295 |
+| 74 | Breeze Chen | 3,280 |
+| 75 | dacxjo | 3,250 |
+| 76 | Lea Wron | 3,245 |
+| 77 | qinyixu1008 | 3,200 |
+| 78 | alfonso.m.hernandez | 3,195 |
+| 79 | briller1 | 3,170 |
 | 80 | suqi_sun | 3,036.572 |
-| 81 | Soham Deshmukh | 3,000 |
-| 82 | 张子轩 | 2,985 |
-| 83 | Emanuel-Florin Ciobotea | 2,955 |
-| 84 | usharma898 | 2,900 |
-| 85 | nick.volynets | 2,895 |
-| 86 | mingxiao huo | 2,848.5 |
-| 87 | SantaClaus | 2,825 |
-| 88 | Aryan Pareek | 2,825 |
+| 81 | usharma898 | 3,025 |
+| 82 | Soham Deshmukh | 3,000 |
+| 83 | 张子轩 | 2,985 |
+| 84 | Emanuel-Florin Ciobotea | 2,955 |
+| 85 | nick.volynets | 2,935 |
+| 86 | Aryan Pareek | 2,875 |
+| 87 | mingxiao huo | 2,848.5 |
+| 88 | SantaClaus | 2,825 |
 | 89 | Yousef Abdelhady | 2,795 |
 | 90 | rituparna praharaj | 2,785 |
 | 91 | antonoof | 2,780 |
-| 92 | NGUYEN PHUNG BAO HUY | 2,750 |
-| 93 | Neil Yang | 2,640 |
-| 94 | Юрий Языков | 2,620 |
-| 95 | Nikita Bekasov | 2,607 |
-| 96 | soumit saha | 2,595 |
-| 97 | yuchentu | 2,570 |
-| 98 | Harshil Aron | 2,560 |
-| 99 | jun pan | 2,530 |
-| 100 | breeze breeze | 2,529 |
+| 92 | 侯博 | 2,760 |
+| 93 | NGUYEN PHUNG BAO HUY | 2,750 |
+| 94 | Юрий Языков | 2,695 |
+| 95 | yuchentu | 2,685 |
+| 96 | Neil Yang | 2,640 |
+| 97 | Nikita Bekasov | 2,607 |
+| 98 | soumit saha | 2,595 |
+| 99 | Harshil Aron | 2,560 |
+| 100 | jun pan | 2,530 |
 <!-- LEADERBOARD_END -->
 
 ## 🏆 Top Performers Badges
