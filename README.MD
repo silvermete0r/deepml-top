@@ -2,6 +2,8 @@
 
 Deep-ML.com is an open-source machine learning challenge platform designed to help users improve their skills in algorithm development and AI applications.  
 
+> **Important:** Automated updates for the daily leaderboard statistics via github-actions were discontinued on March 19. The current leaderboard reflects data as of that date (19th March). The project is currently paused.
+
 ## 📋 About This Project
 
 This project provides a badge generator tool for Deep-ML.com leaderboard participants. It allows users to:
